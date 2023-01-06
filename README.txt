@@ -6,7 +6,3 @@ Dark Slate Blue -- rgb 62, 84, 104
 Grayish Blue    -- rgb 150, 172, 192
 
 Images from: https://unsplash.com
-
-Deploy page with: npm run deploy
-
-Other resources: https://www.rockyourcode.com/deploy-to-github-pages-without-jekyll/
