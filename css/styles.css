@@ -195,6 +195,16 @@ header table {
     transform: scale(1.1);
     cursor: pointer;
 }
+#cfs {
+    width:92vw;
+    padding:6vh 4vw;
+    font-weight:bold;
+}
+#cfs h1 {
+    padding:5px 0px;
+    border-bottom:4px solid rgb(62, 84, 104);
+    width:8%;
+}
 #program {
     width:92vw;
     padding:6vh 4vw;
@@ -376,6 +386,9 @@ button:focus {
     }
     #registration h1 {
         width:20%;
+    }
+    #cfs h1 {
+        width:25%;
     }
     #program h1 {
         width:25%;
