@@ -49,7 +49,7 @@ setTimeout(function(){
       $("#loading").removeClass("animated fadeOut");
       $("#loading").css("display","none");
     },400);
-},1650);
+},1000);
 
 $(document).ready(function(){
     $("a").on('click', function(event) {
