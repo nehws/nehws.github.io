@@ -90,9 +90,9 @@ header table {
 #navigation a {
     color:inherit;
     text-decoration:none;
-    padding:5px 10px;
+    padding:5px 5px;
     border-bottom:2px solid transparent;
-    margin-left:4vw;
+    margin-left:0.5vw;
     transition:0.4s ease-in-out;
 }
 #navigation a:hover{
@@ -205,12 +205,12 @@ header table {
     border-bottom:4px solid rgb(62, 84, 104);
     width:8%;
 }
-#organizers {
+#venue {
     width:92vw;
     padding:6vh 4vw;
     font-weight:bold;
 }
-#organizers h1 {
+#venue h1 {
     padding:5px 0px;
     border-bottom:4px solid rgb(62, 84, 104);
     width:8%;
@@ -380,7 +380,7 @@ button:focus {
     #program h1 {
         width:25%;
     }
-    #organizers h1 {
+    #venue h1 {
         width:25%;
     }
     #contact h1 {

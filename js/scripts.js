@@ -31,7 +31,7 @@ function magnify(imglink){
     $("#magnify").addClass("animated fadeIn");
     setTimeout(function(){
         $("#magnify").removeClass("animated fadeIn");
-    },800);
+    },200);
 }
 
 function closemagnify(){
@@ -40,7 +40,7 @@ function closemagnify(){
         $("#magnify").css("display","none");
         $("#magnify").removeClass("animated fadeOut");
         $("#img_here").css("background",`url('') center center`);
-    },800);
+    },400);
 }
 
 setTimeout(function(){
@@ -48,7 +48,7 @@ setTimeout(function(){
     setTimeout(function(){
       $("#loading").removeClass("animated fadeOut");
       $("#loading").css("display","none");
-    },800);
+    },400);
 },1650);
 
 $(document).ready(function(){
