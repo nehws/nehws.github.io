@@ -37,7 +37,7 @@ header {
     padding:6vh 4vw;
     position:fixed;
     font-weight:bold;
-    background:transparent;
+    background:#fff;
     color:#000;
     transition:0.4s ease-in-out;
     z-index:2;
@@ -82,13 +82,13 @@ header table {
 }
 #logo {
     font-size:24px;
-    color:rgb(62, 84, 104);
+    color:rgb(0, 0, 0);
 }
 #navigation {
     text-align:right;
 }
 #navigation a {
-    color:inherit;
+    color:#000;
     text-decoration:none;
     padding:5px 5px;
     border-bottom:2px solid transparent;
