@@ -250,6 +250,9 @@ header table {
 #organizers table tr td {
     width:50%;
 }
+#organizers .organizer_logos{
+    width: 16%;
+}
 #inner_div table{
     width:100%;
 }
@@ -258,45 +261,6 @@ header table {
 }
 #inner_table tr td{
     padding:10px 20px !important;
-}
-#organizers form {
-    width:100%;
-}
-#organizers form input {
-    width:96%;
-    margin:20px 1%;
-    background:transparent;
-    border:0px;
-    border-bottom:3px solid rgba(62, 84, 104,0.5);
-    padding:8px 10px;
-    font-family: 'Poppins', sans-serif;
-    font-size:18px;
-    transition:0.4s ease-in-out;
-    color:#000;
-    font-weight:bold;
-}
-#organizers form textarea {
-    width:96%;
-    margin:20px 1%;
-    padding:8px 10px;
-    border:0px;
-    border-bottom:3px solid rgba(62, 84, 104,0.5);
-    padding:8px 10px;
-    font-family: 'Poppins', sans-serif;
-    font-size:18px;
-    background:transparent;
-    resize:none;
-    transition:0.4s ease-in-out;
-    color:#000;
-    font-weight:bold;
-}
-#organizers form input:focus {
-    outline:none;
-    border-bottom:3px solid rgba(62, 84, 104,1);
-}
-#organizers form textarea:focus {
-    outline:none;
-    border-bottom:3px solid rgba(62, 84, 104,1);
 }
 #address {
     position:relative;
