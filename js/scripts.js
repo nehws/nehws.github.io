@@ -65,11 +65,41 @@ $(document).ready(function(){
       });
 
 var client = new XMLHttpRequest();
-client.open('GET', '2023/program_table.html');
+//client.open('GET', '2023/program_table.html');
+client.open('GET', '2023/nehws23-program.csv');
 client.onreadystatechange = function() {
-  document.getElementById('program_table_div').innerHTML = client.responseText;
+//  document.getElementById('program_table_div').innerHTML = client.responseText;
+
+    var result = client.responseText;
+
+    //var result = "9:00 — 9:15, Welcome Remarks\n9:15 — 9:30, News from NEHWS Community";
+    var resultArray = [];
+    result.split("\n").forEach(function(row) {
+        var rowArray = [];
+        row.split(",").forEach(function(cell) {
+            rowArray.push(cell);
+        });
+        resultArray.push(rowArray);
+    });
+
+    resultArray.forEach(element => console.log(element));
+
+    var content = "<table id=\"program_table\"><tr><th>Time</th><th>Program Item</th></tr>";
+    resultArray.forEach(function(row) {
+        content += "<tr>";
+        row.forEach(function(cell) {
+            content += "<td>" + cell + "</td>" ;
+        });
+        content += "</tr>";
+    });
+    content += "</table>";
+
+    document.getElementById("program_table_div").innerHTML = content;
+
+    console.log(content);
+
 }
-client.send()
+client.send();
 
   });
 
