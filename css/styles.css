@@ -101,6 +101,7 @@ header table {
 #top_part {
     width:100%;
     border:2vh solid #fff;
+    padding-top:20vh !important;
 }
 #top_part tr td{
     width:50%;
@@ -313,6 +314,7 @@ button:focus {
         display:none;
     }
     #top_part {
+        padding-top:20vh !important;
         border:0px;
     }
     #top_part tr td{
@@ -387,8 +389,10 @@ button:focus {
         display:block;
         text-align:center;
         padding:15px 0px;
+        background:#fff;
     }
     #navigation a {
+	background:#fff;
         color:#000;
     }
 }
