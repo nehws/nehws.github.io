@@ -63,5 +63,13 @@ $(document).ready(function(){
        });
        } 
       });
+
+var client = new XMLHttpRequest();
+client.open('GET', '2023/program_table.html');
+client.onreadystatechange = function() {
+  document.getElementById('program_table_div').innerHTML = client.responseText;
+}
+client.send()
+
   });
-  
+
