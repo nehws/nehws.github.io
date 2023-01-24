@@ -10,7 +10,7 @@ permalink: /
 **April 7th, 2023, Egan Research Center, Boston, MA**
 
 New England Hardware Security (NEHWS) Day workshop brings together
-students, researchers, practitioners, and industry partners in the
+many students, researchers, practitioners, and industry partners in the
 field of hardware security to share their work and foster new ideas.
 
 **Call for Contributions**
