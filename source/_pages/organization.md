@@ -24,7 +24,7 @@ permalink: /organization/
 | Panel Chair	        | Shahin Tajik (WPI)                         |
 | Poster Chair	        | Xiaolin Xu (NEU)                           |
 | Publicity Co-Chairs	| Shahin Tajik (WPI) and Jakub Szefer (Yale) |
-| Web Co-Chairs         | Jakub Szefer (Yale) and Koksal Mus (WPI)   |
+| Web Co-Chairs         | Jakub Szefer (Yale) and Kemal Derya (WPI)   |
 | Local Co-Chairs	| Xiaolin Xu (NEU) and Yunsi Fei (NEU)       |
 | General Chair	        | Patrick Schaumont (WPI)                    |
 

@@ -1,55 +1,8 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2023 Program</title>
-  <meta name="description" content="Speakers">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/speakers/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2023</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://nehws.org/venue">Venue</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <p><strong>Talk title: Wicked Bizarre Semiconductor Physics of Sensor Security</strong></p>
+I"H<p><strong>Talk title: Wicked Bizarre Semiconductor Physics of Sensor Security</strong></p>
 
 <p><strong>Kevin Fu, Northeastern University</strong></p>
 
-<p><img src="../images/kevin-fu.jpg" alt="" style="width: 400px; float: left; margin: 5px" />
+<p><img src="../images/kevin-fu.jpg" alt="" style="width: 450px; float: top; margin: 5px" />
 <strong>Bio:</strong> Kevin Fu is Professor of Electrical and Computer Engineering in the College of Engineering and the Khoury College of Computer Sciences at Northeastern University, where he directs the Archimedes Center for Health Care and Medical Device Cybersecurity. Fu previously served as the nation’s inaugural Acting Director of Medical Device Cybersecurity at U.S. FDA’s Center for Devices and Radiological Health (CDRH) and Program Director for Cybersecurity at the Digital Health Center of Excellence (DHCoE). His research vision is a world where science-based security is built-in by design to all embedded systems: medical devices, healthcare delivery, autonomous transportation, manufacturing, and the Internet of Things. His research lab focuses on analog cybersecurity—how to model and defend against threats to the physics of computation and sensing. Fu is most known for his security research on cryptographic and low-power inventions to defend against vulnerabilities in an implantable cardiac defibrillator. His research led to a decade of revolutionary improvements at medical device manufacturers, global regulators, and international healthcare safety standards bodies. Security solutions resulting from this research foresaw the risks of malicious software affecting hospitals a decade before ransomware began to disrupt clinical workflow worldwide.</p>
 
 <p>Fu has been recognized as an ACM Fellow, IEEE Fellow, Sloan Research Fellow, and MIT Technology Review TR35 Innovator of the Year. He is a recipient of a Feb100 Award and NSF CAREER Award. He received best paper awards from USENIX Security, IEEE Security &amp; Privacy, and ACM SIGCOMM. His research on pacemaker security received an IEEE Security &amp; Privacy Test of Time Award. He co-founded healthcare cybersecurity startup Virta Labs. Fu has testified in the House and Senate and was commissioned by the National Academy of Medicine for a report on trustworthy medical device software. He serves as a member of the Association for the Advancement of Medical Instrumentation (AAMI) Biomedical Instrumentation &amp; Technology Editorial Board, the ACM Committee on Computers and Public Policy, and the USENIX Security Steering Committee. He chairs the USENIX Security Test of Time Awards Selection Committee. He chaired the USENIX Security PC and served as the inaugural co-chair of the AAMI cybersecurity working group to create the first FDA-recognized consensus standards to improve the security of medical device manufacturing. He founded the Archimedes Center for Healthcare and Device Security, and co-founded the N95decon.org team for emergency reuse decontamination of N95 masks during pandemic shortages. Fu served as a member of the U.S. NIST Information Security and Privacy Advisory Board and federal science advisory groups. Fu received his BS, MEng, and PhD from MIT. He earned a certificate of artisanal bread making from the French Culinary Institute, builds wood-fired brick ovens, and enjoys woodworking.</p>
@@ -58,39 +11,10 @@
 
 <p><strong>Ran Canetti, Boston University</strong></p>
 
-<p><img src="../images/ran-canetti.jpg" alt="" style="width: 200px; float: left; margin: 5px" />
+<p><img src="../images/ran-canetti.jpg" alt="" style="width: 250px; float: top; margin: 5px" />
 <strong>Bio:</strong> Ran Canetti is a professor of Computer Science at Boston University and the director of the center for Reliable Information System and Cyber Security. He is also a Fellow of the International Association for Cryptologic Research and an associate editor of the Journal of Cryptology and Information and Computation. Canetti graduated from the Weizmann Institute of Science, was a researcher at IBM Watson Research Center, a research scientist at MIT and a professor at Tel Aviv University. Canetti’s research interests span multiple aspects of cryptography and information security, with emphasis on the design, analysis and use of cryptographic protocols.</p>
 
 <p><br />
 <br /></p>
 
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2023 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-
-
-  </body>
-
-</html>
+:ET
