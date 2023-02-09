@@ -1,4 +1,4 @@
-I"<p><img src="images/nehwslogo.png" alt="" style="width: 150px; float: center; margin: 5px" />
+I"H<p><img src="images/nehwslogo.png" alt="" style="width: 150px; float: center; margin: 5px" />
 <strong>April 7th, 2023, Egan Research Center, Boston, MA</strong></p>
 
 <p>New England Hardware Security (NEHWS) Day workshop brings together
@@ -26,6 +26,14 @@ security.</p>
   <li>Questions? Contact the NEHWS organizers at <a href="mailto:contact@nehws.org">contact@nehws.org</a></li>
   <li><a href="images/nehws23-call-for-sponsors.pdf">Download the flyer</a></li>
 </ul>
+
+<p><strong>NEHWS enjoys the support of the following organizations</strong></p>
+
+<figure class="fourth">
+  <p><img src="images/logo_nsf.png" style="width: 80px" />
+  <img src="images/logo_masstech.png" style="width: 80px" />
+  <img src="images/logo_mitre.png" style="width: 80px" /></p>
+</figure>
 
 <p><strong>NEHWS is driven by the hardware security research community at these universities</strong></p>
 
