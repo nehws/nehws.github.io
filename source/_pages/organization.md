@@ -32,4 +32,14 @@ permalink: /organization/
 
 **NEHWS 23 Program Committee**
 
-To be announced
+| Orlando Arias (UMass Lowell) |
+| Joe Chapman (MITRE)          |
+| Yarkin Doroz (WPI)           |
+| Yunsi Fei (NEU)              |
+| Sandhya Koteshwara (IBM)     |
+| Patrick Schaumont (WPI)      |
+| Dean Sullivan (NHU)          |
+| Jakub Szefer (Yale)          |
+| Shahin Tajik (WPI)           |
+| Mengjia Yan (MIT)            |
+| Qiaoyan Yu (NHU)             |
