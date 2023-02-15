@@ -7,7 +7,7 @@ permalink: /speakers/
 ---
 
 ## Kevin Fu
-Northeastern University
+**Northeastern University**
 
 **Talk title: Wicked Bizarre Semiconductor Physics of Sensor Security**
 
@@ -60,7 +60,7 @@ a certificate of artisanal bread making from the French Culinary
 Institute, builds wood-fired brick ovens, and enjoys woodworking.
 
 ## Ran Canetti
-Boston University
+**Boston University**
 
 **Talk title: TBD**
 
@@ -83,9 +83,11 @@ cryptographic protocols.
 <BR>
 <BR>
 <BR>
+<BR>
+<BR>
 
 ## Lei Poo
-Analog Devices Inc
+**Analog Devices Inc**
 
 ![](../images/lei-poo.jpg){: style="width: 200px; float: left; margin:
 5px"} **Bio:** Lei Poo is Director of Systems Architecture and part of
