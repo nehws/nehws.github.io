@@ -11,7 +11,7 @@ permalink: /speakers/
 
 **Talk title: Wicked Bizarre Semiconductor Physics of Sensor Security**
 
-![](../images/kevin-fu.jpg){: style="width: 400px; float: left;
+![](../images/kevin-fu.jpg){: style="width: 200px; float: left;
 margin: 5px"} **Bio:** Kevin Fu is Professor of Electrical and
 Computer Engineering in the College of Engineering and the Khoury
 College of Computer Sciences at Northeastern University, where he
