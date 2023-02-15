@@ -77,6 +77,13 @@ interests span multiple aspects of cryptography and information
 security, with emphasis on the design, analysis and use of
 cryptographic protocols.
 
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
 ## Lei Poo
 Analog Devices Inc
 
@@ -97,8 +104,6 @@ the areas of HW embedded security and algorithms. She is a mom of 2,
 loves outdoor activities like skiing, but is absolutely afraid of the
 cold!
 
-<BR>
-<BR>
 
 
 
