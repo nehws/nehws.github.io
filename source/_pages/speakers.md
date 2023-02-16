@@ -132,4 +132,20 @@ Science with a focus on machine learning for security applications from Tufts
 University; and his B.S.E. in Computer Engineering, B.S.E. in Electrical 
 Engineering, and B.S.E. in Mathematics from the University of Michigan.
 
+## Sandhya Koteshwara
+**IBM**
+
+![](../images/sandhya-koteshwara.jpg){: style="width: 250px; float: left; margin:
+5px"} **Bio:** Dr. Sandhya Koteshwara is a Staff Research Scientist at IBM T.J. 
+Watson Research Center in Yorktown Heights, New York. Her research interests 
+include hardware security, cryptographic hardware, secure cloud infrastructure 
+and embedded systems security. She is currently working in the cloud 
+infrastructure department towards bringing principles of zero trust to the cloud. 
+She leads the efforts on platform firmware resiliency and Root of Trust for cloud 
+server architectures. Dr. Koteshwara graduated from the University of Minnesota 
+with a doctorate degree in Electrical and Computer Engineering in 2018. Her 
+thesis work focused on hardware obfuscation, authenticated encryption and 
+low-energy machine learning hardware. She has authored several papers and 
+patents and has been selected as a Young Researcher at Heidelberg Laureate 
+Forum 2018 and participant of the Rising Stars in EECS 2017.
 
