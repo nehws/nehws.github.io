@@ -106,6 +106,30 @@ the areas of HW embedded security and algorithms. She is a mom of 2,
 loves outdoor activities like skiing, but is absolutely afraid of the
 cold!
 
+<BR>
+<BR>
+<BR>
+<BR>
 
+## Dan Walters
+**The MITRE Corporation**
+
+![](../images/dan-walters.png){: style="width: 250px; float: left; margin:
+5px"} **Bio:** Dan Walters is a Senior Principal Embedded Security Engineer 
+and Microelectronics Solution Lead in the MITRE Labs department for 
+Electronics System Development and Embedded Security. Walters is leading 
+MITRE’s Microelectronics Horizon Strategy which aims to help stabilize and 
+secure the microelectronics supply chain while positioning the US to lead 
+development of new architectures and manufacturing technologies. Walters 
+previously helped to develop MITRE’s Secure Electronics Lab, which has 
+advanced capabilities for researching implementation security issues such 
+as side-channel leakage, fault induction, and trusted hardware. He has led 
+several research projects for developing tools and techniques to evaluate 
+embedded systems for vulnerabilities. Walters is also a part-time lecturer 
+at the University of Massachusetts-Amherst where he teaches embedded 
+security topics at the graduate level. Walters received his M.S. in Computer 
+Science with a focus on machine learning for security applications from Tufts 
+University; and his B.S.E. in Computer Engineering, B.S.E. in Electrical 
+Engineering, and B.S.E. in Mathematics from the University of Michigan.
 
 

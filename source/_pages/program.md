@@ -20,7 +20,7 @@ permalink: /program/
 |                        | Moderator: Shahin Tajik (WPI)                                                     |
 |                        | Panelists:                                                                             |
 |                        | - [Lei Poo]({{ site.baseurl }}/speakers/index.html#lei-poo) (Analog Devices)  |
-|                        | - Dan Walters (MITRE)                                                       |
+|                        | - [Dan Walters]({{ site.baseurl }}/speakers/index.html#dan-walters) (MITRE)                                                       |
 |                        | - Hamed Okrhavi (MIT Lincoln Lab)                                           |
 |                        | - Sandhya Koteshwara (IBM)                                                  |
 |                        | - Sina Shahbazmohammadi (University of Connecticut)                         |
