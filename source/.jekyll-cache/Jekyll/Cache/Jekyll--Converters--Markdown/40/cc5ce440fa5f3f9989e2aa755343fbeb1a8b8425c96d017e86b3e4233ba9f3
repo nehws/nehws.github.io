@@ -1,50 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2023 Program</title>
-  <meta name="description" content="Speakers">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/speakers/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2023</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://nehws.org/venue">Venue</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <h2 id="kevin-fu">Kevin Fu</h2>
+I"§'<h2 id="kevin-fu">Kevin Fu</h2>
 <p><strong>Northeastern University</strong></p>
 
 <p><strong>Talk title: Wicked Bizarre Semiconductor Physics of Sensor Security</strong></p>
@@ -193,7 +147,7 @@ Forum 2018 and participant of the Rising Stars in EECS 2017.</p>
 <h2 id="hamed-okhravi">Hamed Okhravi</h2>
 <p><strong>MIT Lincoln Lab</strong></p>
 
-<p><img src="../images/hamed-okhravi.jpg" alt="" style="width: 250px; float: left; margin:
+<p><img src="../images/hamed-okhravi.jpg" alt="" style="width: 200px; float: left; margin:
 5px" /> <strong>Bio:</strong> Dr. Hamed Okhravi is a Senior Staff member at MIT Lincoln 
 Laboratory, where he leads programs and conducts research in the area of 
 systems security. He is the recipient of two Best Paper Awards (NDSSâ€™22 
@@ -222,35 +176,4 @@ cybersecurity, science of security, security evaluation, and operating
 systems. Dr. Okhravi earned his MS and PhD degrees in electrical and 
 computer engineering from University of Illinois at Urbana-Champaign in 
 2006 and 2010, respectively.</p>
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2023 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://nehws.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET

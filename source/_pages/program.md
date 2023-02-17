@@ -21,7 +21,7 @@ permalink: /program/
 |                        | Panelists:                                                                             |
 |                        | - [Lei Poo]({{ site.baseurl }}/speakers/index.html#lei-poo) (Analog Devices)  |
 |                        | - [Dan Walters]({{ site.baseurl }}/speakers/index.html#dan-walters) (MITRE)                                                       |
-|                        | - Hamed Okrhavi (MIT Lincoln Lab)                                           |
+|                        | - [Hamed Okhravi]({{ site.baseurl }}/speakers/index.html#hamed-okhravi) (MIT Lincoln Lab)                                           |
 |                        | - [Sandhya Koteshwara]({{ site.baseurl }}/speakers/index.html#sandhya-koteshwara) (IBM)                                                  |
 |                        | - Sina Shahbazmohammadi (University of Connecticut)                         |
 | **2:30 - 3:30**        | Invited Keynote: [Ran Canetti]({{ site.baseurl }}/speakers/index.html#ran-canetti)   |

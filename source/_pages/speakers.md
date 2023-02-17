@@ -109,10 +109,9 @@ cold!
 <BR>
 <BR>
 <BR>
-<BR>
 
 ## Dan Walters
-**The MITRE Corporation**
+**MITRE**
 
 ![](../images/dan-walters.png){: style="width: 250px; float: left; margin:
 5px"} **Bio:** Dan Walters is a Senior Principal Embedded Security Engineer 
@@ -149,3 +148,39 @@ low-energy machine learning hardware. She has authored several papers and
 patents and has been selected as a Young Researcher at Heidelberg Laureate 
 Forum 2018 and participant of the Rising Stars in EECS 2017.
 
+<BR>
+<BR>
+<BR>
+
+## Hamed Okhravi 
+**MIT Lincoln Lab**
+
+![](../images/hamed-okhravi.jpg){: style="width: 250px; float: left; margin:
+5px"} **Bio:** Dr. Hamed Okhravi is a Senior Staff member at MIT Lincoln 
+Laboratory, where he leads programs and conducts research in the area of 
+systems security. He is the recipient of two Best Paper Awards (NDSS’22 
+and RTSS’21), three R&D 100 Awards (2022, 2020, and 2018), the Stratus 
+Award for Cloud Computing (2020), MIT Lincoln Laboratory's Best Invention 
+Award (2019), Team Award (2015), National Security Agency's Annual Best 
+Scientific Cybersecurity Paper Award (2015), and MIT Lincoln Laboratory's 
+Early Career Technical Achievement Award (2014) for his work in computer 
+security. He is an Associate Editor of the IEEE Security & Privacy journal. 
+He has also served three times as the Program Chair of the ACM Moving 
+Target Defense (MTD) workshop, the Poster Chair of the IEEE Secure 
+Development Conference, and on the Organizing Committee of ACSAC. 
+In addition, he has served as a program committee member for a number 
+of top-tier academic conferences and workshops including IEEE Security 
+and Privacy, USENIX Security, ACM CCS, NDSS, RAID, ACM AsiaCCS, 
+DAC, ICCAD, and IEEE SecDev, among others. He has also served on 
+the National Science Foundation's Panel for the Secure and Trustworthy 
+Cyberspace (SaTC) program. Dr. Okhravi actively contributes to various 
+national, Laboratory, and division-level strategic planning activities, and 
+has led the development of multiple national-level R&D roadmaps. He is 
+a member of DARPA ISAT and serves as the current chair of the DARPA 
+ISAT study on Secure System Design. He has also led the development 
+of multiple systems security technologies that have successfully transitioned 
+outside and inside Lincoln Laboratory. His research interests include 
+cybersecurity, science of security, security evaluation, and operating 
+systems. Dr. Okhravi earned his MS and PhD degrees in electrical and 
+computer engineering from University of Illinois at Urbana-Champaign in 
+2006 and 2010, respectively.
