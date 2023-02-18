@@ -11,7 +11,7 @@ permalink: /archive/
 The second NEHWS was organized on 1 April, 2022 at the Unversity of Masschusetts in Amherst.
 
 
-| Time                   | Topic                                                                                  |
+| Presentation Slot      | Topic                                                                                  |
 | ---------------------- | -------------------------------------------------------------------------------------- |
 | **9:30 - 9:35**        | Welcome Remarks (Dan Holcomb)                                                          |
 | **9:35 - 10:30**       | News from the NEHWS Community                                                          |
