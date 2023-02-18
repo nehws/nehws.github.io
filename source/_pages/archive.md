@@ -6,7 +6,7 @@ sitemap: false
 permalink: /archive/
 ---
 
-<img src="images/nehws22.jpg" style="width: 250px">
+<img src="../images/nehws22.jpg" style="width: 250px">
 
 **NEHWS 2022 @ University of Massachusetts, Amherst**
 
@@ -42,7 +42,7 @@ The second NEHWS was organized on 1 April, 2022 at the Unversity of Masschusetts
 |                        | - **Ingrid Verbauwhede** (KUL) |
 | **4:30 - 5:00**        | Networking and Closing |
 
-<img src="images/nehws21.jpg" style="width: 250px">
+<img src="../images/nehws21.jpg" style="width: 250px">
 
 **NEHWS 2021 @ Virtual**
 
