@@ -31,14 +31,6 @@ security.
 * Questions? Contact the NEHWS organizers at [contact@nehws.org](mailto:contact@nehws.org)
 * [Download the flyer](images/nehws23-call-for-sponsors.pdf)
 
-**NEHWS enjoys the support of the following organizations**
-
-<figure class="fourth">
-  <img src="images/logo_nsf.png" style="width: 100px">
-  <img src="images/logo_masstech.png" style="width: 100px">
-  <img src="images/logo_mitre.png" style="width: 100px">
-</figure>
-
 **NEHWS is driven by the hardware security research community at these universities**
 
 <figure class="fourth">
