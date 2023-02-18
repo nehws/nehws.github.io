@@ -8,7 +8,7 @@ permalink: /program/
 
 
 
-| Time                   | Topic                                                                                  |
+| Presentation Topic     |                                                                                        |
 | ---------------------- | -------------------------------------------------------------------------------------- |
 | **9:00 - 9:15**        | Welcome Remarks                                                                        |
 | **9:15 - 9:30**        | News from the NEHWS Community                                                          |
