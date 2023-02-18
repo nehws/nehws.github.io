@@ -105,7 +105,7 @@ The first NEHWS was organized on 9 April, 2021 as a Virtual Conference
 | Presentation Topic     |                                                                                        |
 | ---------------------- | -------------------------------------------------------------------------------------- |
 | **10:00 - 10:05**      | Welcome Remarks                                                                        |
-| **10:05 - 11:00**      | Invited Keynote: ** Wajdi Feghali** (Intel) |
+| **10:05 - 11:00**      | Invited Keynote: **Wajdi Feghali** (Intel) |
 | **11:00 - 11:30**      | Community Introduction                      |
 |                        | - Worcester Polytechnic Institute |
 |                        | - University of Massachusetts at Amherst |
