@@ -6,6 +6,8 @@ sitemap: false
 permalink: /venue/
 ---
 
+### **Venue** ###
+
 **NEHWS 23 will take place at Northeastern Univesity in the Egan
   Research Center in Boston, MA**
 

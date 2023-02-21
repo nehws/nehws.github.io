@@ -6,6 +6,8 @@ sitemap: false
 permalink: /organization/
 ---
 
+### **Organization** ###
+
 **NEHWS is driven by the hardware security research community at these universities**
 
 <figure class="fourth">

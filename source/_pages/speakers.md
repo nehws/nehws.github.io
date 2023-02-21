@@ -6,7 +6,7 @@ sitemap: false
 permalink: /speakers/
 ---
 
-## Kevin Fu
+### **Kevin Fu** ###
 **Northeastern University**
 
 **Talk title: Wicked Bizarre Semiconductor Physics of Sensor Security**
@@ -59,7 +59,7 @@ advisory groups. Fu received his BS, MEng, and PhD from MIT. He earned
 a certificate of artisanal bread making from the French Culinary
 Institute, builds wood-fired brick ovens, and enjoys woodworking.
 
-## Ran Canetti
+### **Ran Canetti** ###
 **Boston University**
 
 **Talk title: TBD**
@@ -86,7 +86,7 @@ cryptographic protocols.
 <BR>
 <BR>
 
-## Lei Poo
+### **Lei Poo** ###
 **Analog Devices Inc**
 
 ![](../images/lei-poo.jpg){: style="width: 200px; float: left; margin:
@@ -110,7 +110,7 @@ cold!
 <BR>
 <BR>
 
-## Dan Walters
+### **Dan Walters** ###
 **MITRE**
 
 ![](../images/dan-walters.png){: style="width: 250px; float: left; margin:
@@ -131,7 +131,7 @@ Science with a focus on machine learning for security applications from Tufts
 University; and his B.S.E. in Computer Engineering, B.S.E. in Electrical 
 Engineering, and B.S.E. in Mathematics from the University of Michigan.
 
-## Sandhya Koteshwara
+### **Sandhya Koteshwara** ###
 **IBM**
 
 ![](../images/sandhya-koteshwara.jpg){: style="width: 250px; float: left; margin:
@@ -152,7 +152,7 @@ Forum 2018 and participant of the Rising Stars in EECS 2017.
 <BR>
 <BR>
 
-## Hamed Okhravi 
+### **Hamed Okhravi** ###
 **MIT Lincoln Lab**
 
 ![](../images/hamed-okhravi.jpg){: style="width: 250px; float: left; margin:
