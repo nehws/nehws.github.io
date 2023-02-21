@@ -9,7 +9,7 @@ permalink: /archive/
 * [NEHWS 2022](#nehws-2022--university-of-massachusetts-amherst), 4/1/2022, University of Massachusetts, Amherst
 * [NEHWS 2021](#nehws-2021--virtual), 4/9/2021, Virtual
 
-## NEHWS 2022 @ University of Massachusetts, Amherst ##
+### NEHWS 2022 @ University of Massachusetts, Amherst ###
 
 <p style="text-align:center"><img src="../images/nehws22.jpg" style="width: 350px"></p>
 
@@ -96,7 +96,7 @@ The second NEHWS was organized on 1 April, 2022 at the Unversity of Masschusetts
 - *Signature Correction Attack on Dilithium Signature Scheme*, Saad Islam, Koksal Mus, Richa Singh, Patrick Schaumont and Berk Sunar
 
 
-## NEHWS 2021 @ Virtual ##
+### NEHWS 2021 @ Virtual ###
 
 <p style="text-align:center"><img src="../images/nehws21.jpg" style="width: 350px"></p>
 
