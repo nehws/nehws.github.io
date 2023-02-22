@@ -23,7 +23,7 @@ permalink: /program/
 |                        | - [Dan Walters]({{ site.baseurl }}/speakers/index.html#dan-walters) (MITRE)                                                       |
 |                        | - [Hamed Okhravi]({{ site.baseurl }}/speakers/index.html#hamed-okhravi) (MIT Lincoln Lab)                                           |
 |                        | - [Sandhya Koteshwara]({{ site.baseurl }}/speakers/index.html#sandhya-koteshwara) (IBM)                                                  |
-|                        | - Sina Shahbazmohammadi (University of Connecticut)                         |
+|                        | - [Sina Shahbazmohamadi]({{ site.baseurl }}/speakers/index.html#sina-shahbazmohamadi) (University of Connecticut)                         |
 | **2:30 - 3:30**        | Invited Keynote: [Ran Canetti]({{ site.baseurl }}/speakers/index.html#ran-canetti)   |
 | **3:30 - 3:45**        | Break                                                                                  |
 | **3:45 - 4:45**        | Submitted Talks Session II                                                             |

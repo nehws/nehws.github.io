@@ -184,3 +184,18 @@ cybersecurity, science of security, security evaluation, and operating
 systems. Dr. Okhravi earned his MS and PhD degrees in electrical and 
 computer engineering from University of Illinois at Urbana-Champaign in 
 2006 and 2010, respectively.
+
+### **Sina Shahbazmohamadi** ###
+**University of Connecticut**
+
+![](../images/sina-shahbazmohamadi.jpg){: style="width: 225px; float: left; margin:
+5px"} **Bio:** Dr. Sina Shahbazmohamadi is an assistant professor at University of 
+Connecticut with joint appointments at departments of Mechanical and 
+Biomedical Engineering and institute of material science. He is the founder 
+and director of Reverse Engineering, Fabrication, Inspection and Non-destructive 
+Evaluation (REFINE) which houses state-of-the-art high resolution high 
+throughput imaging capabilities to address key challenges in Microelectronics 
+Reliability, Hardware security assessment and Counterfeit Electronics 
+Detection and prevention. REFINE center is currently collaborating with 
+more than 44 entities in industry and government to address next generation 
+challenges of semiconductor industry.

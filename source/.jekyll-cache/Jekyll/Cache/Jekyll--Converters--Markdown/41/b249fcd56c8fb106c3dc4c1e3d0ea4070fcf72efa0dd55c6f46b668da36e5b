@@ -1,8 +1,10 @@
-I"�<table>
+I""	<h3 id="program"><strong>Program</strong></h3>
+
+<table>
   <thead>
     <tr>
-      <th>Time</th>
-      <th>Topic</th>
+      <th>Presentation Topic</th>
+      <th> </th>
     </tr>
   </thead>
   <tbody>
@@ -60,7 +62,7 @@
     </tr>
     <tr>
       <td> </td>
-      <td>- Sina Shahbazmohammadi (University of Connecticut)</td>
+      <td>- <a href="/speakers/index.html#sina-shahbazmohamadi">Sina Shahbazmohamadi</a> (University of Connecticut)</td>
     </tr>
     <tr>
       <td><strong>2:30 - 3:30</strong></td>

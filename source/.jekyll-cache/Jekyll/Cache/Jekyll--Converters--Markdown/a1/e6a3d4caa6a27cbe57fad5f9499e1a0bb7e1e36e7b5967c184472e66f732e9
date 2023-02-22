@@ -1,4 +1,4 @@
-I"—'<h2 id="kevin-fu">Kevin Fu</h2>
+I"Â+<h3 id="kevin-fu"><strong>Kevin Fu</strong></h3>
 <p><strong>Northeastern University</strong></p>
 
 <p><strong>Talk title: Wicked Bizarre Semiconductor Physics of Sensor Security</strong></p>
@@ -51,7 +51,7 @@ advisory groups. Fu received his BS, MEng, and PhD from MIT. He earned
 a certificate of artisanal bread making from the French Culinary
 Institute, builds wood-fired brick ovens, and enjoys woodworking.</p>
 
-<h2 id="ran-canetti">Ran Canetti</h2>
+<h3 id="ran-canetti"><strong>Ran Canetti</strong></h3>
 <p><strong>Boston University</strong></p>
 
 <p><strong>Talk title: TBD</strong></p>
@@ -78,7 +78,7 @@ cryptographic protocols.</p>
 <br />
 <br /></p>
 
-<h2 id="lei-poo">Lei Poo</h2>
+<h3 id="lei-poo"><strong>Lei Poo</strong></h3>
 <p><strong>Analog Devices Inc</strong></p>
 
 <p><img src="../images/lei-poo.jpg" alt="" style="width: 200px; float: left; margin:
@@ -102,7 +102,7 @@ cold!</p>
 <br />
 <br /></p>
 
-<h2 id="dan-walters">Dan Walters</h2>
+<h3 id="dan-walters"><strong>Dan Walters</strong></h3>
 <p><strong>MITRE</strong></p>
 
 <p><img src="../images/dan-walters.png" alt="" style="width: 250px; float: left; margin:
@@ -123,7 +123,7 @@ Science with a focus on machine learning for security applications from Tufts
 University; and his B.S.E. in Computer Engineering, B.S.E. in Electrical 
 Engineering, and B.S.E. in Mathematics from the University of Michigan.</p>
 
-<h2 id="sandhya-koteshwara">Sandhya Koteshwara</h2>
+<h3 id="sandhya-koteshwara"><strong>Sandhya Koteshwara</strong></h3>
 <p><strong>IBM</strong></p>
 
 <p><img src="../images/sandhya-koteshwara.jpg" alt="" style="width: 250px; float: left; margin:
@@ -144,7 +144,7 @@ Forum 2018 and participant of the Rising Stars in EECS 2017.</p>
 <br />
 <br /></p>
 
-<h2 id="hamed-okhravi">Hamed Okhravi</h2>
+<h3 id="hamed-okhravi"><strong>Hamed Okhravi</strong></h3>
 <p><strong>MIT Lincoln Lab</strong></p>
 
 <p><img src="../images/hamed-okhravi.jpg" alt="" style="width: 250px; float: left; margin:
@@ -176,4 +176,19 @@ cybersecurity, science of security, security evaluation, and operating
 systems. Dr. Okhravi earned his MS and PhD degrees in electrical and 
 computer engineering from University of Illinois at Urbana-Champaign in 
 2006 and 2010, respectively.</p>
+
+<h3 id="sina-shahbazmohamadi"><strong>Sina Shahbazmohamadi</strong></h3>
+<p><strong>University of Connecticut</strong></p>
+
+<p><img src="../images/sina-shahbazmohamadi.jpg" alt="" style="width: 250px; float: left; margin:
+5px" /> <strong>Bio:</strong> Dr. Sina Shahbazmohamadi is an assistant professor at University of 
+Connecticut with joint appointments at departments of Mechanical and 
+Biomedical Engineering and institute of material science. He is the founder 
+and director of Reverse Engineering, Fabrication, Inspection and Non-destructive 
+Evaluation (REFINE) which houses state-of-the-art high resolution high 
+throughput imaging capabilities to address key challenges in Microelectronics 
+Reliability, Hardware security assessment and Counterfeit Electronics 
+Detection and prevention. REFINE center is currently collaborating with 
+more than 44 entities in industry and government to address next generation 
+challenges of semiconductor industry.</p>
 :ET
