@@ -1,6 +1,6 @@
 ---
 title: "NEHWS 2023 Program"
-layout: textlay
+layout: orglay
 excerpt: "Organization"
 sitemap: false
 permalink: /organization/
