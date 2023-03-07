@@ -36,4 +36,4 @@ permalink: /program/
 |							   | - Interaction between hardware security and other domains, e.g., AI and ML, biomedical, advanced packaging, etc. |
 |							   | - Education and training in HW security |
 | **4:45 - 5:00**        | Best Poster Award and Closing Remarks                                                  |
-| **5:00 - 6:00**        | Networking Reception sponsored by Draper                                               |
+| **5:00 - 6:00**        | Networking reception sponsored by [Draper](https://www.draper.com/)                    |
