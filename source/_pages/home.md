@@ -17,6 +17,7 @@ field of hardware security to share their work and foster new ideas.
 
 Please consider submitting your work for presentation at NEHWS 2023.
 We are looking for announcements, research talks, and posters.
+The submission deadline is **March 28, 2023**.
 
 * Submit your contribution at the [NEHWS23 submission site](https://easychair.org/conferences/?conf=nehws23)
 * [Download the call](images/nehws23-call-for-contributions.pdf)
