@@ -62,20 +62,45 @@ Institute, builds wood-fired brick ovens, and enjoys woodworking.
 ### **Ran Canetti** ###
 **Boston University**
 
-**Talk title: TBD**
+**Talk title: From NAND to SCOTUS**
+
+**Abstract:** When can we trust the result of a computation? What 
+guarantees do we need to have about the physical system that performed 
+the computation? about the algorithms used? about the data used and 
+its provenance? What aspects of the computation need further scrutiny 
+and what can be taken for granted? What conclusions can be legitimately 
+drawn from  the computation and its result and what conclusions would be 
+unfounded or even reckless?
+
+Given the increasingly critical role of data and computation in our society, 
+such questions are routinely asked  ---  and need to be answered  ---  by courts, 
+policymakers, journalists, and practically everyone. Yet, the computing community (industry and academia alike) 
+is surpisingly ill-equipped to provide meaningful answers to these questions. 
+The problem is made worse by  the immensely complex and multi-layered 
+nature of modern computing systems, by communication barriers across 
+disciplines, and finally  by social  misconceptions and legal 
+doctrines that make it hard to pursue meaningful answers to trustworthiness 
+questions, even when such questions are pertinent and critical. Following an attempt 
+to frame the problem and challenge the computing community to address it head on, 
+I will describe some attempts at addressing this challenge in specific contexts: 
+Bluetooth-based proximity detection, using zero-knowledge proofs to reconcile 
+defendant rights to scrutinize evidence with law enforcement priviledge, 
+making the Apple CSAM detection protocol publicly verifiable.
 
 ![](../images/ran-canetti.jpg){: style="width: 200px; float: left;
-margin: 5px"} **Bio:** Ran Canetti is a professor of Computer Science
+margin: 5px"} **Bio:** Ran Canetti is the Wang professor of Computer Science
 at Boston University and the director of the center for Reliable
-Information System and Cyber Security. He is also a Fellow of the
-International Association for Cryptologic Research and an associate
-editor of the Journal of Cryptology and Information and
-Computation. Canetti graduated from the Weizmann Institute of Science,
+Information System and Cyber Security. He is a Fellow of the 
+Association for Computing Machinery and the International Association 
+for Cryptologic Research, and an incumbent of the RSA 
+Award in Mathematics. Canetti graduated from the Weizmann Institute of Science,
 was a researcher at IBM Watson Research Center, a research scientist
-at MIT and a professor at Tel Aviv University. Canetti’s research
-interests span multiple aspects of cryptography and information
-security, with emphasis on the design, analysis and use of
-cryptographic protocols.
+at MIT and a professor at Tel Aviv University. Canetti’s research interests 
+lie primarily in  cryptography and information security, with emphasis 
+on the design, analysis and use of cryptographic algorithms and 
+protocols. Recently he has been studying ways for the co-design 
+of algorithms, law, and policy so as to provide sound foundations 
+for society in the information age. 
 
 <BR>
 <BR>
