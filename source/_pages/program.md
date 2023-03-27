@@ -19,7 +19,7 @@ permalink: /program/
 | 						         | - Cryptographic implementations, including hardware architectures, primitives, processors. |
 | 						         | - Attacks and countermeasures, e.g., reverse engineering, supply chain, remote, faults, micro-architectural, and physical side-channels |
 | 						         | - Tools and methodologies (formal methods, secure design, security of FPGAs, and verification) |
-| **12:00 - 1:30**       | **Lunch and Poster Session**                                                               |
+| **12:00 - 1:30**       | **Lunch and Poster Session** sponsored by [MITRE](https://www.mitre.org)                          |
 | **1:30 - 2:30**        | **Panel Discussion:** Security of Hardware Systems in a Zero-trust Model                 |
 |                        | Moderator: Shahin Tajik (WPI)                                                     |
 |                        | Panelists:                                                                             |
