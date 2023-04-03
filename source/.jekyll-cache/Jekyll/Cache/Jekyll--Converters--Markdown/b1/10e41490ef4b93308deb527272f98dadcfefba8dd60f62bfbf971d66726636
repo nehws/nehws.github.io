@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2023 Program</title>
-  <meta name="description" content="Program">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/program/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2023</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfunCQrixUOkXwIHx-7qI4Pdqoy7mbHqdZanDnok39AZiRylQ/viewform">Registration</a></li>
-		<li><a href="https://nehws.org/venue">Venue</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-		<li><a href="https://nehws.org/archive">Archive</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <h3 id="program"><strong>Program</strong></h3>
+I"?<h3 id="program"><strong>Program</strong></h3>
 
 <table>
   <thead>
@@ -70,7 +22,7 @@
     <tr>
       <td><strong>9:30 - 10:30</strong></td>
       <td>Daniel Holcomb</td>
-      <td><strong>Invited Keynote:</strong> <a href="/speakers/index.html#kevin-fu">Kevin Fu</a>, <em>Wicked bizarre semiconductor physics of sensor security</em></td>
+      <td><strong>Invited Keynote:</strong> <a href="/speakers/index.html#kevin-fu">Kevin Fu</a>, Wicked bizarre semiconductor physics of sensor security</td>
     </tr>
     <tr>
       <td><strong>10:30 - 10:45</strong></td>
@@ -95,17 +47,17 @@
     <tr>
       <td> </td>
       <td> </td>
-      <td><strong>Short Talk:</strong> <em>Citadel: Side-Channel-Resistant Enclaves with Secure Shared Memory on a Speculative Out-of-Order Processor</em></td>
+      <td><strong>Short Talk:</strong> Citadel: Side-Channel-Resistant Enclaves with Secure Shared Memory on a Speculative Out-of-Order Processor</td>
     </tr>
     <tr>
       <td> </td>
       <td> </td>
-      <td><u>Jules Drean</u>, Miguel Gomez-Garcia, Thomas Bourgeat and Srinivas Devadas (MIT)</td>
+      <td><u>Jules Drean</u>, Miguel Gomez-Garcia, Thomas Bourgeat and Srinivas Devadas (Massachusetts Institute of Technology)</td>
     </tr>
     <tr>
       <td> </td>
       <td> </td>
-      <td><strong>Long Talk:</strong> <em>A Model Extraction Attack on Deep Neural Networks Running on GPUs</em></td>
+      <td><strong>Long Talk:</strong> A Model Extraction Attack on Deep Neural Networks Running on GPUs</td>
     </tr>
     <tr>
       <td> </td>
@@ -115,7 +67,7 @@
     <tr>
       <td> </td>
       <td> </td>
-      <td><strong>Short Talk:</strong> <em>HammerDodger: A Lightweight Defense Framework against RowHammer Attack on DNNs</em></td>
+      <td><strong>Short Talk:</strong> HammerDodger: A Lightweight Defense Framework against RowHammer Attack on DNNs</td>
     </tr>
     <tr>
       <td> </td>
@@ -125,22 +77,22 @@
     <tr>
       <td> </td>
       <td> </td>
-      <td><strong>Long Talk:</strong> <em>Pensieve: Microarchitectural Modeling for Formal Security Evaluation</em></td>
+      <td><strong>Long Talk:</strong> Pensieve: Microarchitectural Modeling for Formal Security Evaluation</td>
     </tr>
     <tr>
       <td> </td>
       <td> </td>
-      <td><u>Yuheng Yang</u>, Thomas Bourgeat, Stella Lau and Mengjia Yan (MIT)</td>
+      <td><u>Yuheng Yang</u>, Thomas Bourgeat, Stella Lau and Mengjia Yan (Massachusetts Institute of Technology)</td>
     </tr>
     <tr>
       <td> </td>
       <td> </td>
-      <td><strong>Short Talk:</strong> <em>Goblin: Time Is Money, Friend! Timing Side-channel Attack against Garbled Circuit Constructions</em></td>
+      <td><strong>Short Talk:</strong> Goblin: Time Is Money, Friend! Timing Side-channel Attack against Garbled Circuit Constructions</td>
     </tr>
     <tr>
       <td> </td>
       <td> </td>
-      <td><u>Mohammad Hashemi</u>, Domenic Forte and Fatemeh Ganji (WPI)</td>
+      <td><u>Mohammad Hashemi</u>, Domenic Forte and Fatemeh Ganji (Worcester Polytechnic Institute)</td>
     </tr>
     <tr>
       <td><strong>12:00 - 1:30</strong></td>
@@ -185,7 +137,7 @@
     <tr>
       <td><strong>2:30 - 3:30</strong></td>
       <td>Fatemeh Ganji</td>
-      <td><strong>Invited Keynote:</strong> <a href="/speakers/index.html#ran-canetti">Ran Canetti</a>, <em>From NAND to SCOTUS</em></td>
+      <td><strong>Invited Keynote:</strong> <a href="/speakers/index.html#ran-canetti">Ran Canetti</a>, From NAND to SCOTUS</td>
     </tr>
     <tr>
       <td><strong>3:30 - 3:40</strong></td>
@@ -200,7 +152,7 @@
     <tr>
       <td> </td>
       <td> </td>
-      <td><strong>Long Talk:</strong> <em>Security vs Testability</em></td>
+      <td><strong>Long Talk:</strong> Security vs Testability</td>
     </tr>
     <tr>
       <td> </td>
@@ -210,17 +162,17 @@
     <tr>
       <td> </td>
       <td> </td>
-      <td><strong>Short Talk:</strong> <em>ImpedanceVerif: On-Chip Impedance Sensing for System-Level Tampering Detection</em></td>
+      <td><strong>Short Talk:</strong> ImpedanceVerif: On-Chip Impedance Sensing for System-Level Tampering Detection</td>
     </tr>
     <tr>
       <td> </td>
       <td> </td>
-      <td><u>Tahoura Mosavirik</u>, Patrick Schaumont and Shahin Tajik (WPI)</td>
+      <td><u>Tahoura Mosavirik</u>, Patrick Schaumont and Shahin Tajik (Worcester Polytechnic Institute)</td>
     </tr>
     <tr>
       <td> </td>
       <td> </td>
-      <td><strong>Long Talk:</strong> <em>The Next Frontier in Hardware Security: Quantum Computers</em></td>
+      <td><strong>Long Talk:</strong> The Next Frontier in Hardware Security: Quantum Computers</td>
     </tr>
     <tr>
       <td> </td>
@@ -230,7 +182,7 @@
     <tr>
       <td> </td>
       <td> </td>
-      <td><strong>Short Talk:</strong> <em>Hardware Security Analyses in Advanced Manufacturing Industry</em></td>
+      <td><strong>Short Talk:</strong> Hardware Security Analyses in Advanced Manufacturing Industry</td>
     </tr>
     <tr>
       <td> </td>
@@ -240,7 +192,7 @@
     <tr>
       <td> </td>
       <td> </td>
-      <td><strong>Long Talk:</strong> <em>EMShepherd: Detecting Adversarial Samples via Side-channel Leakage</em></td>
+      <td><strong>Long Talk:</strong> EMShepherd: Detecting Adversarial Samples via Side-channel Leakage</td>
     </tr>
     <tr>
       <td> </td>
@@ -259,35 +211,4 @@
     </tr>
   </tbody>
 </table>
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2023 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://nehws.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
