@@ -8,12 +8,12 @@ permalink: /program/
 
 ### **Program** ###
 
-| Presentation Topic     | Session Chair |                                                                                        |
-| ---------------------- | ----------------- | -------------------------------------------------------------------------------------- |
-| **9:00 - 9:15**      | Yunsei Fei | **Welcome Remarks**                                                                        |
+|    						 | Session Chair | 				                                                                                    |
+| ---------------------- | :-----------------: | -------------------------------------------------------------------------------------- |
+| **9:00&nbsp;-&nbsp;9:15** | Yunsei Fei | **Welcome Remarks**                                                                        |
 | **9:15 - 9:30**      | Daniel Holcomb | **News from the NEHWS Community**                                                          |
 | **9:30 - 10:30**    | Daniel Holcomb | **Invited Keynote:** [Kevin Fu]({{ site.baseurl }}/speakers/index.html#kevin-fu), *Wicked bizarre semiconductor physics of sensor security* |
-| **10:30 - 10:45**  |    						| Break                                                                                  |
+| **10:30&nbsp;-&nbsp;10:45**  |    						| Break                                                                                  |
 | **10:45 - 12:00**  | Fatemeh Ganji | **Submitted Talks Session I**                                                              |
 | 						     |    					  | **Long Talk:** *Fuzzing for discovering bugs and side channels in processors* |
 | 						     |    					  | <u>Chathura Rajapaksha</u>, Sadullah Canakci, Leila Delshadtehrani, Anoop Nataraja, Michael Bedford Taylor, Manuel Egele and Ajay Joshi (Boston University and University of Washington) |
