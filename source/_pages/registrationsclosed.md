@@ -11,7 +11,7 @@ permalink: /registration
 ![](../images/closed.png){: style="width: 40%; float: center; margin: 5px"}
 
 We are sorry! Due to overwhelming interest and venue capacity
-limitations, we had to close the NEHWS 23 registration early. Also, we
+limitations, we had to close the NEHWS 23 registrations early. Also, we
 regret that NEHWS 23 will not have in-person registration.
 If you like to be added to the waiting list, please send an email with
 your name and affiliation to
