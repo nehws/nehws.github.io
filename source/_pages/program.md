@@ -10,7 +10,7 @@ permalink: /program/
 
 |    						 | Session Chair | 				                                                                                    |
 | ---------------------- | :-----------------: | -------------------------------------------------------------------------------------- |
-| **9:00&nbsp;-&nbsp;9:15** | Yunsi Fei | **Welcome Remarks**                                                                        |
+| **9:00&nbsp;-&nbsp;9:15** | Yunsi Fei | **Welcome Remarks:** [Gregory D. Abowd](https://coe.northeastern.edu/people/abowd-gregory/), Dean of Engineering, Northeastern University      |
 | **9:15 - 9:30**      | Daniel Holcomb | **News from the NEHWS Community**                                                          |
 | **9:30 - 10:30**    | Daniel Holcomb | **Invited Keynote:** [Kevin Fu]({{ site.baseurl }}/speakers/index.html#kevin-fu), *Wicked bizarre semiconductor physics of sensor security* |
 | **10:30&nbsp;-&nbsp;10:45**  |    						| Break                                                                                  |
