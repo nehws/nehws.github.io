@@ -9,6 +9,7 @@ permalink: /registration
 ### **NEHWS 23 Registrations are closed** ###
 
 ![](../images/closed.png){: style="width: 40%; float: center; margin: 5px"}
+
 We are sorry! Due to overwhelming interest and venue capacity
 limitations, we had to close the NEHWS 23 registration early. Also, we
 regret that NEHWS 23 will not have in-person registration.
