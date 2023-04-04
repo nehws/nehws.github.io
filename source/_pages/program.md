@@ -10,7 +10,7 @@ permalink: /program/
 
 |    						 | Session Chair | 				                                                                                    |
 | ---------------------- | :-----------------: | -------------------------------------------------------------------------------------- |
-| **9:00&nbsp;-&nbsp;9:15** | Yunsei Fei | **Welcome Remarks**                                                                        |
+| **9:00&nbsp;-&nbsp;9:15** | Yunsi Fei | **Welcome Remarks**                                                                        |
 | **9:15 - 9:30**      | Daniel Holcomb | **News from the NEHWS Community**                                                          |
 | **9:30 - 10:30**    | Daniel Holcomb | **Invited Keynote:** [Kevin Fu]({{ site.baseurl }}/speakers/index.html#kevin-fu), *Wicked bizarre semiconductor physics of sensor security* |
 | **10:30&nbsp;-&nbsp;10:45**  |    						| Break                                                                                  |
@@ -48,5 +48,5 @@ permalink: /program/
 | 						     |    					  | <u>Qiaoyan Yu</u> (University of New Hampshire) |
 | 						     |    					  | **Long Talk:** *EMShepherd: Detecting Adversarial Samples via Side-channel Leakage* |
 | 						     |    					  | <u>Ruyi Ding</u>, Cheng Gongye, Siyue Wang, A. Adam Ding and Yunsi Fei (Northeastern University) |
-| **4:45 - 5:00**        | Xiaolin Xu and Yunse Fei | **Best Poster Award and Closing Remarks**                                                  |
+| **4:45 - 5:00**        | Xiaolin Xu and Yunsi Fei | **Best Poster Award and Closing Remarks**                                                  |
 | **5:00 - 6:00**        |						  | **Networking reception** sponsored by [Draper](https://www.draper.com/)                    |
