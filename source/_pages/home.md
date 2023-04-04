@@ -6,8 +6,14 @@ sitemap: false
 permalink: /
 ---
 
-![](images/nehwslogo.png){: style="width: 150px; float: center; margin: 5px"}
+![](images/nehwslogo.png){: style="width: 150px; float: left; margin: 5px"}
 **April 7th, 2023, [Egan Research Center 240]({{ site.baseurl }}/venue/index.html), Northeastern University, Boston, MA**
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
 
 New England Hardware Security (NEHWS) Day workshop brings together
 many students, researchers, practitioners, and industry partners in the
