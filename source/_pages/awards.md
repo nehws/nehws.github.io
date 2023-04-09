@@ -22,7 +22,7 @@ Jonah O'Brien Weiss, Sandip Kundu, Dong Hyub Kim and Tiago Alves, "A Side-Channe
 **Second Place, tied**
 Xiang Zhang, Aidon Ding and Yunsi Fei, "Software Power Side-channel Assisted Model Extraction of Deep Neural Networks"
 
-**Three Place**
+**Third Place**
 Andrew Adiletta, M. Caner Tol, Yarkin Doroz and Berk Sunar, "Memory Mayhem: Targeted Corruption of Registers and Stack Variables"
 
 ![](../images/awardees.png){: style="width: 90%; float: center; margin: 5px"}
