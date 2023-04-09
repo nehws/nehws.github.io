@@ -8,13 +8,10 @@ permalink: /awards/
 
 ### **Awards** ###
 
-Congratulations to the winners of the Best Poster Awards!
+Congratulations to the winners of the Best Poster Awards! The awards were decided by popular vote of the audience. We thank [NewAE](https://www.newae.com/) and [Riscure](https://www.riscure.com) for donating the [hardware](https://rtfm.newae.com/Capture/ChipWhisperer-Husky/) and [book](https://nostarch.com/hardwarehacking) awards.
 
 **First Place**
 Yuheng Yang, Thomas Bourgeat, Stella Lau and Mengjia Yan, "Pensieve: A Modular Approach for Security Evaluation of Microarchitectural Designs"
-
-**Second Place, tied**
-Max Cohen Hoffing, "Voltage Sensor Development for PDN PUF"
 
 **Second Place, tied**
 Max Cohen Hoffing, "Voltage Sensor Development for PDN PUF"
@@ -28,8 +25,3 @@ Xiang Zhang, Aidon Ding and Yunsi Fei, "Software Power Side-channel Assisted Mod
 **Three Place**
 Andrew Adiletta, M. Caner Tol, Yarkin Doroz and Berk Sunar, "Memory Mayhem: Targeted Corruption of Registers and Stack Variables"
 
-![](../images/awards_1pl.png){: style="width: 20%; float: center; margin: 5px"}
-![](../images/awards_2pl_1.png){: style="width: 20%; float: center; margin: 5px"}
-![](../images/awards_2pl_2.png){: style="width: 20%; float: center; margin: 5px"}
-![](../images/awards_2pl_3.png){: style="width: 20%; float: center; margin: 5px"}
-![](../images/awards_3pl.png){: style="width: 20%; float: center; margin: 5px"}
