@@ -25,3 +25,4 @@ Xiang Zhang, Aidon Ding and Yunsi Fei, "Software Power Side-channel Assisted Mod
 **Three Place**
 Andrew Adiletta, M. Caner Tol, Yarkin Doroz and Berk Sunar, "Memory Mayhem: Targeted Corruption of Registers and Stack Variables"
 
+![](../images/awardees.png){: style="width: 90%; float: center; margin: 5px"}
