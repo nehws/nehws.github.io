@@ -1,3 +1,4 @@
+"pkg-config --exists libffi"
 package configuration for libffi is not found
 have_header: checking for ffi.h... -------------------- no
 

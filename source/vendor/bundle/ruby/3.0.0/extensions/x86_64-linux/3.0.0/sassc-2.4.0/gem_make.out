@@ -1,11 +1,11 @@
-current directory: /home/pschaumont/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230410-2253-bhebu2.rb extconf.rb
+current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230412-60347-uyh2l8.rb extconf.rb
 creating Makefile
 
-current directory: /home/pschaumont/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\= clean
 
-current directory: /home/pschaumont/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\=
 compiling ./libsass/src/memory/allocator.cpp
 compiling ./libsass/src/ast.cpp
@@ -75,6 +75,6 @@ compiling ./libsass/src/util_string.cpp
 compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.so
 
-current directory: /home/pschaumont/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20230410-2253-azfki0/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20230412-60347-pctd6f/sassc
