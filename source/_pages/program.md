@@ -49,7 +49,7 @@ permalink: /program/
 | 			| <u>Deniz Karakoyunlu</u> (Analog Devices) |
 | 			| **Short Talk:** *ImpedanceVerif: On-Chip Impedance Sensing for System-Level Tampering Detection* |
 | 			| <u>Tahoura Mosavirik</u>, Patrick Schaumont and Shahin Tajik (WPI) |
-| 			| **Long Talk:** *The Next Frontier in Hardware Security: Quantum Computers* |
+| 			| **Long Talk:** [*The Next Frontier in Hardware Security: Quantum Computers*]({{ site.baseurl }}/images/presentation_szefer.pdf)  |
 | 			| <u>Jakub Szefer</u> (Yale University) |
 | 			| **Short Talk:** [*Hardware Security Analyses in Advanced Manufacturing Industry*]({{ site.baseurl }}/images/hardware.pdf) |
 | 			| <u>Qiaoyan Yu</u> (University of New Hampshire) |

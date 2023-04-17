@@ -1,4 +1,4 @@
-I"�<h3 id="program"><strong>Program</strong></h3>
+I"�<h3 id="program"><strong>Program</strong></h3>
 
 <table>
   <thead>
@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <td> </td>
-      <td><strong>Short Talk:</strong> <em>Citadel: Side-Channel-Resistant Enclaves with Secure Shared Memory on a Speculative Out-of-Order Processor</em></td>
+      <td><strong>Short Talk:</strong> <a href="/images/citadel.pdf"><em>Citadel: Side-Channel-Resistant Enclaves with Secure Shared Memory on a Speculative Out-of-Order Processor</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td> </td>
-      <td><strong>Long Talk:</strong> <em>Pensieve: Microarchitectural Modeling for Formal Security Evaluation</em></td>
+      <td><strong>Long Talk:</strong> <a href="/images/pensieve.pdf"><em>Pensieve: Microarchitectural Modeling for Formal Security Evaluation</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -166,7 +166,7 @@
     </tr>
     <tr>
       <td> </td>
-      <td><strong>Long Talk:</strong> <em>The Next Frontier in Hardware Security: Quantum Computers</em></td>
+      <td><strong>Long Talk:</strong> <a href="/images/presentation_szefer.pdf"><em>The Next Frontier in Hardware Security: Quantum Computers</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -174,7 +174,7 @@
     </tr>
     <tr>
       <td> </td>
-      <td><strong>Short Talk:</strong> <em>Hardware Security Analyses in Advanced Manufacturing Industry</em></td>
+      <td><strong>Short Talk:</strong> <a href="/images/hardware.pdf"><em>Hardware Security Analyses in Advanced Manufacturing Industry</em></a></td>
     </tr>
     <tr>
       <td> </td>
