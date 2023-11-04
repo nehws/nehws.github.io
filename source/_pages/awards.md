@@ -1,5 +1,5 @@
 ---
-title: "NEHWS 2023 Program"
+title: "NEHWS 2024 Program"
 layout: textlay
 excerpt: "Awards"
 sitemap: false

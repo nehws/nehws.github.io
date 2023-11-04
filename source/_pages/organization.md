@@ -1,5 +1,5 @@
 ---
-title: "NEHWS 2023 Program"
+title: "NEHWS 2024 Program"
 layout: orglay
 excerpt: "Organization"
 sitemap: false
@@ -19,29 +19,21 @@ permalink: /organization/
   <img src="../images/organizer_logo_yale.png" style="width: 80px">
 </figure>
 
-**NEHWS 23 Organizers**
+**NEHWS 24 Organizers**
 
-| Program Chair	        | Daniel Holcomb (Umass)                     |
-| Program Co-Chair	| Fatemeh Ganji (WPI)                        |
-| Panel Chair	        | Shahin Tajik (WPI)                         |
-| Poster Chair	        | Xiaolin Xu (NEU)                           |
-| Publicity Co-Chairs	| Shahin Tajik (WPI) and Jakub Szefer (Yale) |
-| Web Co-Chairs         | Jakub Szefer (Yale) and Kemal Derya (WPI)   |
-| Local Co-Chairs	| Xiaolin Xu (NEU) and Yunsi Fei (NEU)       |
-| General Chair	        | Patrick Schaumont (WPI)                    |
+| General Chair                 |  Daniel Holcomb | 
+| PC Chair                       |  Fatemeh (Saba) Ganji | 
+| PC Co-Chair                  |   Xiaolin Xu | 
+| Industry Co-Chairs          |    Yunsi Fei and Patrick Schaumont | 
+| Local Co-Chairs                |  Berk Sunar and Shahin Tajik | 
+| Outreach Co-Chairs    |  Shahin Tajik and Mengjia Yan | 
+| Panel Co-Chairs               |  Mengjia Yan and Shahin Tajik | 
+| Poster Co-Chairs             |  Koksal Mus and Qiaoyan Yu | 
+| Publicity Co-Chairs    |  Yarkin Doroz and Jakub Szefer | 
+| Web Chair                     |  Kemal Derya | 
 
 <BR>
 
-**NEHWS 23 Program Committee**
+**NEHWS 24 Program Committee**
 
-| Orlando Arias (UMass Lowell) |
-| Joe Chapman (MITRE)          |
-| Yarkin Doroz (WPI)           |
-| Yunsi Fei (NEU)              |
-| Sandhya Koteshwara (IBM)     |
-| Patrick Schaumont (WPI)      |
-| Dean Sullivan (NHU)          |
-| Jakub Szefer (Yale)          |
-| Shahin Tajik (WPI)           |
-| Mengjia Yan (MIT)            |
-| Qiaoyan Yu (NHU)             |
+**TBD**

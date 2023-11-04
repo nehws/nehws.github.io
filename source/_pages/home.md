@@ -19,11 +19,7 @@ New England Hardware Security (NEHWS) Day brings together
 many students, researchers, practitioners, and industry partners in the
 field of hardware security to share their work and foster new ideas.
 
-**Thank you for joining NEHWS 2023, we look forward to seeing you back next year!**
-
-* Check out the [best-poster awardees]({{ site.baseurl }}/awards/index.html)
-* [Call for contributions](images/nehws23-call-for-contributions.pdf)
-* [Call for sponsors](images/nehws23-call-for-sponsors.pdf)
+* [Call for sponsors](images/nehws24-call-for-sponsors.pdf)
 
 **NEHWS is driven by the hardware security research community at these universities**
 
