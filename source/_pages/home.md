@@ -1,13 +1,13 @@
 ---
-title: "NEHWS 2023"
+title: "NEHWS 2024"
 layout: homelay
-excerpt: "New England Hardware Security Day 2023"
+excerpt: "New England Hardware Security Day 2024"
 sitemap: false
 permalink: /
 ---
 
 ![](images/nehwslogo.png){: style="width: 150px; float: left; margin: 5px"}
-**April 7th, 2023, [Egan Research Center 240]({{ site.baseurl }}/venue/index.html), Northeastern University, Boston, MA**
+**April 5th, 2024, Worcester Polytechnic Institute, Worcester, MA**
 
 <BR>
 <BR>
