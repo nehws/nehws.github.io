@@ -1,5 +1,5 @@
 current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20231104-4952-a5gm75.rb extconf.rb
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20231208-12982-n2u9or.rb extconf.rb
 creating Makefile
 
 current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20231104-4952-d1igml/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20231208-12982-rh53to/sassc

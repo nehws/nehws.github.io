@@ -22,7 +22,7 @@ The third NEHWS was organized on 7 April, 2023 at the Northeastern University in
 |                           | Session Chair: Yunsi Fei |
 | **9:15 - 9:30**      | **News from the NEHWS Community**                                                          |
 |                      | Session Chair: Dan Holcomb |
-| **9:30 - 10:30**    | **Invited Keynote:** [Kevin Fu]({{ site.baseurl }}/speakers/index.html#kevin-fu), *Wicked bizarre semiconductor physics of sensor security* |
+| **9:30 - 10:30**    | **Invited Keynote:** <u>Kevin Fu</u>, *Wicked bizarre semiconductor physics of sensor security* |
 |                     | Session Chair: Dan Holcomb |
 | **10:30&nbsp;-&nbsp;10:45**  | Break                                                                                  |
 | **10:45 - 12:00**  | **Submitted Talks Session I**                                                              |
@@ -43,12 +43,12 @@ The third NEHWS was organized on 7 April, 2023 at the Northeastern University in
 | **1:30 - 2:30**     | **Panel Discussion:** Security of Hardware Systems in a Zero-trust Model                 |
 |                     | Session Chair: Shahin Tajik |
 |                     | Panelists:                                                                             |
-|                     | - [Lei Poo]({{ site.baseurl }}/speakers/index.html#lei-poo) (Analog Devices)  |
-|                     | - [Dan Walters]({{ site.baseurl }}/speakers/index.html#dan-walters) (MITRE)                                                       |
-|                     | - [Hamed Okhravi]({{ site.baseurl }}/speakers/index.html#hamed-okhravi) (MIT Lincoln Lab)                                           |
-|                     | - [Sandhya Koteshwara]({{ site.baseurl }}/speakers/index.html#sandhya-koteshwara) (IBM)                                                  |
-|                     | - [Sina Shahbazmohamadi]({{ site.baseurl }}/speakers/index.html#sina-shahbazmohamadi) (University of Connecticut)                         |
-| **2:30 - 3:30**     | **Invited Keynote:** [Ran Canetti]({{ site.baseurl }}/speakers/index.html#ran-canetti), *From NAND to SCOTUS*   |
+|                     | - Lei Poo (Analog Devices)  |
+|                     | - Dan Walters (MITRE)                                                       |
+|                     | - Hamed Okhravi (MIT Lincoln Lab)                                           |
+|                     | - Sandhya Koteshwara (IBM)                                                  |
+|                     | - Sina Shahbazmohamadi (University of Connecticut)                         |
+| **2:30 - 3:30**     | **Invited Keynote:** <u>Ran Canetti</u>, *From NAND to SCOTUS*   |
 |                     | Session Chair: Fatemeh Ganji |
 | **3:30 - 3:40**     | Break                                                                                  |
 | **3:40 - 4:45**     | **Submitted Talks Session II**                                                         |

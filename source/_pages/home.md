@@ -6,20 +6,31 @@ sitemap: false
 permalink: /
 ---
 
-![](images/nehwslogo.png){: style="width: 150px; float: left; margin: 5px"}
+![](images/nehwslogo.png){: style="width: 150px; float: center; margin: 5px"}
 **April 5th, 2024, Worcester Polytechnic Institute, Worcester, MA**
-
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
 
 New England Hardware Security (NEHWS) Day brings together
 many students, researchers, practitioners, and industry partners in the
 field of hardware security to share their work and foster new ideas.
 
-* [Call for sponsors](images/nehws24-call-for-sponsors.pdf)
+**Call for Contributions**
+
+Please consider submitting your work for presentation at NEHWS 2024.
+We are looking for announcements, research talks, and posters.
+The submission deadline is **February 2, 2024**.
+
+* Submit your contribution at the [NEHWS24 submission site](https://easychair.org/my/conference?conf=nehws2024)
+* [Download the call](images/nehws24-call-for-contributions.pdf)
+
+**Call for Sponsors**
+
+Sponsors of NEHWS will gain visibility for their companies and
+associate themselves with an active regional community that
+contributes to training the next-generation workforce in hardware
+security.
+
+* Questions? Contact the NEHWS organizers at [contact@nehws.org](mailto:contact@nehws.org)
+* [Download the flyer](images/nehws24-call-for-sponsors.pdf)
 
 **NEHWS is driven by the hardware security research community at these universities**
 
