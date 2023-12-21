@@ -1,0 +1,121 @@
+I"�<h3 id="program"><strong>Program</strong></h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Presentation Topic</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:00 - 9:15</strong></td>
+      <td>Welcome Remarks</td>
+    </tr>
+    <tr>
+      <td><strong>9:15 - 9:30</strong></td>
+      <td>News from the NEHWS Community</td>
+    </tr>
+    <tr>
+      <td><strong>9:30 - 10:30</strong></td>
+      <td>Invited Keynote: <a href="/speakers/index.html#kevin-fu">Kevin Fu</a>, <strong>Wicked bizarre semiconductor physics of sensor security</strong></td>
+    </tr>
+    <tr>
+      <td><strong>10:30 - 10:45</strong></td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td><strong>10:45 - 12:00</strong></td>
+      <td><strong>Submitted Talks Session I</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Topics including:</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- Cryptographic implementations, including hardware architectures, primitives, processors.</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- Attacks and countermeasures, e.g., reverse engineering, supply chain, remote, faults, micro-architectural, and physical side-channels</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- Tools and methodologies (formal methods, secure design, security of FPGAs, and verification)</td>
+    </tr>
+    <tr>
+      <td><strong>12:00 - 1:30</strong></td>
+      <td>Lunch and Poster Session</td>
+    </tr>
+    <tr>
+      <td><strong>1:30 - 2:30</strong></td>
+      <td>Panel Discussion: <strong>Security of Hardware Systems in a Zero-trust Model</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Moderator: Shahin Tajik (WPI)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Panelists:</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- <a href="/speakers/index.html#lei-poo">Lei Poo</a> (Analog Devices)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- <a href="/speakers/index.html#dan-walters">Dan Walters</a> (MITRE)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- <a href="/speakers/index.html#hamed-okhravi">Hamed Okhravi</a> (MIT Lincoln Lab)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- <a href="/speakers/index.html#sandhya-koteshwara">Sandhya Koteshwara</a> (IBM)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- <a href="/speakers/index.html#sina-shahbazmohamadi">Sina Shahbazmohamadi</a> (University of Connecticut)</td>
+    </tr>
+    <tr>
+      <td><strong>2:30 - 3:30</strong></td>
+      <td>Invited Keynote: <a href="/speakers/index.html#ran-canetti">Ran Canetti</a></td>
+    </tr>
+    <tr>
+      <td><strong>3:30 - 3:45</strong></td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td><strong>3:45 - 4:45</strong></td>
+      <td><strong>Submitted Talks Session II</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Topics including:</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- New and emerging cryptographic algorithms and protocols for hardware</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- Interaction between hardware security and other domains, e.g., AI and ML, biomedical, advanced packaging, etc.</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>- Education and training in HW security</td>
+    </tr>
+    <tr>
+      <td><strong>4:45 - 5:00</strong></td>
+      <td>Best Poster Award and Closing Remarks</td>
+    </tr>
+    <tr>
+      <td><strong>5:00 - 6:00</strong></td>
+      <td>Networking Reception sponsored by Draper</td>
+    </tr>
+  </tbody>
+</table>
+:ET
