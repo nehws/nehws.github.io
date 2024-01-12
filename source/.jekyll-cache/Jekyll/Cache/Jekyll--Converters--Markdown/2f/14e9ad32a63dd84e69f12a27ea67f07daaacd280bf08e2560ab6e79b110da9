@@ -1,0 +1,211 @@
+I"�@<ul>
+  <li><a href="#nehws-2023--northeastern-university-boston">NEHWS 2023</a>, 4/7/2023, Northeastern University, Boston</li>
+  <li><a href="#nehws-2022--university-of-massachusetts-amherst">NEHWS 2022</a>, 4/1/2022, University of Massachusetts, Amherst</li>
+  <li><a href="#nehws-2021--virtual">NEHWS 2021</a>, 4/9/2021, Virtual</li>
+</ul>
+
+<h3 id="nehws-2023--northeastern-university-boston">NEHWS 2023 @ Northeastern University, Boston</h3>
+
+<h3 style="text-align: center;"> Sponsors
+
+<figure class="fourth">
+  <img src="/images/logo_nsf.png" style="width: 200px" />
+  <img src="/images/logo_masstech.png" style="width: 200px" />
+  <img src="/images/logo_draper.png" style="width: 200px" />
+  <img src="/images/logo_mitre.png" style="width: 200px" />
+  <img src="/images/logo_raytheon.png" style="width: 200px" />
+  <img src="/images/logo_adi.png" style="width: 200px" />
+</figure>
+
+&lt;p style="text-align:center"&gt;<img src="../images/nehws23.png" style="width: 500px" />&lt;/p&gt;
+
+The third NEHWS was organized on 7 April, 2023 at the Northeastern University in Boston.
+
+|    	 |                                                                                 |
+| ———————- | ————————————————————————————– |
+| <strong>9:00 - 9:15</strong> | <strong>Welcome Remarks:</strong> <a href="https://coe.northeastern.edu/people/abowd-gregory/">Gregory D. Abowd</a>, Dean of Engineering, Northeastern University      |
+|                           | Session Chair: Yunsi Fei |
+| <strong>9:15 - 9:30</strong>      | <strong>News from the NEHWS Community</strong>                                                          |
+|                      | Session Chair: Dan Holcomb |
+| <strong>9:30 - 10:30</strong>    | <strong>Invited Keynote:</strong> <u>Kevin Fu</u>, <em>Wicked bizarre semiconductor physics of sensor security</em> |
+|                     | Session Chair: Dan Holcomb |
+| <strong>10:30 - 10:45</strong>  | Break                                                                                  |
+| <strong>10:45 - 12:00</strong>  | <strong>Submitted Talks Session I</strong>                                                              |
+|                    | Session Chair: Fatemeh Ganji |
+| 			| <strong>Long Talk:</strong> <a href="/images/fuzzing.pdf"><em>Fuzzing for discovering bugs and side channels in processors</em></a>|
+| 			| <u>Chathura Rajapaksha</u>, Sadullah Canakci, Leila Delshadtehrani, Anoop Nataraja, Michael Bedford Taylor, Manuel Egele and Ajay Joshi (Boston University and University of Washington) |
+| 			| <strong>Short Talk:</strong> <a href="/images/citadel.pdf"><em>Citadel: Side-Channel-Resistant Enclaves with Secure Shared Memory on a Speculative Out-of-Order Processor</em></a> |
+| 			| <u>Jules Drean</u>, Miguel Gomez-Garcia, Thomas Bourgeat and Srinivas Devadas (MIT) |
+| 			| <strong>Long Talk:</strong> <em>A Model Extraction Attack on Deep Neural Networks Running on GPUs</em> |
+| 			| Jonah O’Brien Weiss, Dong Hyub Kim, Tiago Alves and <u>Sandip Kundu</u>  (University of Massachusetts Amherst) |
+| 			| <strong>Short Talk:</strong> <em>HammerDodger: A Lightweight Defense Framework against RowHammer Attack on DNNs</em> |
+| 			| <u>Cheng Gongye</u>, Yukui Luo, Xiaolin Xu and Yunsi Fei (Northeastern University) |
+| 			| <strong>Long Talk:</strong> <a href="/images/pensieve.pdf"><em>Pensieve: Microarchitectural Modeling for Formal Security Evaluation</em></a> |
+| 			| <u>Yuheng Yang</u>, Thomas Bourgeat, Stella Lau and Mengjia Yan (MIT) |
+| 			| <strong>Short Talk:</strong> <em>Goblin: Time Is Money, Friend! Timing Side-channel Attack against Garbled Circuit Constructions</em> |
+| 			| <u>Mohammad Hashemi</u>, Domenic Forte and Fatemeh Ganji (WPI) |
+| <strong>12:00 - 1:30</strong>    | <strong>Lunch and Poster Session</strong> sponsored by <a href="https://www.mitre.org">MITRE</a>                          |
+| <strong>1:30 - 2:30</strong>     | <strong>Panel Discussion:</strong> Security of Hardware Systems in a Zero-trust Model                 |
+|                     | Session Chair: Shahin Tajik |
+|                     | Panelists:                                                                             |
+|                     | - Lei Poo (Analog Devices)  |
+|                     | - Dan Walters (MITRE)                                                       |
+|                     | - Hamed Okhravi (MIT Lincoln Lab)                                           |
+|                     | - Sandhya Koteshwara (IBM)                                                  |
+|                     | - Sina Shahbazmohamadi (University of Connecticut)                         |
+| <strong>2:30 - 3:30</strong>     | <strong>Invited Keynote:</strong> <u>Ran Canetti</u>, <em>From NAND to SCOTUS</em>   |
+|                     | Session Chair: Fatemeh Ganji |
+| <strong>3:30 - 3:40</strong>     | Break                                                                                  |
+| <strong>3:40 - 4:45</strong>     | <strong>Submitted Talks Session II</strong>                                                         |
+|                     | Session Chair: Dan Holcomb |
+| 			| <strong>Long Talk:</strong> <em>Security vs Testability</em> |
+| 			| <u>Deniz Karakoyunlu</u> (Analog Devices) |
+| 			| <strong>Short Talk:</strong> <em>ImpedanceVerif: On-Chip Impedance Sensing for System-Level Tampering Detection</em> |
+| 			| <u>Tahoura Mosavirik</u>, Patrick Schaumont and Shahin Tajik (WPI) |
+| 			| <strong>Long Talk:</strong> <a href="/images/presentation_szefer.pdf"><em>The Next Frontier in Hardware Security: Quantum Computers</em></a>  |
+| 			| <u>Jakub Szefer</u> (Yale University) |
+| 			| <strong>Short Talk:</strong> <a href="/images/hardware.pdf"><em>Hardware Security Analyses in Advanced Manufacturing Industry</em></a> |
+| 			| <u>Qiaoyan Yu</u> (University of New Hampshire) |
+| 			| <strong>Long Talk:</strong> <em>EMShepherd: Detecting Adversarial Samples via Side-channel Leakage</em> |
+| 			| <u>Ruyi Ding</u>, Cheng Gongye, Siyue Wang, A. Adam Ding and Yunsi Fei (Northeastern University) |
+| <strong>4:45 - 5:00</strong>       | <strong>Best Poster Award and Closing Remarks</strong>                                                  |
+|                       | Session Chair: Xiaolin Xu and Yunsi Fei |
+| <strong>5:00 - 6:00</strong>       | <strong>Networking reception</strong> sponsored by <a href="https://www.draper.com/">Draper</a>                    |
+
+<strong>Awards</strong>
+
+Congratulations to the winners of the Best Poster Awards! The awards were decided by popular vote of the audience. We thank <a href="https://www.newae.com/">NewAE</a> and <a href="https://www.riscure.com">Riscure</a> for donating the <a href="https://rtfm.newae.com/Capture/ChipWhisperer-Husky/">hardware</a> and <a href="https://nostarch.com/hardwarehacking">book</a> awards.
+
+<strong>First Place</strong>
+Yuheng Yang, Thomas Bourgeat, Stella Lau and Mengjia Yan, “Pensieve: A Modular Approach for Security Evaluation of Microarchitectural Designs”
+
+<strong>Second Place, tied</strong>
+Max Cohen Hoffing, “Voltage Sensor Development for PDN PUF”
+
+<strong>Second Place, tied</strong>
+Jonah O’Brien Weiss, Sandip Kundu, Dong Hyub Kim and Tiago Alves, “A Side-Channel Model Extraction Attack on Deep Neural Networks Running on GPUs”
+
+<strong>Second Place, tied</strong>
+Xiang Zhang, Aidon Ding and Yunsi Fei, “Software Power Side-channel Assisted Model Extraction of Deep Neural Networks”
+
+<strong>Third Place</strong>
+Andrew Adiletta, M. Caner Tol, Yarkin Doroz and Berk Sunar, “Memory Mayhem: Targeted Corruption of Registers and Stack Variables”
+
+### NEHWS 2022 @ University of Massachusetts, Amherst ###
+
+&lt;p style="text-align:center"&gt;<img src="../images/nehws22.jpg" style="width: 350px" />&lt;/p&gt;
+
+The second NEHWS was organized on 1 April, 2022 at the Unversity of Masschusetts in Amherst.
+
+
+| Presentation Topic     |                                                                                        |
+| ———————- | ————————————————————————————– |
+| <strong>9:30 - 9:35</strong>        | Welcome Remarks (Dan Holcomb)                                                          |
+| <strong>9:35 - 10:30</strong>       | News from the NEHWS Community                                                          |
+|                        | - Fatemeh Ganji (WPI)                                                                  |
+|                        | - Dan Holcomb (Umass)                                                                  |
+|                        | - Yunsi Fei (NEU)                                                                      |
+|                        | - Jakub Szefer (Yale)                                                                  |
+| <strong>10:30 - 11:30</strong>      | Invited Keynote: <strong>Srinivas Devadas</strong> (MIT)                                                |
+| <strong>11:30 - 1:00</strong>       | Lunch and Poster Session                                                               |
+| <strong>1:00 - 3:00</strong>        | Research Talks                                                                         |
+|                        | - <strong>Mengjia Yan</strong> (MIT), “Security Analysis of Misunderstood  |
+|                        |     Micro-architectural Side-Channel Attacks and Mitigations” |
+|                        | - <strong>Jens-Peter Kaps</strong> (GMU), “Benchmarking FPGA Implementations |
+|                        |     of Candidates in the NIST LWC Standardization Process” |
+|                        | - <strong>Colin O’Flynn</strong> (NewAE), “Hands on with Non-Invasive |
+|                        |      Hardware Security Tooling”       |
+| <strong>3:00 - 3:30</strong>        | Break                                                                                 |
+| <strong>3:30 - 4:30</strong>        | Panel Discussion: Driving Forces of Innovation in Security of |
+|                        |  Microelectronics Supply Chain |
+|                        | Moderator: Shahin Tajik (WPI)                                                         |
+|                        | Panelists:                                                                            |
+|                        | - <strong>Peter Grossmann</strong> (Instrinsix)                                                        |
+|                        | - <strong>Elke De Mulder</strong> (Rambus)  |
+|                        | - <strong>Richard Newell</strong> (Microchip Technology) |
+|                        | - <strong>John Oakley</strong> (SRC) |
+|                        | - <strong>Ingrid Verbauwhede</strong> (KUL) |
+| <strong>4:30 - 5:00</strong>        | Networking and Closing |
+
+<strong>Posters</strong>
+
+- <em>A Cross-Platform Cache Timing Attack Framework via Deep Learning</em>, Ruyi Ding, Ziyue Zhang, Xiang Zhang, Gongye Cheng, Yunsi Fei and A. Adam Ding,
+
+- <em>Bitsliced NTT-based Polynomial Multiplication: A Generic Software Countermeasure against Fault Attacks</em>, Richa Singh, Saad Islam, Berk Sunar and Patrick Schaumont
+
+- <em>A Novel Differential-Bit Side-channel Power Attack on ECDH and Countermeasures</em>, Tianhong Xu, Cheng Gongye and Yunsi Fei
+
+- <em>ScatterVerif: Verification of Electronic Boards Using Reflection Response of Power Distribution Network</em>, Tahoura Mosavirik, Fatemeh Ganji, Patrick Schaumont and Shahin Tajik
+
+- <em>Garbled EDA: Privacy Preserving Electronic Design Automation</em>, Mohammad Hashemi, Steffi Roy, Fatemeh Ganji and Domenic Forte
+
+- <em>Side-channel analysis of ASCON</em>, Dillibabu Shanmugam, Pantea Kiaei and Patrick Schaumont
+
+- <em>Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer</em>, M. Caner Tol, Saad Islam, Berk Sunar and Ziming Zhang
+
+- <em>Quantum Computer Antivirus</em>, Sanjay Deshpande, Chuanqi Xu, Theodoros Trochatos, Hanrui Wang, Ferhat Erata, Song Han, Yongshan Ding and Jakub Szefer
+
+- <em>Leaky Frontends: Security Vulnerabilities in Processor Frontends</em>, Bowen Huang, Shuwen Deng and Jakub Szefer
+
+- <em>Towards Automatic Detection of Power Side-Channel Vulnerabilities in Constant-Time Cryptography</em>, Ferhat Erata, Ruzica Piskac, Victor Mateu, Santos Merino del Pozo and Jakub Szefer
+
+- <em>Improving the Performance and Security of Prior Work SSE-RV</em>, Zhiming Zhang and Yunsi Fei
+
+- <em>Precise Fault Injection to Enable DFIA for Attacking AES in Remote FPGAs</em>, Xiang Li, Russell Tessier and Daniel Holcomb
+
+- <em>Threat Modeling and Risk Analysis for Miniaturized Wireless Biomedical Devices</em>, Vladimir Vakhter, Betul Soysal, Patrick Schaumont and Ulkuhan Guler
+
+- <em>Remote Power Side-Channel Attacks against Hardware Accelerators in FPGA</em>, Shayan Moini
+
+- <em>Saidoyoki: Post-Silicon Side-Channel Evaluation</em>, Ramazan Kaan Eren, Pantea Kiaei, Zhenyuan Liu and Patrick Schaumont
+
+- <em>DAGguise: Mitigating Memory Timing Side Channels</em>, Peter Deutsch, Yuheng Yang, Thomas Bourgeat, Jules Drean, Joel Emer and Mengjia Yan
+
+- <em>Gate-Level Pre-Silicon Side-Channel Leakage Assessment</em>, Pantea Kiaei, Yuan Yao, Zhenyuan Liu and Patrick Schaumont
+
+- <em>Security from CAD Tools Perspective for Using Dynamic Partial Reconfiguration in on-premise and off-premise FPGAs</em>, Sandeep Sunkavilli and Qiaoyan Yu
+
+- <em>RansNet: An Anti-Ransomware Methodology based on Cache Monitoring and Deep Learning</em>, Xiang Zhang, Ziyue Zhang, Ruyi Ding, Cheng Gongye, Adam Ding and Yunsi Fei
+
+- <em>Root-cause Analysis of Power-based Side-channel Leakage in Lightweight Cryptography Candidates</em>, Zhenyuan Liu and Patrick Schaumont
+
+- <em>Security Risks and Challenges for Low-power Edge devices in Advanced Manufacturing</em>, Mohammad Monjur and Qiaoyan Yu
+
+- <em>There’s Always a Bigger Fish: A Case Study of a Misunderstood Timing Side Channel</em>, Jack Cook, Jules Drean, Jonathan Behrens and Mengjia Yan
+
+- <em>PCIe-Contention-Based Covert Channel in Cloud FPGAs</em>, Shanquan Tian, Ilias Giechaskiel and Jakub Szefer
+
+- <em>Signature Correction Attack on Dilithium Signature Scheme</em>, Saad Islam, Koksal Mus, Richa Singh, Patrick Schaumont and Berk Sunar
+
+
+### NEHWS 2021 @ Virtual ###
+
+&lt;p style="text-align:center"&gt;<img src="../images/nehws21.jpg" style="width: 350px" />&lt;/p&gt;
+
+The first NEHWS was organized on 9 April, 2021 as a Virtual Conference
+
+| Presentation Topic     |                                                                                        |
+| ———————- | ————————————————————————————– |
+| <strong>10:00 - 10:05</strong>      | Welcome Remarks                                                                        |
+| <strong>10:05 - 11:00</strong>      | Invited Keynote: <strong>Wajdi Feghali</strong> (Intel) |
+| <strong>11:00 - 11:30</strong>      | Community Introduction                      |
+|                        | - Worcester Polytechnic Institute |
+|                        | - University of Massachusetts at Amherst |
+|                        | - Northeastern University |
+|                        | - Yale University |
+| <strong>11:30 - 12:30</strong>      | Research Talks                                                                         |
+|                        | - <strong>Christof Paar</strong> (Max Planc Institute of Security and Privacy)  |
+|                        | - <strong>Dominic Rizzo</strong> (Google) |
+|                        | - <strong>Jean-Pierre Seifert</strong> (Technical University of Berlin) |
+| <strong>12:30 - 1:00</strong>       | Lunch Break                                                                                 |
+| <strong>1:00 - 2:00</strong>        | Poster Session |
+| <strong>2:00 - 3:00</strong>        | Panel Discussion: The Future of Hardware Security |
+|                        | Panelists:                                                                            |
+|                        | - <strong>Todd Austin</strong> (University of Michigan) |
+|                        | - <strong>Kevin Bush</strong> (MIT Lincoln Lab) |
+|                        | - <strong>Joe Chapman</strong> (MITRE) |
+|                        | - <strong>Dave King</strong> (General Dynamics Mission Systems) |
+|                        | - <strong>Lei Poo</strong> (Analog Devices) |
+| <strong>3:00 - 4:00</strong>        | Networking and Closing |
+</h3>
+:ET
