@@ -17,10 +17,12 @@ field of hardware security to share their work and foster new ideas.
 
 Please consider submitting your work for presentation at NEHWS 2024.
 We are looking for announcements, research talks, and posters.
-The submission deadline is **February 2, 2024**.
+The submission deadline is <s>February 2, 2024</s> extended to **February 9, 2024**.
 
+
+* **<FONT COLOR=red>Deadline for submission is extended to February 9, 2024.</FONT>**
 * Submit your contribution at the [NEHWS24 submission site](https://easychair.org/my/conference?conf=nehws2024)
-* [Download the call](images/nehws24-call-for-contributions.pdf)
+* [Download the call](images/NEHWS2024-updated.pdf)
 
 **Call for Sponsors**
 
