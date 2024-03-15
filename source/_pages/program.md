@@ -13,7 +13,7 @@ permalink: /program/
 | **9:00&nbsp;-&nbsp;9:15** | Shahin Tajik| **Welcome Remarks**                                                                        |
 | **9:15 - 9:30**      | Fatemeh Ganji| **Opening remarks by Ben Linville-Engler (MassTech) "ME Commons and CHIPS Act"**  |
 |							 |						 | **News from the NEHWS Community** |
-| **9:30 - 10:30**    | 						 | **Invited Keynote:** [Sharad Malik]({{ site.baseurl }}/speakers/index.html#sharad-malik), *Don’t Trust, and Verify* |
+| **9:30 - 10:30**    | Fatemeh Ganji | **Invited Keynote:** [Sharad Malik]({{ site.baseurl }}/speakers/index.html#sharad-malik), *Don’t Trust, and Verify* |
 | **10:30&nbsp;-&nbsp;10:45**  |    						| Break                                                                                  |
 | **10:45 - 12:00**  | Xiaolin Xu        | **Submitted Talks Session I**                                                              |
 | 						     |    					  | **Long Talk:** *Breaching Privacy: Memory Scraping Attack on Xilinx FPGAs* |
@@ -36,7 +36,7 @@ permalink: /program/
 |                        |						  | - Silviu Chiricescu (DRAPER)																  |
 |                        |						  | - Ed Suh (Meta/Cornell)																			  |
 |                        |						  | - Wajdi K. Feghali (Intel)																		  |
-| **2:30 - 3:30**        | Xiaolin Xu | **Invited Keynote:** Andreas Olofsson (Zero ASIC)			   |
+| **2:30 - 3:30**        | Xiaolin Xu | **Invited Keynote:** [Andreas Olofsson]({{ site.baseurl }}/speakers/index.html#andreas-olofsson), *Composable chiplets and implications for disaggregated design*  |
 | **3:30 - 3:40**        |						  | Break                                                                                  |
 | **3:40 - 4:45**        | Fatemeh Ganji | **Submitted Talks Session II**                                                         |
 | 						     |    					  | **Long Talk:** *Architectures for Secure Quantum Computing Systems* |
