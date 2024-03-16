@@ -15,7 +15,7 @@ field of hardware security to share their work and foster new ideas.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEJoQtIVvkzBG98MmcmSprJwX9ac-ktbj_0CeBhEPmI75sXg/viewform" style="font-size: 20px;">**Register Now for New England Hardware Security Day 2024!**</a>
 
-Join us for an enlightening journey into the world of hardware security, featuring industry-leading speakers, and unparalleled networking opportunities. Whether you're a seasoned professional, a curious student, or somewhere in between, New England Hardware Security Day 2024 is the key event to explore the latest in hardware security technologies, trends, and research.
+Join us for an enlightening journey into the world of hardware security, featuring industry-leading speakers, and unparalleled networking opportunities. Whether you're a seasoned professional, a curious student, or somewhere in between, NEHWS is the key event to explore the latest in hardware security technologies, trends, and research.
 
 **Call for Contributions**
 
