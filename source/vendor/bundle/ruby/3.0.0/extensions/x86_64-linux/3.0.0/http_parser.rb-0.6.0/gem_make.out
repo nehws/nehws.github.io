@@ -1,16 +1,16 @@
-current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240314-4459-5yrpwd.rb extconf.rb
+current directory: /home/kd/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240315-19782-zcuipa.rb extconf.rb
 creating Makefile
 
-current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: /home/kd/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make DESTDIR\= clean
 
-current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: /home/kd/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make DESTDIR\=
 compiling ruby_http_parser.c
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.so
 
-current directory: /home/kd/Desktop/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: /home/kd/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20240314-4459-28hr3z
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20240315-19782-lr8scv

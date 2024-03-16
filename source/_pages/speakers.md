@@ -44,6 +44,10 @@ as several other research and teaching awards. He has also received the UC Berke
 Electrical Engineering and Computer Science Distinguished Alumni Award (2019) and the IIT
 Delhi Distinguished Alumni Award (2009). He is a fellow of the IEEE and ACM.
 
+<BR>
+<BR>
+<BR>
+
 ### **Andreas Olofsson** ###
 **Zero ASIC**
 
@@ -51,7 +55,8 @@ Delhi Distinguished Alumni Award (2009). He is a fellow of the IEEE and ACM.
 
 **Abstract:** The compounding effect of monolithic miniaturization on electronics has been nothing short of miraculous. In the 1960s, $1 would get you a single slow and bulky transistor. In 2020, that same dollar adjusted for inflation buys you a System-On-Chip (SoC) with over  100 million incredibly fast nanoscale transistors. Now that physical device scaling is approaching hard atomic limits, the question is: Where will the next million fold computing efficiency improvement come from? Highly specialized heterogeneous application specific integrated circuits (ASICs) can offer 1000x improvement in Size, Weight, Power, and Cost (SWAP-C) compared to general-purpose processors. Unfortunately, circuit specialization is poorly aligned with the modern Moore’s Law silicon machine that prioritizes unit cost over engineering costs at all stages of development and manufacturing. In particular, two major economic roadblocks stand in the way of domain specific hyper specialized circuits: 
 1. The design of leading edge monolithic chips costs $100M - $1,000M and takes years to complete, 
-2. Monolithic integration of new devices and materials to advanced CMOS processes costs more than $1B and generally increases per unit production costs. 
+2. Monolithic integration of new devices and materials to advanced CMOS processes costs more than $1B and generally increases per unit production costs.
+
 Chiplets offer a compelling solution to both of these roadblocks. In this talk I will give an overview of the chiplet design landscape and present recent efforts by Zero ASIC to create a system of composable 2D and 3D chiplets supported by a full stack of open interface standards.
 
 ![](../images/andreas-olofsson.jpg){: style="width: 300px; float: left;
