@@ -1,0 +1,75 @@
+I"�<h3 id="sharad-malik"><strong>Sharad Malik</strong></h3>
+<p><strong>Princeton University</strong></p>
+
+<p><strong>Talk title: Don’t Trust, and Verify</strong></p>
+
+<p><strong>Abstract:</strong> In this talk I will address two distinct vectors at the frontier of hardware security:</p>
+<ol>
+  <li>Given the challenges in defending against unknown attacks, an important vector in
+hardware security is obfuscation-based defenses, where randomization and encryption
+are used to increase the design entropy that an attacker needs to overcome for direct
+access to secrets, or indirect access through first accessing critical system information
+assets needed to mount a successful attack.</li>
+  <li>Hardware defenses, through obfuscation or microarchitecture structures, are subject to
+implementation bugs just as the rest of the design, and thus need to be verified/validated
+prior to deployment. Given the higher costs of security design bug escapes, formally
+verifying these defenses is gaining increasing importance.</li>
+</ol>
+
+<p>I will discuss specific projects along both these vectors driven by practical concerns of low
+design overhead and scalability of formal verification techniques.
+This is joint work with the groups of Todd Austin (Michigan), Lauren Biernacki (Lafayette
+College), Thomas Bourgeat (EPFL) and Mengjia Yan (MIT).</p>
+
+<p><img src="../images/sharad-malik.jpg" alt="" style="width: 300px; float: left;
+margin: 5px" /> <strong>Bio:</strong> Sharad Malik is the George Van Ness Lothrop Professor of Engineering at Princeton University.
+He has served as the Director of the multi-university MARCO Gigascale Systems Research
+Center (GSRC, 2009-2012), and as the Associate Director of the Center for Future
+Architectures Research (C-FAR, 2013-2016). His current research focuses on design
+methodology for formal functional and security verification of hardware/hardware-software
+systems. His research in functional timing analysis and propositional satisfiability has been
+widely used in industrial electronic design automation tools. He has received the IEEE/ACM
+Design Automation Conference (DAC) Award for the most cited paper in the 50-year history of
+the conference (2013), the Computer-Aided Verification (CAV) Award for fundamental
+contributions to the development of high-performance Boolean satisfiability solvers (2009), the
+IEEE CEDA A. Richard Newton Technical Impact Award in Electronic Design Automation
+(2017), the Princeton University President’s Award for Distinguished Teaching (2009), as well
+as several other research and teaching awards. He has also received the UC Berkeley
+Electrical Engineering and Computer Science Distinguished Alumni Award (2019) and the IIT
+Delhi Distinguished Alumni Award (2009). He is a fellow of the IEEE and ACM.</p>
+
+<p><br />
+<br />
+<br /></p>
+
+<h3 id="andreas-olofsson"><strong>Andreas Olofsson</strong></h3>
+<p><strong>Zero ASIC</strong></p>
+
+<p><strong>Talk title: Composable chiplets and implications for disaggregated design</strong></p>
+
+<p><strong>Abstract:</strong> The compounding effect of monolithic miniaturization on electronics has been nothing short of miraculous. In the 1960s, $1 would get you a single slow and bulky transistor. In 2020, that same dollar adjusted for inflation buys you a System-On-Chip (SoC) with over  100 million incredibly fast nanoscale transistors. Now that physical device scaling is approaching hard atomic limits, the question is: Where will the next million fold computing efficiency improvement come from? Highly specialized heterogeneous application specific integrated circuits (ASICs) can offer 1000x improvement in Size, Weight, Power, and Cost (SWAP-C) compared to general-purpose processors. Unfortunately, circuit specialization is poorly aligned with the modern Moore’s Law silicon machine that prioritizes unit cost over engineering costs at all stages of development and manufacturing. In particular, two major economic roadblocks stand in the way of domain specific hyper specialized circuits:</p>
+<ol>
+  <li>The design of leading edge monolithic chips costs $100M - $1,000M and takes years to complete,</li>
+  <li>Monolithic integration of new devices and materials to advanced CMOS processes costs more than $1B and generally increases per unit production costs.</li>
+</ol>
+
+<p>Chiplets offer a compelling solution to both of these roadblocks. In this talk I will give an overview of the chiplet design landscape and present recent efforts by Zero ASIC to create a system of composable 2D and 3D chiplets supported by a full stack of open interface standards.</p>
+
+<p><img src="../images/andreas-olofsson.jpg" alt="" style="width: 300px; float: left;
+margin: 5px" /> <strong>Bio:</strong> Andreas Olofsson is the founder and CEO of Zero ASIC, a chiplet semiconductor startup reducing the barrier to ASICs. From 2017 - 2020, Mr. Olofsson was a program manager at DARPA, where he managed 8 different US research programs in heterogeneous integration, EDA, design &amp; verification, high performance computing, machine learning, and analog computing. From 2008-2017, Mr. Olofsson founded and managed Adapteva, an ultra lean fabless semiconductor startup that led the industry in processing energy efficiency. Prior to Adapteva he worked at Analog Devices for 10 years as a design manager and architect for advanced DSPs and mixed signal devices, developing products that shipped in over 100 million systems. Mr. Olofsson received his Bachelor of Science in Physics and Electrical Engineering and Master of Science in Electrical Engineering from the University of Pennsylvania. He is a senior member of IEEE and holds nine U.S. patents.</p>
+
+<p><br />
+<br />
+<br /></p>
+
+<h3 id="wajdi-k-feghali"><strong>Wajdi K. Feghali</strong></h3>
+<p><strong>Intel Fellow, Software and Advanced Technology Group</strong></p>
+
+<p><img src="../images/andreas-olofsson.jpg" alt="" style="width: 300px; float: left;
+margin: 5px" /> <strong>Bio:</strong>Wajdi K. Feghali is an Intel Fellow, Software and Advanced Technology Group at Intel Corporation. He leads the development of cryptography, compression, and data integrity hardware and software solutions with a focus on efficient performance across Intel products.
+Based in Boston, Feghali joined Intel in 2000 to work on hardware cryptographic accelerators for the Intel IXP2850 network processor. Since then, he has worked on hardware acceleration technology, Intel architecture instruction set extensions and software optimizations. Feghali has directed the development of the instructions to accelerate secure hash algorithms (SHA Extensions), the Advanced Encryption Standard New Instructions (AES-NI) and public key algorithms. His contributions to the architecture and implementation of AES-NI earned him an Intel Achievement Award.</p>
+
+<p>Feghali’s work as an instruction set architect has led to the development of new instructions and microarchitecture enhancements for Intel® Core™, Intel® Xeon® and Intel® Atom™ processors. His work as a software and solutions architect has led to optimized software solutions for storage, networking, cloud and data center applications.
+Before joining Intel, Feghali was a hardware accelerator development manager and software designer with TimeStep Corporation and Newbridge Networks Corporation.
+Feghali has been granted more than 300 patents, with numerous other patents pending, and is the author of several published technical papers. He has a bachelor’s degree in mathematics with a minor in computer science from the University of Ottawa in Canada.</p>
+:ET

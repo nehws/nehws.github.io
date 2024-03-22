@@ -61,3 +61,55 @@ Chiplets offer a compelling solution to both of these roadblocks. In this talk I
 
 ![](../images/andreas-olofsson.jpg){: style="width: 300px; float: left;
 margin: 5px"} **Bio:** Andreas Olofsson is the founder and CEO of Zero ASIC, a chiplet semiconductor startup reducing the barrier to ASICs. From 2017 - 2020, Mr. Olofsson was a program manager at DARPA, where he managed 8 different US research programs in heterogeneous integration, EDA, design & verification, high performance computing, machine learning, and analog computing. From 2008-2017, Mr. Olofsson founded and managed Adapteva, an ultra lean fabless semiconductor startup that led the industry in processing energy efficiency. Prior to Adapteva he worked at Analog Devices for 10 years as a design manager and architect for advanced DSPs and mixed signal devices, developing products that shipped in over 100 million systems. Mr. Olofsson received his Bachelor of Science in Physics and Electrical Engineering and Master of Science in Electrical Engineering from the University of Pennsylvania. He is a senior member of IEEE and holds nine U.S. patents.
+
+<BR>
+<BR>
+<BR>
+
+### **Wajdi K. Feghali** ###
+**Intel Fellow, Software and Advanced Technology Group**
+
+![](../images/wajdi-feghali.jpg){: style="width: 300px; float: left;
+margin: 5px"} **Bio:** Wajdi K. Feghali is an Intel Fellow, Software and Advanced Technology Group at Intel Corporation. He leads the development of cryptography, compression, and data integrity hardware and software solutions with a focus on efficient performance across Intel products.
+Based in Boston, Feghali joined Intel in 2000 to work on hardware cryptographic accelerators for the Intel IXP2850 network processor. Since then, he has worked on hardware acceleration technology, Intel architecture instruction set extensions and software optimizations. Feghali has directed the development of the instructions to accelerate secure hash algorithms (SHA Extensions), the Advanced Encryption Standard New Instructions (AES-NI) and public key algorithms. His contributions to the architecture and implementation of AES-NI earned him an Intel Achievement Award.
+
+Feghali’s work as an instruction set architect has led to the development of new instructions and microarchitecture enhancements for Intel® Core™, Intel® Xeon® and Intel® Atom™ processors. His work as a software and solutions architect has led to optimized software solutions for storage, networking, cloud and data center applications.
+Before joining Intel, Feghali was a hardware accelerator development manager and software designer with TimeStep Corporation and Newbridge Networks Corporation.
+Feghali has been granted more than 300 patents, with numerous other patents pending, and is the author of several published technical papers. He has a bachelor’s degree in mathematics with a minor in computer science from the University of Ottawa in Canada.
+
+<BR>
+<BR>
+<BR>
+
+### **Gayatri Perlin** ###
+**BAE Systems Fast Labs**
+
+![](../images/gayatri-perlin.png){: style="width: 300px; float: left;
+margin: 5px"} **Bio:** Gayatri Perlin is the Secure by Design Technology Group Lead in the Assured Solutions Directorate at BAE Systems Fast Labs. She joined BAE Systems from Harvard SEAS where she was a researcher.  Prior to Harvard SEAS, she held positions as Technical Director, PI, Senior Member of Technical Staff, and Member of Technical Staff at Draper and MIT Lincoln Labs.  She brings over 15 years of R&D experience in MEMS, Microelectronics, and Wireless Microsystems with contributions to the development of chip-scale sensing technologies, heterogeneous integration, and implantable microsystems.  
+Gayatri holds a Ph.D. in MEMS and Wireless Integrated Microsystems, a Masters in Solid State Electronics, and a Bachelors in Electrical Engineering, from the University of Michigan, Ann Arbor, as well as a Masters of Business Administration with a concentration in Globalization, Economics and Strategy from Columbia and London Business Schools.
+
+<BR>
+<BR>
+<BR>
+
+### **Dominic Rizzo** ###
+**zeroRISC Inc.**
+
+![](../images/dominic-rizzo.png){: style="width: 300px; float: left;
+margin: 5px"} **Bio:** Dominic Rizzo is co-founder and CEO of zeroRISC Inc., a RISC-V start-up focused on creating trust through transparency via the OpenTitan secure silicon ecosystem. He also founded OpenTitan, the first open source silicon root of trust project, which recently brought a chip to commercial fruition. He previously developed the first FIPS-certified U2F Security Key, and has research interests in secure silicon hardening, trustworthy authenticators, and formal methods for proof of implementation correctness. 
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+### **G. Edward Suh** ###
+**Meta/Cornell University**
+
+![](../images/ed_suh.jpg){: style="width: 300px; float: left;
+margin: 5px"} **Bio:** G. Edward Suh is a Research Scientist at Meta and an Adjunct Professor in the School of Electrical and Computer Engineering at Cornell University.  His research interests include computer systems in general with particular focus on computer architecture and security. His current research focuses on building (verifiably) secure computing systems for secure and private machine learning, and using machine learning to improve the security of computer systems. His past work on the AEGIS secure processor was recognized with the test of time award by Intel for its contribution for trusted execution environments deployed today. He is a Fellow of IEEE.

@@ -31,11 +31,11 @@ permalink: /program/
 | **12:00 - 1:30**    |   					  | **Lunch and Poster Session**                         |
 | **1:30 - 2:30**     | Mengjia Yan | **Panel Discussion:** The Good and the Bad of Hardware Security                |
 |                        |						  | Panelists:                                                                             |
-|                        |						  | - Dominic Rizzo  (Zerorisk)															  |
-|                        |						  | - Gayatri Perlin (BAE)																			  |
+|                        |						  | - [Dominic Rizzo]({{ site.baseurl }}/speakers/index.html#dominic-rizzo) (zeroRISC Inc.)															  |
+|                        |						  | - [Gayatri Perlin]({{ site.baseurl }}/speakers/index.html#gayatri-perlin) (BAE)																			  |
 |                        |						  | - Silviu Chiricescu (DRAPER)																  |
-|                        |						  | - Ed Suh (Meta/Cornell)																			  |
-|                        |						  | - Wajdi K. Feghali (Intel)																		  |
+|                        |						  | - [Ed Suh]({{ site.baseurl }}/speakers/index.html#g-edward-suh) (Meta/Cornell)																			  |
+|                        |						  | - [Wajdi K. Feghali]({{ site.baseurl }}/speakers/index.html#wajdi-k-feghali) (Intel)																		  |
 | **2:30 - 3:30**        | Xiaolin Xu | **Invited Keynote:** [Andreas Olofsson]({{ site.baseurl }}/speakers/index.html#andreas-olofsson), *Composable chiplets and implications for disaggregated design*  |
 | **3:30 - 3:40**        |						  | Break                                                                                  |
 | **3:40 - 4:45**        | Fatemeh Ganji | **Submitted Talks Session II**                                                         |
