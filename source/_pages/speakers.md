@@ -113,3 +113,13 @@ margin: 5px"} **Bio:** Dominic Rizzo is co-founder and CEO of zeroRISC Inc., a R
 
 ![](../images/ed_suh.jpg){: style="width: 300px; float: left;
 margin: 5px"} **Bio:** G. Edward Suh is a Research Scientist at Meta and an Adjunct Professor in the School of Electrical and Computer Engineering at Cornell University.  His research interests include computer systems in general with particular focus on computer architecture and security. His current research focuses on building (verifiably) secure computing systems for secure and private machine learning, and using machine learning to improve the security of computer systems. His past work on the AEGIS secure processor was recognized with the test of time award by Intel for its contribution for trusted execution environments deployed today. He is a Fellow of IEEE.
+
+<BR>
+<BR>
+<BR>
+
+### **Silviu Chiricescu** ###
+**DRAPER**
+
+![](../images/silviu-chiricescu.png){: style="width: 300px; float: left;
+margin: 5px"} **Bio:** Silviu Chiricescu is a DMTS at Draper Laboratory where he is leading research into system-level security addressing issues at all the layers of the compute stack – from low-level hardware to the application. Prior to Draper, Chiricescu was with BAE Systems where he had led, in multiple capacities,  CRAD in the fields of cybersecurity, architecture, and networking.

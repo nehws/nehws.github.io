@@ -33,7 +33,7 @@ permalink: /program/
 |                        |						  | Panelists:                                                                             |
 |                        |						  | - [Dominic Rizzo]({{ site.baseurl }}/speakers/index.html#dominic-rizzo) (zeroRISC Inc.)															  |
 |                        |						  | - [Gayatri Perlin]({{ site.baseurl }}/speakers/index.html#gayatri-perlin) (BAE)																			  |
-|                        |						  | - Silviu Chiricescu (DRAPER)																  |
+|                        |						  | - [Silviu Chiricescu]({{ site.baseurl }}/speakers/index.html#silviu-chiricescu) (DRAPER)																  |
 |                        |						  | - [Ed Suh]({{ site.baseurl }}/speakers/index.html#g-edward-suh) (Meta/Cornell)																			  |
 |                        |						  | - [Wajdi K. Feghali]({{ site.baseurl }}/speakers/index.html#wajdi-k-feghali) (Intel)																		  |
 | **2:30 - 3:30**        | Xiaolin Xu | **Invited Keynote:** [Andreas Olofsson]({{ site.baseurl }}/speakers/index.html#andreas-olofsson), *Composable chiplets and implications for disaggregated design*  |
