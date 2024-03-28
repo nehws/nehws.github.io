@@ -14,6 +14,6 @@ Getting started is easy: simply fill out the registration form below to secure y
 
 [Register for New England Hardware Security Day 2024](https://docs.google.com/forms/d/e/1FAIpQLSdEJoQtIVvkzBG98MmcmSprJwX9ac-ktbj_0CeBhEPmI75sXg/viewform)
 
-We can't wait to welcome you to an event that promises to be both informative and inspiring. If you have any questions or need assistance with your registration, please don't hesitate to contact [our support team](contact@nehws.org).
+We can't wait to welcome you to an event that promises to be both informative and inspiring. If you have any questions or need assistance with your registration, please don't hesitate to contact [our support team](mailto:contact@nehws.org).
 
 Welcome to the community of innovators, educators, and leaders shaping the future of hardware security.
