@@ -117,3 +117,5 @@ permalink: /program/
 - *Leveraging Large Language Models for Addressing Hardware Security Challenges*, Weimin Fu, Xuan Zhang and Xiaolong Guo
 
 - *Fault+Probe: A Generic Rowhammer-based Bit Recovery Attack*, Kemal Derya, M. Caner Tol and Berk Sunar
+
+- *When Memory Mappings Attack: On the (Mis)use of the ARM Cortex-M FPB Unit*, Haoqi Shan, Dean Sullivan and Orlando Arias 
