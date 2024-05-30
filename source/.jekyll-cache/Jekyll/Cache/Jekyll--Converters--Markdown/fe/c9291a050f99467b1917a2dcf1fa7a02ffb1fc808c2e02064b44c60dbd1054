@@ -1,0 +1,322 @@
+I"�4<h3 id="program"><strong>Program</strong></h3>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th style="text-align: center">Session Chair</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:00 - 9:15</strong></td>
+      <td style="text-align: center">Shahin Tajik</td>
+      <td><strong>Welcome Remarks</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9:15 - 9:30</strong></td>
+      <td style="text-align: center">Fatemeh Ganji</td>
+      <td><strong>Opening remarks by Ben Linville-Engler (MassTech) “ME Commons and CHIPS Act”</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>News from the NEHWS Community</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9:30 - 10:30</strong></td>
+      <td style="text-align: center">Fatemeh Ganji</td>
+      <td><strong>Invited Keynote:</strong> <a href="/speakers/index.html#sharad-malik">Sharad Malik</a>, <em>Don’t Trust, and Verify</em></td>
+    </tr>
+    <tr>
+      <td><strong>10:30 - 10:45</strong></td>
+      <td style="text-align: center"> </td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td><strong>10:45 - 12:00</strong></td>
+      <td style="text-align: center">Xiaolin Xu</td>
+      <td><strong>Submitted Talks Session I</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <a href="(/images/Bharadwaj_NEHWS_24.pptx)"><em>Breaching Privacy: Memory Scraping Attack on Xilinx FPGAs</em></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><u>Bharadwaj Madabhushi</u>, Sandip Kundu and Daniel Holcomb (University of Massachusetts Amherst)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>Driving into The Unknown: Investigating and Addressing Security Breaches in Vehicle Infotainment System</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Yingjie Cao, Haoqi Shan, <u>Maisha Mastora</u> and Dean Sullivan (University of New Hampshire)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Deep-learning Model Extraction through Software-based Power Side-channel</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><u>Xiang Zhang</u>, A. Adam Ding and Yunsi Fei (Northeastern University)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <a href="(/images/KyungmiLee_NEHWS.pptx)"><em>SecureLoop: Design Space Exploration of Secure DNN Accelerators</em></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><u>Kyungmi Lee</u>, Mengjia Yan, Joel Emer and Anantha Chandrakasan (Massachusetts Institute of Technology)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>LeakyOhm: Secret Bits Extraction using Impedance Analysis</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><u>Saleh Khalaj Monfared</u>, Tahoura Mosavirik and Shahin Tajik (Worcester Polytechnic Institute)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <a href="/images/Aysu_boston.pptx"><em>A Full-Stack Approach for Side-Channel Secure ML Hardware</em></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Anuj Dubey and <u>Aydin Aysu</u> (North Carolina State University)</td>
+    </tr>
+    <tr>
+      <td><strong>12:00 - 1:30</strong></td>
+      <td style="text-align: center"> </td>
+      <td><strong>Lunch and Poster Session</strong></td>
+    </tr>
+    <tr>
+      <td><strong>1:30 - 2:30</strong></td>
+      <td style="text-align: center">Mengjia Yan</td>
+      <td><strong>Panel Discussion:</strong> The Good and the Bad of Hardware Security</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Panelists:</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers/index.html#dominic-rizzo">Dominic Rizzo</a> (zeroRISC Inc.)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers/index.html#gayatri-perlin">Gayatri Perlin</a> (BAE)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers/index.html#silviu-chiricescu">Silviu Chiricescu</a> (DRAPER)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers/index.html#g-edward-suh">Ed Suh</a> (Meta/Cornell)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers/index.html#wajdi-k-feghali">Wajdi K. Feghali</a> (Intel)</td>
+    </tr>
+    <tr>
+      <td><strong>2:30 - 3:30</strong></td>
+      <td style="text-align: center">Xiaolin Xu</td>
+      <td><strong>Invited Keynote:</strong> <a href="/speakers/index.html#andreas-olofsson">Andreas Olofsson</a>, <em>Composable chiplets and implications for disaggregated design</em></td>
+    </tr>
+    <tr>
+      <td><strong>3:30 - 3:40</strong></td>
+      <td style="text-align: center"> </td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td><strong>3:40 - 4:45</strong></td>
+      <td style="text-align: center">Fatemeh Ganji</td>
+      <td><strong>Submitted Talks Session II</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Architectures for Secure Quantum Computing Systems</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><u>Jakub Szefer</u> (Yale University)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>1/0 Shades of UC: Photonic Side-Channel Analysis of Universal Circuits</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><u>Dev Mehta</u>, Mohammad Hashemi, Domenic Forte, Shahin Tajik and Fatemeh Ganji (Worcester Polytechnic Institute)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <a href="(/images/Long_NEHWS23)"><em>Protecting Sensors from Electromagnetic Side-channel Leakage</em></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><u>Yan Long</u> and Kevin Fu (Northeastern University)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>On the Feasibility of Golden-free PCB Verification</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><u>Maryam Saadat Safa</u>, Patrick Schaumont and Shahin Tajik (Worcester Polytechnic Institute)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <a href="(/images/Liu_Entrybleed_NEHWS.pdf)"><em>EntryBleed: A Universal KASLR Bypass against KPTI on Linux</em></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><u>William Liu</u>, Joseph Ravichandran and Mengjia Yan (Massachusetts Institute of Technology)</td>
+    </tr>
+    <tr>
+      <td><strong>4:45 - 5:00</strong></td>
+      <td style="text-align: center">Qiaoyan Yu and Koksal Mus</td>
+      <td><strong>Best Poster Award and Closing Remarks</strong></td>
+    </tr>
+    <tr>
+      <td><strong>5:00 - 6:00</strong></td>
+      <td style="text-align: center"> </td>
+      <td><strong>Networking reception</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="posters"><strong>Posters</strong></h3>
+
+<ul>
+  <li>
+    <p><em>Extending FPGA Information Leaks with Trojan Phantom Circuits</em>, Anthony Etim, Shanquan Tian and Jakub Szefer</p>
+  </li>
+  <li>
+    <p><em>NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation</em>, Antian Wang and Yingjie Lao</p>
+  </li>
+  <li>
+    <p><em>VertexSerum: Poisoning Graph Neural Networks for Link Inference</em>, Ruyi Ding, Shijin Duan, Xiaolin Xu and Yunsi Fei</p>
+  </li>
+  <li>
+    <p><em>USBSnoop: Revealing Devices Activities via USB Congestion</em>, Davis Ranney and Yufei Wang</p>
+  </li>
+  <li>
+    <p><em>TrustZoneTunnel: A Cross-world Pattern History Table-based Microarchitectural Side-channel Attack</em>, Tianhong Xu and Yunsi Fei</p>
+  </li>
+  <li>
+    <p><em>SiliconEchoes: Non-Invasive Trojan and Tamper Detection using Frequency-Selective Impedance Analysis</em>, Tahoura Mosavirik, Saleh Khalaj Monfared, Maryam Saadat Safa and Shahin Tajik</p>
+  </li>
+  <li>
+    <p><em>Voltage-Drop Attack Mitigation in Multi-Tenant FPGA Environments</em>, Mashrafi Alam Kajol, Sandeep Sunkavilli and Qiaoyan Yu</p>
+  </li>
+  <li>
+    <p><em>Information Leakage in Quantum Computers</em>, Chuanqi Xu and Jakub Szefer</p>
+  </li>
+  <li>
+    <p><em>PQC-DSA in Hardware</em>, Sanjay Deshpande, James Howe, Cansu Karakuzu, Yongseok Lee, Yunheung Paek, Jakub Szefer and Dongze Yue</p>
+  </li>
+  <li>
+    <p><em>LightEMU: Hardware-Assisted Fuzzing of Trusted Applications</em>, Haoqi Shan, Sravani Nissankarararao, Yujia Liu, Moyao Huang, Shuo Wang, Yier Jin and Dean Sullivan</p>
+  </li>
+  <li>
+    <p><em>Power Side-Channel Attacks on Quantum Computer Controllers &amp; Quantum Circuit Reconstructions</em>, Ferhat Erata, Chuanqi Xu, Ruzica Piskac and Jakub Szefer</p>
+  </li>
+  <li>
+    <p><em>HeisenTrojans: A New Class of Hardware Attacks</em>, Akshita Mavurapu, Haoqi Shan, Xiaolong Guo, Orlando Arias and Dean Sullivan</p>
+  </li>
+  <li>
+    <p><em>Dynamic Attack Resilience for New FPGA Use Model</em>, Sandeep Sunkavilli, Nishanth Chennagouni and Qiaoyan Yu</p>
+  </li>
+  <li>
+    <p><em>SoteriaQ: Securing Quantum Circuits</em>, Theodoros Trochatos</p>
+  </li>
+  <li>
+    <p><em>Developing a Threat Model of Laser-Induced Acoustic Interference in Computer Vision-Assisted Vehicles</em>, Nina Shamsi, Kaeshav Chandrasekar, Yan Long, Christopher Limbach, Keith Rebello, Kevin Fu</p>
+  </li>
+  <li>
+    <p><em>A Hybrid Neural Network for Simultaneous Multi-Attack Detection in Sensor Networks</em>, Nishanth Chennagouni, Mohammad Monjur, Wei Lu and Qiaoyan Yu</p>
+  </li>
+  <li>
+    <p><em>Homomorphic Encryption Dataflow Optimizations With Evaluation on the Ring Processing Unit (RPU)</em>, Negar Neda, Austin Ebel and Brandon Reagen</p>
+  </li>
+  <li>
+    <p><em>Efficient Privacy-preserving NN Inference at the Edge</em>, Antonio Torres, Mohammad Hashemi and Fatemeh Ganji</p>
+  </li>
+  <li>
+    <p><em>Too Hot To Be True: Temperature Calibration for Higher Confidence in  NN-assisted Side-channel Analysis</em>, Seyedmohammad Nouraniboosjin and Fatemeh Ganji</p>
+  </li>
+  <li>
+    <p><em>T-Scope: Side-channel Leakage Assessment with a Hardware-accelerated Online TVLA Test</em>, Hao Wang, Andrew Malnicof and Patrick Schaumont</p>
+  </li>
+  <li>
+    <p><em>SCAPEgoat: A Side Channel Analysis Library</em>, Trey Marcantonio, Samuel Karkache, Amit Virchandbhai Prajapati, Dev Mehta, Dillibabu Shanmugam, Mohammad Hashemi, Fatemeh Ganji and Patrick Schaumont</p>
+  </li>
+  <li>
+    <p><em>CAPRI6: An ASIC for Fault Root-Causing</em>, Zhenyuan Liu, Dillibabu Shanmugam, Adithya Ramesh and Patrick Schaumont</p>
+  </li>
+  <li>
+    <p><em>Energy Detection-Based Framework for Detecting and Mitigating Jamming Attacks in Ultra-Low Power IoT Systems</em>, Shabd Swaroop Kandarpa, Ankit Mittal and Aatmesh Shrivastava</p>
+  </li>
+  <li>
+    <p><em>Architecting GPUs for Practical Fully Homomorphic Encryption</em>, Aymane El Jerari, Frank Rossi, Kaustubh Shivdikar, Alexander Ingare and David Kaeli</p>
+  </li>
+  <li>
+    <p><em>Microscope: Causality Inference Crossing the Hardware and Software Boundary from Hardware Perspective</em>, Zhaoxiang Liu, Kejun Chen, Dean Sullivan, Orlando Arias and Xiaolong Guo</p>
+  </li>
+  <li>
+    <p><em>CAPRI6: Front-end, Simulation and Back-end</em>, Dillibabu Shanmugam, Zhenyuan Liu, Adithya Ramesh and Patrick Schaumont</p>
+  </li>
+  <li>
+    <p><em>Decoding Processor Secrets: Exploring Side-Channel Vulnerabilities in Instructions</em>, Arna Roy, Zhenyuan Charlotte Liu and Patrick Schaumont</p>
+  </li>
+  <li>
+    <p><em>CAPRI6: FPGA prototyping a 6-core MSP430 for Fault Root Cause Analysis</em>, Adithya Ramesh, Zhenyuan Liu, Dillibabu Shanmugam and Patrick Schaumont</p>
+  </li>
+  <li>
+    <p><em>SoteriaQ: Securing Quantum Circuits</em>, Theodoros Trochatos, Chuanqi Xu, Sanjay Deshpande, Yao Lu, Yongshan Ding and Jakub Szefer</p>
+  </li>
+  <li>
+    <p><em>Leveraging Large Language Models for Addressing Hardware Security Challenges</em>, Weimin Fu, Xuan Zhang and Xiaolong Guo</p>
+  </li>
+  <li>
+    <p><em>Fault+Probe: A Generic Rowhammer-based Bit Recovery Attack</em>, Kemal Derya, M. Caner Tol and Berk Sunar</p>
+  </li>
+  <li>
+    <p><em>When Memory Mappings Attack: On the (Mis)use of the ARM Cortex-M FPB Unit</em>, Haoqi Shan, Dean Sullivan and Orlando Arias</p>
+  </li>
+</ul>
+:ET

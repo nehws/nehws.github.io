@@ -16,17 +16,17 @@ permalink: /program/
 | **9:30 - 10:30**    | Fatemeh Ganji | **Invited Keynote:** [Sharad Malik]({{ site.baseurl }}/speakers/index.html#sharad-malik), *Don’t Trust, and Verify* |
 | **10:30&nbsp;-&nbsp;10:45**  |    						| Break                                                                                  |
 | **10:45 - 12:00**  | Xiaolin Xu        | **Submitted Talks Session I**                                                              |
-| 						     |    					  | **Long Talk:** *Breaching Privacy: Memory Scraping Attack on Xilinx FPGAs* |
+| 						     |    					  | **Long Talk:** [*Breaching Privacy: Memory Scraping Attack on Xilinx FPGAs*]({{ site.baseurl }}/images/Bharadwaj_NEHWS_24.pptx) |
 | 						     |    					  | <u>Bharadwaj Madabhushi</u>, Sandip Kundu and Daniel Holcomb (University of Massachusetts Amherst)|
 | 						     |    					  | **Short Talk:** *Driving into The Unknown: Investigating and Addressing Security Breaches in Vehicle Infotainment System* |
 | 						     |    					  | Yingjie Cao, Haoqi Shan, <u>Maisha Mastora</u> and Dean Sullivan (University of New Hampshire) |
-| 						     |    					  | **Long Talk:** *Deep-learning Model Extraction through Software-based Power Side-channel* |
+| 						     |    					  | **Long Talk:** [*Deep-learning Model Extraction through Software-based Power Side-channel*]({{ site.baseurl }}/images/Zhang_NEHWS2024.pptx) |
 | 						     |    					  | <u>Xiang Zhang</u>, A. Adam Ding and Yunsi Fei (Northeastern University) |
-| 						     |    					  | **Short Talk:** *SecureLoop: Design Space Exploration of Secure DNN Accelerators* |
+| 						     |    					  | **Short Talk:** [*SecureLoop: Design Space Exploration of Secure DNN Accelerators*]({{ site.baseurl }}/images/KyungmiLee_NEHWS.pptx) |
 | 						     |    					  | <u>Kyungmi Lee</u>, Mengjia Yan, Joel Emer and Anantha Chandrakasan (Massachusetts Institute of Technology) |
-| 						     |    					  | **Long Talk:** *LeakyOhm: Secret Bits Extraction using Impedance Analysis* |
+| 						     |    					  | **Long Talk:** [*LeakyOhm: Secret Bits Extraction using Impedance Analysis*]({{ site.baseurl }}/images/Monfared_LeakyOhmNEHWS24.pptx) |
 | 						     |    					  | <u>Saleh Khalaj Monfared</u>, Tahoura Mosavirik and Shahin Tajik (Worcester Polytechnic Institute) |
-| 						     |    					  | **Short Talk:** *A Full-Stack Approach for Side-Channel Secure ML Hardware* |
+| 						     |    					  | **Short Talk:** [*A Full-Stack Approach for Side-Channel Secure ML Hardware*]({{ site.baseurl }}/images/Aysu_boston.pptx) |
 | 						     |    					  | Anuj Dubey and <u>Aydin Aysu</u> (North Carolina State University) |
 | **12:00 - 1:30**    |   					  | **Lunch and Poster Session**                         |
 | **1:30 - 2:30**     | Mengjia Yan | **Panel Discussion:** The Good and the Bad of Hardware Security                |
@@ -39,15 +39,15 @@ permalink: /program/
 | **2:30 - 3:30**        | Xiaolin Xu | **Invited Keynote:** [Andreas Olofsson]({{ site.baseurl }}/speakers/index.html#andreas-olofsson), *Composable chiplets and implications for disaggregated design*  |
 | **3:30 - 3:40**        |						  | Break                                                                                  |
 | **3:40 - 4:45**        | Fatemeh Ganji | **Submitted Talks Session II**                                                         |
-| 						     |    					  | **Long Talk:** *Architectures for Secure Quantum Computing Systems* |
+| 						     |    					  | **Long Talk:** [*Architectures for Secure Quantum Computing Systems*]({{ site.baseurl }}/images/szefer-nehws-2024-long-talk.pptx) |
 | 						     |    					  | <u>Jakub Szefer</u> (Yale University) |
-| 						     |    					  | **Short Talk:** *1/0 Shades of UC: Photonic Side-Channel Analysis of Universal Circuits* |
+| 						     |    					  | **Short Talk:** [*1/0 Shades of UC: Photonic Side-Channel Analysis of Universal Circuits*]({{ site.baseurl }}/images/Mehta_NEHWS_talk.pptx) |
 | 						     |    					  | <u>Dev Mehta</u>, Mohammad Hashemi, Domenic Forte, Shahin Tajik and Fatemeh Ganji (Worcester Polytechnic Institute) |
-| 						     |    					  | **Long Talk:** *Protecting Sensors from Electromagnetic Side-channel Leakage* |
+| 						     |    					  | **Long Talk:** [*Protecting Sensors from Electromagnetic Side-channel Leakage*]({{ site.baseurl }}/images/Long_NEHWS24.pptx) |
 | 						     |    					  | <u>Yan Long</u> and Kevin Fu (Northeastern University) |
-| 						     |    					  | **Short Talk:** *On the Feasibility of Golden-free PCB Verification* |
+| 						     |    					  | **Short Talk:** [*On the Feasibility of Golden-free PCB Verification*]({{ site.baseurl }}/images/Sadatsafa_GoldenNEHWS.pptx) |
 | 						     |    					  | <u>Maryam Saadat Safa</u>, Patrick Schaumont and Shahin Tajik (Worcester Polytechnic Institute) |
-| 						     |    					  | **Long Talk:** *EntryBleed: A Universal KASLR Bypass against KPTI on Linux* |
+| 						     |    					  | **Long Talk:** [*EntryBleed: A Universal KASLR Bypass against KPTI on Linux*]({{ site.baseurl }}/images/Liu_Entrybleed_NEHWS.pdf) |
 | 						     |    					  | <u>William Liu</u>, Joseph Ravichandran and Mengjia Yan (Massachusetts Institute of Technology) |
 | **4:45 - 5:00**        | Qiaoyan Yu and Koksal Mus | **Best Poster Award and Closing Remarks**                                                  |
 | **5:00 - 6:00**        |						  | **Networking reception**             |
