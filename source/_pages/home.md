@@ -51,6 +51,7 @@ security.
   <img src="images/organizer_logo_unh.png" style="width: 80px">
   <img src="images/organizer_logo_wpi.png" style="width: 80px">
   <img src="images/organizer_logo_nwu.png" style="width: 80px">
+  <img src="images/organizer_logo_tufts.png" style="width: 80px">
 </figure>
 
 <BR>
