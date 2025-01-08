@@ -1,5 +1,5 @@
 ---
-title: "NEHWS 2024"
+title: "NEHWS 2025"
 layout: orglay
 excerpt: "Organization"
 sitemap: false
@@ -16,42 +16,24 @@ permalink: /organization/
   <img src="../images/organizer_logo_umass.png" style="width: 80px">
   <img src="../images/organizer_logo_unh.png" style="width: 80px">
   <img src="../images/organizer_logo_wpi.png" style="width: 80px">
-  <img src="../images/organizer_logo_yale.png" style="width: 80px">
+  <img src="../images/organizer_logo_nwu.png" style="width: 80px">
 </figure>
 
-**NEHWS 24 Organizers**
+**NEHWS 25 Organizers**
 
-| General Chair                 |  Daniel Holcomb | 
-| PC Chair                       |  Fatemeh (Saba) Ganji | 
-| PC Co-Chair                  |   Xiaolin Xu | 
-| Industry Co-Chairs          |    Yunsi Fei and Patrick Schaumont | 
-| Local Co-Chairs                |  Berk Sunar and Shahin Tajik | 
-| Outreach Co-Chairs    |  Shahin Tajik and Mengjia Yan | 
-| Panel Co-Chairs               |  Mengjia Yan and Shahin Tajik | 
-| Poster Co-Chairs             |  Koksal Mus and Qiaoyan Yu | 
-| Publicity Co-Chairs    |  Yarkin Doroz and Jakub Szefer | 
+| General Chair                 |  Fatemeh (Saba) Ganji |
+| Local Chair                   | Mengjia Yan |
+| PC Chair                       |  Xiaolin Xu | 
+| PC Co-Chair                  |   Dean Sullivan | 
+| Industry Co-Chairs          |    Shahin Tajik and Jakub Szefer | 
+| Outreach Co-Chair     |  Jakub Szefer | 
+| Panel Chair               |  Seetal Potluri | 
+| Poster Chair             |  Yingjie Lao | 
+| Publicity Co-Chairs    |  Shahin Tajik and Dean Sullivan | 
 | Web Chair                     |  Kemal Derya | 
 
 <BR>
 
-**NEHWS 24 Program Committee**
+**NEHWS 25 Program Committee**
 
-| Orlando Arias  |
-| Prabuddha Chakraborty 	|
-| Joe Chapman          |
-| Yunsi Fei               |
-| Daniel Holcomb	|
-| Omer Khan	|
-| Sandhya Koteshwara      |
-| Yingjie Lao	|
-| Yukui Luo	|
-| Koksal Mus	  		|
-| Hoda Naghibijouybari		|
-| Satwik Patnaik	|
-| Seetal Potluri	|
-| Patrick Schaumont       |
-| Dean Sullivan           |
-| Berk Sunar	  |
-| Shahin Tajik            |
-| Mengjia Yan             |
-| Qiaoyan Yu              |
+**TBD**

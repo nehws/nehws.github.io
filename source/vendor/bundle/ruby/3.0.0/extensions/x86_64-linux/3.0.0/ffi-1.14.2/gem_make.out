@@ -1,5 +1,5 @@
 current directory: /home/kd/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/ffi-1.14.2/ext/ffi_c
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240315-19782-y1t51z.rb extconf.rb
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20250108-12118-kohgst.rb extconf.rb
 checking for ffi.h... yes
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
@@ -40,4 +40,4 @@ linking shared-object ffi_c.so
 
 current directory: /home/kd/nehws.github.io/source/vendor/bundle/ruby/3.0.0/gems/ffi-1.14.2/ext/ffi_c
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20240315-19782-d5uwgc
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20250108-12118-wkc2w8
