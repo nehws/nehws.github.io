@@ -29,12 +29,24 @@ permalink: /organization/
 | Industry Co-Chairs          |    Shahin Tajik and Jakub Szefer | 
 | Outreach Co-Chair     |  Jakub Szefer | 
 | Panel Chair               |  Seetal Potluri | 
-| Poster Chair             |  Yingjie Lao | 
-| Publicity Co-Chairs    |  Shahin Tajik and Dean Sullivan | 
+| Poster Co-Chair             |  Yingjie Lao | 
+| Publicity Co-Chairs  &nbsp; &nbsp;  |  Shahin Tajik and Dean Sullivan | 
 | Web Chair                     |  Kemal Derya | 
 
 <BR>
 
 **NEHWS 25 Program Committee**
 
-**TBD**
+| Berk Sunar |
+| Daniel Holcomb |
+| David Kaeli |
+| Orlando Arias |
+| Patrick Schaumont |
+| Prabuddha Chakraborty |
+| Sandhya Koteshwara |
+| Satwik Patnaik |
+| Shahin Tajik |
+| Xiaolong Guo |
+| Yan Long |
+| Yukui Luo |
+| Zirui Zhao |

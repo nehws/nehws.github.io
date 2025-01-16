@@ -29,8 +29,7 @@ The submission deadline is **February 10, 2025**.
 
 * **<FONT COLOR=red>Deadline for submission is February 10, 2025.</FONT>**
 * Submit your contribution at the <a href="https://easychair.org/account2/signin?l=7166491674874806137" target="_blank">NEHWS25 submission site</a>
-
-[//]: <> * [Download the call](images/NEHWS2024-updated.pdf)
+* [Download the Call for Contributions](images/NEHWS2025.pdf)
 
 **Call for Sponsors**
 
