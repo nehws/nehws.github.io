@@ -8,10 +8,8 @@ permalink: /speakers/
 
 ### **Speakers** ###
 
-TBD
-
-[//]: <> ### **Sharad Malik** ###
-[//]: <> **Princeton University**
+### **Edward Suh** ###
+**NVIDIA**
 
 [//]: <> **Talk title: Don’t Trust, and Verify**
 
@@ -31,23 +29,22 @@ TBD
 [//]: <> This is joint work with the groups of Todd Austin (Michigan), Lauren Biernacki (Lafayette
 [//]: <> College), Thomas Bourgeat (EPFL) and Mengjia Yan (MIT).
 
-[//]: <> ![](../images/sharad-malik.jpg){: style="width: 300px; float: left;
-[//]: <> margin: 5px"} **Bio:** Sharad Malik is the George Van Ness Lothrop Professor of Engineering at Princeton University.
-[//]: <> He has served as the Director of the multi-university MARCO Gigascale Systems Research
-[//]: <> Center (GSRC, 2009-2012), and as the Associate Director of the Center for Future
-[//]: <> Architectures Research (C-FAR, 2013-2016). His current research focuses on design
-[//]: <> methodology for formal functional and security verification of hardware/hardware-software
-[//]: <> systems. His research in functional timing analysis and propositional satisfiability has been
-[//]: <> widely used in industrial electronic design automation tools. He has received the IEEE/ACM
-[//]: <> Design Automation Conference (DAC) Award for the most cited paper in the 50-year history of
-[//]: <> the conference (2013), the Computer-Aided Verification (CAV) Award for fundamental
-[//]: <> contributions to the development of high-performance Boolean satisfiability solvers (2009), the
-[//]: <> IEEE CEDA A. Richard Newton Technical Impact Award in Electronic Design Automation
-[//]: <> (2017), the Princeton University President’s Award for Distinguished Teaching (2009), as well
-[//]: <> as several other research and teaching awards. He has also received the UC Berkeley
-[//]: <> Electrical Engineering and Computer Science Distinguished Alumni Award (2019) and the IIT
-[//]: <> Delhi Distinguished Alumni Award (2009). He is a fellow of the IEEE and ACM.
-[//]: <> 
-[//]: <> <BR>
-[//]: <> <BR>
-[//]: <> <BR>
+![](../images/ed_suh.jpg){: style="width: 300px; float: left;
+margin: 5px"} **Bio:** G. Edward Suh is a Senior Director of Research, and leads a group in security 
+and privacy research. He is also an Adjunct Professor in the School of Electrical and Computer 
+Engineering at Cornell University, where he served on the faculty from 2007 to 2023. Before joining 
+NVIDIA, he was a Research Scientist in the Fundamental AI Research (FAIR) team at Meta. He earned 
+a B.S. in Electrical Engineering from Seoul National University and an M.S. and a Ph.D. in Electrical 
+Engineering and Computer Science from the Massachusetts Institute of Technology (MIT). His research 
+interests include computer systems in general with particular focus on computer architecture and 
+security. His recent research focuses on building secure computing systems for secure and private 
+AI, and using AI to improve the security of computer systems. His past research received multiple 
+test-of-time awards and is widely recognized for the impact at the intersection of hardware and security. 
+For example, his work on Physical Unclonable Function (PUF) is now used in commercial products such as 
+Xilinx FPGAs for storing secret keys. His work on the AEGIS secure processor received a test-of-time 
+award for its contribution for trusted execution environments deployed across the industry today. He is a 
+Fellow of IEEE.
+
+<BR>
+<BR>
+<BR>
