@@ -1,4 +1,4 @@
-<p><img src="images/nehwslogo.png" alt="" style="width: 150px; display: block; margin: auto;" /></p>
+I"h	<p><img src="images/nehwslogo.png" alt="" style="width: 150px; display: block; margin: auto;" /></p>
 
 <p><strong>April 18th, 2025, Massachusetts Institute of Technology, Cambridge, MA</strong></p>
 
@@ -12,10 +12,10 @@ field of hardware security to share their work and foster new ideas.</p>
 
 <p>Please consider submitting your work for presentation at NEHWS 2025.
 We are looking for announcements, research talks, and posters.
-The submission deadline is <strong>February 10, 2025</strong>.</p>
+The submission deadline is <del>February 10, 2025</del> <strong>February 14, 2025</strong>.</p>
 
 <ul>
-  <li><strong><FONT COLOR="red">Deadline for submission is February 10, 2025.</FONT></strong></li>
+  <li><strong><FONT COLOR="red">Deadline for submission is extended to February 14, 2025.</FONT></strong></li>
   <li>Submit your contribution at the <a href="https://easychair.org/account2/signin?l=7166491674874806137" target="_blank">NEHWS25 submission site</a></li>
   <li><a href="images/NEHWS2025.pdf">Download the Call for Contributions</a></li>
 </ul>
@@ -34,14 +34,15 @@ security.</p>
 <p><strong>NEHWS is driven by the hardware security research community at these universities</strong></p>
 
 <figure class="fourth">
-  <img src="images/organizer_logo_mit.png" style="width: 80px" />
+  <p><img src="images/organizer_logo_mit.png" style="width: 80px" />
   <img src="images/organizer_logo_northeastern.png" style="width: 80px" />
   <img src="images/organizer_logo_umass.png" style="width: 80px" />
   <img src="images/organizer_logo_unh.png" style="width: 80px" />
   <img src="images/organizer_logo_wpi.png" style="width: 80px" />
   <img src="images/organizer_logo_nwu.png" style="width: 80px" />
-  <img src="images/organizer_logo_tufts.png" style="width: 80px" />
+  <img src="images/organizer_logo_tufts.png" style="width: 80px" /></p>
 </figure>
 
 <p><br /></p>
 
+:ET

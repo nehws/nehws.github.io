@@ -24,10 +24,10 @@ Join us for an enlightening journey into the world of hardware security, featuri
 
 Please consider submitting your work for presentation at NEHWS 2025.
 We are looking for announcements, research talks, and posters.
-The submission deadline is **February 10, 2025**.
+The submission deadline is ~~February 10, 2025~~ **February 14, 2025**.
 
 
-* **<FONT COLOR=red>Deadline for submission is February 10, 2025.</FONT>**
+* **<FONT COLOR=red>Deadline for submission is extended to February 14, 2025.</FONT>**
 * Submit your contribution at the <a href="https://easychair.org/account2/signin?l=7166491674874806137" target="_blank">NEHWS25 submission site</a>
 * [Download the Call for Contributions](images/NEHWS2025.pdf)
 
