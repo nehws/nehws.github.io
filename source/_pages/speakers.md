@@ -71,3 +71,34 @@ Science from the University of Wisconsin in 1996.
 <BR>
 <BR>
 <BR>
+
+### **Srini Devadas** ###
+**Massachusetts Institute of Technology (MIT)**
+
+![](../images/srini_devadas.jpeg){: style="width: 230px; float: left;
+margin: 5px"} **Bio:** Srini Devadas is the Webster Professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT). He received his MS and PhD from the University of California, Berkeley in 1986 and 1988, respectively. He joined MIT in 1988 and served as Associate Head of the Department of Electrical Engineering and Computer Science, with responsibility for Computer Science, from 2005 to 2011.
+Devadas’s research interests span Computer-Aided Design (CAD), computer security and computer architecture and he has received significant awards from each discipline. He received the 1990 IEEE Transactions on CAD best paper award for work on synthesis for testability and the 1996 IEEE Transactions on VLSI Systems best paper award for work on power estimation. He received the 50th Design Automation Conference (DAC 2013) Top 10 Cited Author Award, for being among the top ten most cited DAC authors in DAC’s 50 year history and the DAC Best-Paper Hat-Trick Award, for winning DAC best paper awards three times. Devadas was elected a Fellow of the IEEE in 1999 for contributions to design automation.
+Devadas and his students invented silicon Physical Unclonable Functions (PUFs) in 2002. PUFs are the technological basis of the founding of Verayo, a company focused on improving the security of computer hardware. Based on integrated-circuit manufacturing variation, Verayo has developed secure RFID chips that are in use in anti-counterfeiting applications and secret-key generation technology. Devadas’s papers on PUFs have received best paper awards at ACSAC 2002, HOST 2011 and HOST 2012.
+In computer architecture, Devadas’s papers on analytical cache modeling and the Aegis single-chip secure processor were recognized as influential papers in the “25 Years of the International Conference on Supercomputing” volume. His work on hardware-information flow tracking published in the 2004 ASPLOS received the ASPLOS Most Influential Paper Award in 2014.
+
+<BR>
+<BR>
+
+### **Christof Paar** ###
+**Max Planck Institute**
+
+![](../images/christof_paar.jpeg){: style="width: 230px; float: left;
+margin: 5px"} **Bio:** Christof Paar is currently the Director of the Max Planck Institute for Security and Privacy, Germany. He is also affiliated with the University of Massachusetts Amherst. He is also the Co-Founder of ESCRYPT Inc., a leading system provider for automotive security, which is now part of Bosch. He has co-founded Cryptographic Hardware and Embedded Systems (CHES), the leading international conference on applied cryptography. His research interests include hardware security, physical-layer security, and security analysis of real-world systems. He is a fellow of IACR and the IEEE. He has given invited talks at MIT, Oxford, Stanford, and Yale.
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+### **Shivam Bhasin** ###
+**Nanyang Technical University(NTU)**
+
+![](../images/shivam_bhasin.jpeg){: style="width: 230px; float: left;
+margin: 5px"} **Bio:** Shivam Bhasin received the bachelor's degree from UP Tech, India, in 2007, the master's degree from Mines Saint-Etienne, France, in 2008, and the PhD degree from Telecom Paristech, in 2011. He is a senior research scientist and principal investigator at Physical Analysis and Cryptographic Engineering Laboratory, Temasek labs, Nanyang Technical University Singapore, since 2015. His research interests include embedded security, trusted computing and secure designs. Before NTU, Shivam held position of Research Engineer in Institut Mines-Telecom, France. He was also a visiting researcher at UCL, Belgium (2011) and Kobe University, Japan (2013). He regularly publishes at top peer reviewed journals and conferences. Some of his research now also forms a part of ISO/IEC 17825 Standard. He is a member of the IEEE.

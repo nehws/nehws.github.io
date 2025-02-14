@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2025</title>
-  <meta name="description" content="Speakers">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/speakers/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2025</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://nehws.org/registration">Registration</a></li>
-		<li><a href="https://nehws.org/venue">Venue & Travel</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-		<li><a href="https://nehws.org/archive">Archive</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <h3 id="speakers"><strong>Speakers</strong></h3>
+I"�<h3 id="speakers"><strong>Speakers</strong></h3>
 
 <h3 id="edward-suh"><strong>Edward Suh</strong></h3>
 <p><strong>NVIDIA</strong></p>
@@ -104,6 +56,7 @@ Devadas and his students invented silicon Physical Unclonable Functions (PUFs) i
 In computer architecture, Devadas’s papers on analytical cache modeling and the Aegis single-chip secure processor were recognized as influential papers in the “25 Years of the International Conference on Supercomputing” volume. His work on hardware-information flow tracking published in the 2004 ASPLOS received the ASPLOS Most Influential Paper Award in 2014.</p>
 
 <p><br />
+<br />
 <br /></p>
 
 <h3 id="christof-paar"><strong>Christof Paar</strong></h3>
@@ -124,35 +77,4 @@ margin: 5px" /> <strong>Bio:</strong> Christof Paar is currently the Director of
 
 <p><img src="../images/shivam_bhasin.jpeg" alt="" style="width: 230px; float: left;
 margin: 5px" /> <strong>Bio:</strong> Shivam Bhasin received the bachelor’s degree from UP Tech, India, in 2007, the master’s degree from Mines Saint-Etienne, France, in 2008, and the PhD degree from Telecom Paristech, in 2011. He is a senior research scientist and principal investigator at Physical Analysis and Cryptographic Engineering Laboratory, Temasek labs, Nanyang Technical University Singapore, since 2015. His research interests include embedded security, trusted computing and secure designs. Before NTU, Shivam held position of Research Engineer in Institut Mines-Telecom, France. He was also a visiting researcher at UCL, Belgium (2011) and Kobe University, Japan (2013). He regularly publishes at top peer reviewed journals and conferences. Some of his research now also forms a part of ISO/IEC 17825 Standard. He is a member of the IEEE.</p>
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2025 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://nehws.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
