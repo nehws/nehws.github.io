@@ -88,7 +88,7 @@ In computer architecture, Devadas’s papers on analytical cache modeling and th
 **Max Planck Institute**
 
 ![](../images/christof_paar.jpeg){: style="width: 230px; float: left;
-margin: 5px"} **Bio:** Christof Paar is currently the Director of the Max Planck Institute for Security and Privacy, Germany. He is also affiliated with the University of Massachusetts Amherst. He is also the Co-Founder of ESCRYPT Inc., a leading system provider for automotive security, which is now part of Bosch. He has co-founded Cryptographic Hardware and Embedded Systems (CHES), the leading international conference on applied cryptography. His research interests include hardware security, physical-layer security, and security analysis of real-world systems. He is a fellow of IACR and the IEEE. He has given invited talks at MIT, Oxford, Stanford, and Yale.
+margin: 5px"} **Bio:** Christof Paar is Director of the Max Planck Institute for Security and Privacy, Germany. He is also affiliated with the University of Massachusetts Amherst. He is also the Co-Founder of ESCRYPT Inc., a leading system provider for automotive security, which is now part of Bosch. He has co-founded Cryptographic Hardware and Embedded Systems (CHES), the leading international conference on applied cryptography. His research interests include hardware security, physical-layer security, and security analysis of real-world systems. He is a fellow of IACR and the IEEE. He has given invited talks at MIT, Oxford, Stanford, and Yale.
 
 <BR>
 <BR>
