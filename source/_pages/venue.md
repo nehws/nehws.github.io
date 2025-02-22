@@ -18,6 +18,14 @@ permalink: /venue/
 
 Samberg Conference Center MIT, Chang Building (E52), 50 Memorial Drive, Cambridge, MA.
 
+### **Parking** ###
+
+Click [here](../images/mit_parking.pdf) for MIT parking information.
+
+### **Accommodation** ###
+
+Click [here](../images/hotel_info.pdf) for the hotel information.
+
 ### **Floor Plan** ###
 
 The workshop will take place on 6th floor, Room 3&4.
