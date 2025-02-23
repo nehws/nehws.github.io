@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2025</title>
-  <meta name="description" content="Speakers">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/speakers/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2025</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://nehws.org/registration">Registration</a></li>
-		<li><a href="https://nehws.org/venue">Venue & Travel</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-		<li><a href="https://nehws.org/archive">Archive</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <h3 id="speakers"><strong>Speakers</strong></h3>
+I"j <h3 id="speakers"><strong>Speakers</strong></h3>
 
 <h3 id="edward-suh"><strong>Edward Suh</strong></h3>
 <p><strong>NVIDIA</strong></p>
@@ -89,7 +41,9 @@ the ACM Maurice Wilkes Award for “innovative contributions in Computer Archite
 Toolkit and the DIVA and Razor architectures.” Todd is an IEEE Fellow, and he received his PhD in Computer 
 Science from the University of Wisconsin in 1996.</p>
 
-<p><br /></p>
+<p><br />
+<br />
+<br /></p>
 
 <h3 id="srini-devadas"><strong>Srini Devadas</strong></h3>
 <p><strong>Massachusetts Institute of Technology (MIT)</strong></p>
@@ -100,7 +54,8 @@ Devadas’s research interests span Computer-Aided Design (CAD), computer securi
 Devadas and his students invented silicon Physical Unclonable Functions (PUFs) in 2002. PUFs are the technological basis of the founding of Verayo, a company focused on improving the security of computer hardware. Based on integrated-circuit manufacturing variation, Verayo has developed secure RFID chips that are in use in anti-counterfeiting applications and secret-key generation technology. Devadas’s papers on PUFs have received best paper awards at ACSAC 2002, HOST 2011 and HOST 2012.
 In computer architecture, Devadas’s papers on analytical cache modeling and the Aegis single-chip secure processor were recognized as influential papers in the “25 Years of the International Conference on Supercomputing” volume. His work on hardware-information flow tracking published in the 2004 ASPLOS received the ASPLOS Most Influential Paper Award in 2014.</p>
 
-<p><br /></p>
+<p><br />
+<br /></p>
 
 <h3 id="christof-paar"><strong>Christof Paar</strong></h3>
 <p><strong>Max Planck Institute</strong></p>
@@ -109,7 +64,6 @@ In computer architecture, Devadas’s papers on analytical cache modeling and th
 margin: 5px" /> <strong>Bio:</strong> Christof Paar is Director of the Max Planck Institute for Security and Privacy, Germany. He is also affiliated with the University of Massachusetts Amherst. He is also the Co-Founder of ESCRYPT Inc., a leading system provider for automotive security, which is now part of Bosch. He has co-founded Cryptographic Hardware and Embedded Systems (CHES), the leading international conference on applied cryptography. His research interests include hardware security, physical-layer security, and security analysis of real-world systems. He is a fellow of IACR and the IEEE. He has given invited talks at MIT, Oxford, Stanford, and Yale.</p>
 
 <p><br />
-<br />
 <br />
 <br />
 <br />
@@ -126,40 +80,9 @@ margin: 5px" /> <strong>Bio:</strong> Shivam Bhasin received the bachelor’s de
 <br />
 <br /></p>
 
-<h3 id="dominic-rizzo"><strong>Dominic Rizzo</strong></h3>
+<h3 id="dom-rizzo"><strong>Dom Rizzo</strong></h3>
 <p><strong>zeroRISC</strong></p>
 
 <p><img src="../images/dom_rizzo.jpeg" alt="" style="width: 230px; float: left;
 margin: 5px" /> <strong>Bio:</strong> Dominic Rizzo is the founder and CEO of zeroRISC. His research interests include hardening silicon implementations against physical attacks and side channels, trustworthy authenticators, and formal methods to provide implementation security and correctness guarantees. He received a B.S. in aerospace engineering from the Massachusetts Institute of Technology and an M.S. in computer science from the California Institute of Technology.</p>
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2025 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://nehws.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET

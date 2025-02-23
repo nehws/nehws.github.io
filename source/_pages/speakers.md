@@ -46,7 +46,6 @@ award for its contribution for trusted execution environments deployed across th
 Fellow of IEEE.
 
 <BR>
-<BR>
 
 ### **Todd Austin** ###
 **University of Michigan**
@@ -69,8 +68,6 @@ Toolkit and the DIVA and Razor architectures." Todd is an IEEE Fellow, and he re
 Science from the University of Wisconsin in 1996.
 
 <BR>
-<BR>
-<BR>
 
 ### **Srini Devadas** ###
 **Massachusetts Institute of Technology (MIT)**
@@ -81,7 +78,6 @@ Devadas’s research interests span Computer-Aided Design (CAD), computer securi
 Devadas and his students invented silicon Physical Unclonable Functions (PUFs) in 2002. PUFs are the technological basis of the founding of Verayo, a company focused on improving the security of computer hardware. Based on integrated-circuit manufacturing variation, Verayo has developed secure RFID chips that are in use in anti-counterfeiting applications and secret-key generation technology. Devadas’s papers on PUFs have received best paper awards at ACSAC 2002, HOST 2011 and HOST 2012.
 In computer architecture, Devadas’s papers on analytical cache modeling and the Aegis single-chip secure processor were recognized as influential papers in the “25 Years of the International Conference on Supercomputing” volume. His work on hardware-information flow tracking published in the 2004 ASPLOS received the ASPLOS Most Influential Paper Award in 2014.
 
-<BR>
 <BR>
 
 ### **Christof Paar** ###
@@ -96,9 +92,21 @@ margin: 5px"} **Bio:** Christof Paar is Director of the Max Planck Institute for
 <BR>
 <BR>
 <BR>
+<BR>
 
 ### **Shivam Bhasin** ###
 **Nanyang Technical University(NTU)**
 
 ![](../images/shivam_bhasin.jpeg){: style="width: 230px; float: left;
 margin: 5px"} **Bio:** Shivam Bhasin received the bachelor's degree from UP Tech, India, in 2007, the master's degree from Mines Saint-Etienne, France, in 2008, and the PhD degree from Telecom Paristech, in 2011. He is a senior research scientist and principal investigator at Physical Analysis and Cryptographic Engineering Laboratory, Temasek labs, Nanyang Technical University Singapore, since 2015. His research interests include embedded security, trusted computing and secure designs. Before NTU, Shivam held position of Research Engineer in Institut Mines-Telecom, France. He was also a visiting researcher at UCL, Belgium (2011) and Kobe University, Japan (2013). He regularly publishes at top peer reviewed journals and conferences. Some of his research now also forms a part of ISO/IEC 17825 Standard. He is a member of the IEEE.
+
+
+<BR>
+<BR>
+<BR>
+
+### **Dominic Rizzo** ###
+**zeroRISC**
+
+![](../images/dom_rizzo.jpeg){: style="width: 230px; float: left;
+margin: 5px"} **Bio:** Dominic Rizzo is the founder and CEO of zeroRISC. His research interests include hardening silicon implementations against physical attacks and side channels, trustworthy authenticators, and formal methods to provide implementation security and correctness guarantees. He received a B.S. in aerospace engineering from the Massachusetts Institute of Technology and an M.S. in computer science from the California Institute of Technology.
