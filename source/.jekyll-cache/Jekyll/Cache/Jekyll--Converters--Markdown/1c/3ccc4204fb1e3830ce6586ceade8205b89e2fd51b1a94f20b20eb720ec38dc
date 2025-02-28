@@ -1,4 +1,4 @@
-I"\ <h3 id="speakers"><strong>Speakers</strong></h3>
+I"<!<h3 id="speakers"><strong>Speakers</strong></h3>
 
 <h3 id="edward-suh"><strong>Edward Suh</strong></h3>
 <p><strong>NVIDIA</strong></p>
@@ -52,16 +52,16 @@ Devadas’s research interests span Computer-Aided Design (CAD), computer securi
 Devadas and his students invented silicon Physical Unclonable Functions (PUFs) in 2002. PUFs are the technological basis of the founding of Verayo, a company focused on improving the security of computer hardware. Based on integrated-circuit manufacturing variation, Verayo has developed secure RFID chips that are in use in anti-counterfeiting applications and secret-key generation technology. Devadas’s papers on PUFs have received best paper awards at ACSAC 2002, HOST 2011 and HOST 2012.
 In computer architecture, Devadas’s papers on analytical cache modeling and the Aegis single-chip secure processor were recognized as influential papers in the “25 Years of the International Conference on Supercomputing” volume. His work on hardware-information flow tracking published in the 2004 ASPLOS received the ASPLOS Most Influential Paper Award in 2014.</p>
 
-<p><br />
-<br /></p>
+<p><br /></p>
 
 <h3 id="christof-paar"><strong>Christof Paar</strong></h3>
 <p><strong>Max Planck Institute</strong></p>
 
 <p><img src="../images/christof_paar.jpeg" alt="" style="width: 230px; float: left;
-margin: 5px" /> <strong>Bio:</strong> Christof Paar is Director of the Max Planck Institute for Security and Privacy, Germany. He is also affiliated with the University of Massachusetts Amherst. He is also the Co-Founder of ESCRYPT Inc., a leading system provider for automotive security, which is now part of Bosch. He has co-founded Cryptographic Hardware and Embedded Systems (CHES), the leading international conference on applied cryptography. His research interests include hardware security, physical-layer security, and security analysis of real-world systems. He is a fellow of IACR and the IEEE. He has given invited talks at MIT, Oxford, Stanford, and Yale.</p>
+margin: 5px" /> <strong>Bio:</strong> Christof Paar is Director at the Max Planck Institute for Security and Privacy, Germany, and affiliated with the University of Massachusetts Amherst. His research interests include hardware security, physical-layer security, applied cryptography and security analysis of real-world systems. He has co-founded Cryptographic Hardware and Embedded Systems (CHES), the leading international conference on applied cryptography. Christof is one of the designers of the popular lightweight cipher PRESENT and co-author of the widely used textbook Understanding Cryptography. He is a fellow of IEEE and IACR (International Association for Cryptologic Research), and has given invited talks at Cambridge, Harvard, MIT, Oxford, Stanford and Yale. He co-founded ESCRYPT Inc., a leading provider for automotive security solutions, which is now part of Bosch.</p>
 
 <p><br />
+<br />
 <br />
 <br />
 <br />
@@ -78,7 +78,7 @@ margin: 5px" /> <strong>Bio:</strong> Shivam Bhasin received the bachelor’s de
 <br />
 <br /></p>
 
-<h3 id="dom-rizzo"><strong>Dom Rizzo</strong></h3>
+<h3 id="dominic-rizzo"><strong>Dominic Rizzo</strong></h3>
 <p><strong>zeroRISC</strong></p>
 
 <p><img src="../images/dom_rizzo.jpeg" alt="" style="width: 230px; float: left;

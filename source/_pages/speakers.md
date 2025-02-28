@@ -84,7 +84,7 @@ In computer architecture, Devadas’s papers on analytical cache modeling and th
 **Max Planck Institute**
 
 ![](../images/christof_paar.jpeg){: style="width: 230px; float: left;
-margin: 5px"} **Bio:** Christof Paar is Director of the Max Planck Institute for Security and Privacy, Germany. He is also affiliated with the University of Massachusetts Amherst. He is also the Co-Founder of ESCRYPT Inc., a leading system provider for automotive security, which is now part of Bosch. He has co-founded Cryptographic Hardware and Embedded Systems (CHES), the leading international conference on applied cryptography. His research interests include hardware security, physical-layer security, and security analysis of real-world systems. He is a fellow of IACR and the IEEE. He has given invited talks at MIT, Oxford, Stanford, and Yale.
+margin: 5px"} **Bio:** Christof Paar is Director at the Max Planck Institute for Security and Privacy, Germany, and affiliated with the University of Massachusetts Amherst. His research interests include hardware security, physical-layer security, applied cryptography and security analysis of real-world systems. He has co-founded Cryptographic Hardware and Embedded Systems (CHES), the leading international conference on applied cryptography. Christof is one of the designers of the popular lightweight cipher PRESENT and co-author of the widely used textbook Understanding Cryptography. He is a fellow of IEEE and IACR (International Association for Cryptologic Research), and has given invited talks at Cambridge, Harvard, MIT, Oxford, Stanford and Yale. He co-founded ESCRYPT Inc., a leading provider for automotive security solutions, which is now part of Bosch. 
 
 <BR>
 <BR>
