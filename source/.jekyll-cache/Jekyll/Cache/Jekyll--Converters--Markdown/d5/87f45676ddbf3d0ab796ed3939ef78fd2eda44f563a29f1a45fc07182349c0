@@ -1,52 +1,5 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2025</title>
-  <meta name="description" content="Speakers">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/speakers/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2025</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://nehws.org/registration">Registration</a></li>
-		<li><a href="https://nehws.org/venue">Venue & Travel</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-		<li><a href="https://nehws.org/archive">Archive</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <h3 id="speakers"><strong>Speakers</strong></h3>
+I"
+*<h3 id="speakers"><strong>Speakers</strong></h3>
 
 <h3 id="makoto-nagata"><strong>Makoto Nagata</strong></h3>
 <p><strong>Kobe University</strong></p>
@@ -60,6 +13,8 @@ margin: 5px" /> <strong>Bio:</strong> Makoto Nagata received the B.S. and M.S. d
 He chaired the technology directions subcommittee for ISSCC (2018-2022) and served for an executive committee member of the conference (2023-2025). He was the technical program chair (2010–2011), the symposium chair (2012–2013), and an executive committee member (2014–2015) for the symposium on VLSI circuits. He was an organizing committee chair of AsianHOST 2024. He was the IEEE Solid-State Circuits Society (SSCS) AdCom member (2020-2022) and appointed as the distinguished lecturer (2020-2021 and 2024-) and the chapters vice chair of the society (2022-). He is presently the president of Electronics Society of IEICE.</p>
 
 <p><br />
+<br />
+<br />
 <br />
 <br />
 <br /></p>
@@ -147,35 +102,4 @@ margin: 5px" /> <strong>Bio:</strong> Shivam Bhasin received the bachelor’s de
 
 <p><img src="../images/dom_rizzo.jpeg" alt="" style="width: 230px; float: left;
 margin: 5px" /> <strong>Bio:</strong> Dominic Rizzo is the founder and CEO of zeroRISC. His research interests include hardening silicon implementations against physical attacks and side channels, trustworthy authenticators, and formal methods to provide implementation security and correctness guarantees. He received a B.S. in aerospace engineering from the Massachusetts Institute of Technology and an M.S. in computer science from the California Institute of Technology.</p>
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2025 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://nehws.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET

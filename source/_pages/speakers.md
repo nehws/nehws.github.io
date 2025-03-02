@@ -8,6 +8,22 @@ permalink: /speakers/
 
 ### **Speakers** ###
 
+### **Makoto Nagata** ###
+**Kobe University**
+
+**Talk title: Chip-Backside Vulnerability to Side Channel Attacks Exploiting Intentional Electromagnetic Interference**
+
+**Abstract:** Si substrate backside of an integrated circuit (IC) chip, more precisely, the backside surface of its Silicon substrate provides open areas for adversarial security attacks. An IC chip becomes vulnerable against electromagnetic (EM) interference in both emanation and irradiation particularly in flip-chip packaging. The talk covers EM side channel (SC) leakages over the Si substrate backside, additionally with intentional SC amplification according to design falsification. It also details the mechanisms of bit-flip errors in bistable circuits intentionally caused by high-voltage pulse (HVP) injection on the backside of the IC. The chip-backside vulnerability of an IC chip will be experimentally given with Si examples as well as analytically described with simulation models.
+
+![](../images/makoto_nagata.png){: style="width: 250px; float: left;
+margin: 5px"} **Bio:** Makoto Nagata received the B.S. and M.S. degrees in physics from Gakushuin University, Tokyo, Japan, in 1991 and 1993, respectively, and the Ph.D. degree in electronics engineering from Hiroshima University, Hiroshima, Japan, in 2001. He is a full professor at Kobe University since 2009, and served for the dean of the graduate school of science, technology and innovation (2022-2023).
+He chaired the technology directions subcommittee for ISSCC (2018-2022) and served for an executive committee member of the conference (2023-2025). He was the technical program chair (2010–2011), the symposium chair (2012–2013), and an executive committee member (2014–2015) for the symposium on VLSI circuits. He was an organizing committee chair of AsianHOST 2024. He was the IEEE Solid-State Circuits Society (SSCS) AdCom member (2020-2022) and appointed as the distinguished lecturer (2020-2021 and 2024-) and the chapters vice chair of the society (2022-). He is presently the president of Electronics Society of IEICE.
+
+<BR>
+<BR>
+<BR>
+<BR>
+
 ### **Edward Suh** ###
 **NVIDIA**
 
