@@ -126,3 +126,18 @@ margin: 5px"} **Bio:** Shivam Bhasin received the bachelor's degree from UP Tech
 
 ![](../images/dom_rizzo.jpeg){: style="width: 230px; float: left;
 margin: 5px"} **Bio:** Dominic Rizzo is the founder and CEO of zeroRISC. His research interests include hardening silicon implementations against physical attacks and side channels, trustworthy authenticators, and formal methods to provide implementation security and correctness guarantees. He received a B.S. in aerospace engineering from the Massachusetts Institute of Technology and an M.S. in computer science from the California Institute of Technology.
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+### **Sharad Malik** ###
+**Princeton University**
+
+![](../images/Sharad_malik.jpeg){: style="width: 230px; float: left;
+margin: 5px"} **Bio:** Sharad Malik (F’02) received the B.Tech. degree in electrical engineering from the Indian Institute of Technology Delhi, New Delhi, India, in 1985, and the M.S. and Ph.D. degrees in computer science from the University of California at Berkeley, Berkeley, CA, USA, in 1987 and 1990, respectively.
+He served as the Director of the Keller Center for Innovation in Engineering Education, Princeton University, Princeton, NJ, USA, from 2006 to 2011. He is the George Van Ness Lothrop Professor of Engineering with Princeton University and the Chair of the Department of Electrical Engineering. He has served as the Director of the multi-university MARCO Gigascale Systems Research Center, Berkeley, CA, USA, from 2009 to 2012, and as the Associate Director of the Center for Future Architectures Research, Ann Arbor, MI, USA, from 2013 to 2016. His research in functional timing analysis and propositional satisfiability has been widely used in industrial electronic design automation tools. His current research interest includes design methodology and design automation for computing systems.
+Dr. Malik has received the IEEE/ACM Design Automation Conference Award for the most cited paper in the 50-year history of the conference in 2013, the Computer-Aided Verification Award for fundamental contributions to the development of high-performance Boolean satisfiability solvers in 2009, the IEEE/ACM International Conference on Computer-Aided Design Ten Year Retrospective Most Influential Paper Award in 2011, the IEEE CEDA A. Richard Newton Technical Impact Award in Electronic Design Automation in 2017, the Princeton University Presidents Award for Distinguished Teaching in 2009, the IIT Delhi Distinguished Alumni Award in 2009, as well as several other research and teaching awards. He is a fellow of the ACM.

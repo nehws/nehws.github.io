@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2025</title>
-  <meta name="description" content="Speakers">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/speakers/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2025</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://nehws.org/registration">Registration</a></li>
-		<li><a href="https://nehws.org/venue">Venue & Travel</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-		<li><a href="https://nehws.org/archive">Archive</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <h3 id="speakers"><strong>Speakers</strong></h3>
+I"2<h3 id="speakers"><strong>Speakers</strong></h3>
 
 <h3 id="makoto-nagata"><strong>Makoto Nagata</strong></h3>
 <p><strong>Kobe University</strong></p>
@@ -156,41 +108,10 @@ margin: 5px" /> <strong>Bio:</strong> Dominic Rizzo is the founder and CEO of ze
 <br /></p>
 
 <h3 id="sharad-malik"><strong>Sharad Malik</strong></h3>
-<p><strong>Princeton University</strong></p>
+<p><strong>zeroRISC</strong></p>
 
 <p><img src="../images/Sharad_malik.jpeg" alt="" style="width: 230px; float: left;
 margin: 5px" /> <strong>Bio:</strong> Sharad Malik (F’02) received the B.Tech. degree in electrical engineering from the Indian Institute of Technology Delhi, New Delhi, India, in 1985, and the M.S. and Ph.D. degrees in computer science from the University of California at Berkeley, Berkeley, CA, USA, in 1987 and 1990, respectively.
 He served as the Director of the Keller Center for Innovation in Engineering Education, Princeton University, Princeton, NJ, USA, from 2006 to 2011. He is the George Van Ness Lothrop Professor of Engineering with Princeton University and the Chair of the Department of Electrical Engineering. He has served as the Director of the multi-university MARCO Gigascale Systems Research Center, Berkeley, CA, USA, from 2009 to 2012, and as the Associate Director of the Center for Future Architectures Research, Ann Arbor, MI, USA, from 2013 to 2016. His research in functional timing analysis and propositional satisfiability has been widely used in industrial electronic design automation tools. His current research interest includes design methodology and design automation for computing systems.
 Dr. Malik has received the IEEE/ACM Design Automation Conference Award for the most cited paper in the 50-year history of the conference in 2013, the Computer-Aided Verification Award for fundamental contributions to the development of high-performance Boolean satisfiability solvers in 2009, the IEEE/ACM International Conference on Computer-Aided Design Ten Year Retrospective Most Influential Paper Award in 2011, the IEEE CEDA A. Richard Newton Technical Impact Award in Electronic Design Automation in 2017, the Princeton University Presidents Award for Distinguished Teaching in 2009, the IIT Delhi Distinguished Alumni Award in 2009, as well as several other research and teaching awards. He is a fellow of the ACM.</p>
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2025 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://nehws.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
