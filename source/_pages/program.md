@@ -60,11 +60,11 @@ permalink: /program/
 |                           |                        | Tianhong Xu, Aidong Ding, and Yunsi Fei                                                                     |
 |                           |                        | **Short Talk:** *Uncertainty Estimation in Neural Network-enabled Side-channel Analysis and Links to Interpretability* |
 |                           |                        | Seyedmohammad Nouraniboosjin and Fatemeh Ganji                                                           |
-|                           |                        | **Long Talk:** *Groove: Protecting ASLR Against Microarchitectural Attacks*                                 |
+|                           |                        | **Long Talk:** *Oreo: Protecting ASLR Against Microarchitectural Attacks*                                 |
 |                           |                        | Shixion Song, Joseph Zhang, and Mengjia Yan                                                                 |
 |                           |                        | **Short Talk:** *Cross-Layer EM Fault Injection Assessment Framework*                                       |
 |                           |                        | Hanqiu Weng, Ruochen Dai, Tuba Yavuz, Xiaolong Guo, Orlando Arias, Dean Sullivan, Siqi Dai, Honggang Yu, Michael Lee, Domenic Forte, and Shuo Wang |
-|                           |                        | **Long Talk:** *Toward Intelligent and Resilient Secure Architectures Using Isolated Domains of Dynamic Integrity Trees* |
+|                           |                        | **Long Talk:** *IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees* |
 |                           |                        | Md Hafizul Islam Chowdhury and Fan Yao                                                                       |
 | **4:45 - 5:45**           | TBA                    | **Invited Keynote by [Makoto Nagata](/speakers#makoto-nagata) (Kobe University)**                                                      |
 | **5:45 - 6:00**           | Yingjie Lao            | **Best Poster Award and Closing Remarks**                                                                   |
