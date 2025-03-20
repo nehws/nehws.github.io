@@ -1,4 +1,22 @@
-I"D<h3 id="program"><strong>Program</strong></h3>
+I"F<style>
+  #textid table th:nth-child(1),
+  #textid table td:nth-child(1) {
+    width: 10%;
+    white-space: nowrap;
+  }
+
+  #textid table th:nth-child(2),
+  #textid table td:nth-child(2) {
+    width: 15%;
+  }
+
+  #textid table th:nth-child(3),
+  #textid table td:nth-child(3) {
+    width: 75%;
+  }
+</style>
+
+<h3 id="program"><strong><a href="/images/NEHWS_25_Program_01.pdf">Program</a></strong></h3>
 
 <table>
   <thead>
@@ -112,32 +130,32 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td>- <a href="/speakers#shivam-bhasin">Shivam Bhasin</a> (Nanyang Technical University)</td>
+      <td>- <a href="/speakers#shivam-bhasim">Shivam Bhasin</a> (Nanyang Technical University)</td>
     </tr>
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td>- [Srini Devadas] (Massachusetts Institute of Technology)</td>
+      <td>- <a href="/speakers#srini-devadas">Srini Devadas</a> (Massachusetts Institute of Technology)</td>
     </tr>
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td>- [Sharad Malik] (Princeton University)</td>
+      <td>- <a href="/speakers#sharad-malik">Sharad Malik</a> (Princeton University)</td>
     </tr>
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td>- [Christof Paar] (Max Planck Institute)</td>
+      <td>- <a href="/speakers#chris-paar">Christof Paar</a> (Max Planck Institute)</td>
     </tr>
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td>- [Dominic Rizzo] (zeroRISC)</td>
+      <td>- <a href="/speakers#dom-rizzo">Dominic Rizzo</a> (zeroRISC)</td>
     </tr>
     <tr>
       <td><strong>2:30 - 3:30</strong></td>
       <td style="text-align: center">TBA</td>
-      <td><strong>Invited Keynote by Ed. Suh (Nvidia)</strong></td>
+      <td><strong>Invited Keynote by <a href="/speakers#ed-suh">Ed. Suh</a> (Nvidia)</strong></td>
     </tr>
     <tr>
       <td><strong>3:30 - 3:40</strong></td>
@@ -167,12 +185,12 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td>Seyedehmahmodamin Nourianbojnos and Fatemeh Ganji</td>
+      <td>Seyedmohammad Nouraniboosjin and Fatemeh Ganji</td>
     </tr>
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Long Talk:</strong> <em>Groove: Protecting ASLR Against Microarchitectural Attacks</em></td>
+      <td><strong>Long Talk:</strong> <em>Oreo: Protecting ASLR Against Microarchitectural Attacks</em></td>
     </tr>
     <tr>
       <td> </td>
@@ -192,7 +210,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Long Talk:</strong> <em>Toward Intelligent and Resilient Secure Architectures Using Isolated Domains of Dynamic Integrity Trees</em></td>
+      <td><strong>Long Talk:</strong> <em>IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees</em></td>
     </tr>
     <tr>
       <td> </td>
