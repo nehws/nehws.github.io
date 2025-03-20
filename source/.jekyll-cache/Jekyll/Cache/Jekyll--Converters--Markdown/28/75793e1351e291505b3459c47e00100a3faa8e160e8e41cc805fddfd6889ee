@@ -1,0 +1,221 @@
+I"(<h3 id="program"><strong>Program</strong></h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th style="text-align: center">Session Chair</th>
+      <th>Session Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:00 - 9:15</strong></td>
+      <td style="text-align: center">TBA</td>
+      <td><strong>Welcome Remarks</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9:15 - 9:30</strong></td>
+      <td style="text-align: center">TBA</td>
+      <td><strong>Opening remarks</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>News from the NEHWS Community</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9:30 - 10:30</strong></td>
+      <td style="text-align: center">TBA</td>
+      <td><strong>Invited Keynote by Todd Austin (UMich)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>10:30 - 10:45</strong></td>
+      <td style="text-align: center"> </td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td><strong>10:45 - 12:00</strong></td>
+      <td style="text-align: center">TBA</td>
+      <td><strong>Submitted Talks— Session I</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>FaultDetective: Explainable to a Fault, from the Design Layout to the Software</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Zhenyuan Liu, Dillibabu Shanmugam, and Patrick Schaumont</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>BackMon: IC Backside Tamper Detection using On-Chip Impedance Monitoring</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Tahoura Mosavirik and Shahin Tajik</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Who is in Control? Security Risks in Commercial ADAS</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Yingjie Cao, George Crane, Haoqi Shan, and Dean Sullivan</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>Energy-Accuracy-Security Trade-offs in Resistive In-Memory Computing Architectures</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Saion Roy and Naresh Shanbhag</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>VGF: Value-Guided Fuzzing – Fuzzing Hardware as Hardware</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Ruochen Dai, Michael Lee, Patrick Hoey, Weimin Fu, Yier Jin, Xiaolong Guo, Shuo Wang, Dean Sullivan, Tuba Yavuz, and Orlando Arias</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>USBSnoop – Revealing Device Activities via USB Congestions</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Dais Ranney, Yufei Wang, A. Adam Ding, and Yunsi Fei</td>
+    </tr>
+    <tr>
+      <td><strong>12:00 - 1:30</strong></td>
+      <td style="text-align: center"> </td>
+      <td><strong>Lunch and Poster Session</strong></td>
+    </tr>
+    <tr>
+      <td><strong>1:30 - 2:30</strong></td>
+      <td style="text-align: center">Seetal Potluri</td>
+      <td><strong>Panel Discussion:</strong> <em>“Secure-by-Construction for Hardware Design: Mission Impossible or Walk in the Park?”</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- Shivam Bhasin (Nanyang Technical University)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- Srini Devadas (Massachusetts Institute of Technology)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- Sharad Malik (Princeton University)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- Christof Paar (Max Planck Institute)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- Dominic Rizzo (zeroRISC)</td>
+    </tr>
+    <tr>
+      <td><strong>2:30 - 3:30</strong></td>
+      <td style="text-align: center">TBA</td>
+      <td><strong>Invited Keynote by Ed. Suh (Nvidia)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>3:30 - 3:40</strong></td>
+      <td style="text-align: center"> </td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td><strong>3:40 - 4:45</strong></td>
+      <td style="text-align: center">TBA</td>
+      <td><strong>Submitted Talks— Session II</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Exploiting Exclusive System-Level Cache in Apple M-Series SoCs for Enhanced Cache Occupancy Attacks</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Tianhong Xu, Aidong Ding, and Yunsi Fei</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>Uncertainty Estimation in Neural Network-enabled Side-channel Analysis and Links to Interpretability</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Seyedehmahmodamin Nourianbojnos and Fatemeh Ganji</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Groove: Protecting ASLR Against Microarchitectural Attacks</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Shixion Song, Joseph Zhang, and Mengjia Yan</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>Cross-Layer EM Fault Injection Assessment Framework</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Hanqiu Weng, Ruochen Dai, Tuba Yavuz, Xiaolong Guo, Orlando Arias, Dean Sullivan, Siqi Dai, Honggang Yu, Michael Lee, Domenic Forte, and Shuo Wang</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Toward Intelligent and Resilient Secure Architectures Using Isolated Domains of Dynamic Integrity Trees</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Md Hafizul Islam Chowdhury and Fan Yao</td>
+    </tr>
+    <tr>
+      <td><strong>4:45 - 5:45</strong></td>
+      <td style="text-align: center">TBA</td>
+      <td><strong>Invited Keynote by Makoto Nagata(speakers.md#shivam-bhasin) (Kobe University)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>5:45 - 6:00</strong></td>
+      <td style="text-align: center">Yingjie Lao</td>
+      <td><strong>Best Poster Award and Closing Remarks</strong></td>
+    </tr>
+    <tr>
+      <td><strong>6:00 - 7:00</strong></td>
+      <td style="text-align: center"> </td>
+      <td><strong>Networking reception</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Let me know if you need additional edits or adjustments!</p>
+:ET
