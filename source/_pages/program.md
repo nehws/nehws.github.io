@@ -69,3 +69,45 @@ permalink: /program/
 | **4:45 - 5:45**           | TBA                    | **Invited Keynote by [Makoto Nagata](/speakers#makoto-nagata) (Kobe University)**                                                      |
 | **5:45 - 6:00**           | Yingjie Lao            | **Best Poster Award and Closing Remarks**                                                                   |
 | **6:00 - 7:00**           |                        | **Networking reception**                                                                                    |
+
+### **[Accepted Posters](/images/Accepted-Posters.pdf)** ###
+
+- *On-die Differential Sensing for Monitoring and Analysis of Dynamic Computing Environments*, Shahriar Hadayeghparast, Xiang Li, Aleksa Deric, and Daniel Holcomb
+
+- *Hardware Acceleration for Fully Homomorphic Encryption Scheme Switching from CKKS to FHEW*, Kaiyuan Zhang, Antian Wang, Keshab Parhi, and Yingjie Lao
+
+- *Logical Maneuvers: Detecting and Mitigating Adversarial Hardware Faults in Space*, Fatemeh Khojasteh Dana, Saleh Khalaj Monfared, and Shahin Tajik
+
+- *Side-channel Threats in Fault-Tolerant Quantum Computers*, Theodoros Trochatos, Christopher Kang, Frederic T. Chong, and Jakub Szefer
+
+- *Securing HHL Quantum Algorithm against Quantum Computer Attacks*, Yizhuo Tan, Hrvoje Kukina, and Jakub Szefer
+
+- *Winograd for NTT: A Case Study on Higher-Radix and Low-Latency Implementation of NTT for Post Quantum Cryptography on FPGA*, Suraj Mandal and Debapriya Basu Roy
+
+- *An On-Chip Sensor Placement Strategy for Voltage-Drop Attack Mitigation*, Mashrafi Alam Kajol, Sandeep Sunkavilli, and Qiaoyan Yu
+
+- *Fault Injection on Reinforcement Learning*, Tom Slooff, Anthony Etim, Jiaqi Yu, Francesco Regazzoni, and Jakub Szefer
+
+- *ChipletPing: On-die Digital Impedance Sensing for Chiplet and Interposer Verification*, Saleh Monfared, Maryam Saadat Safa, and Shahin Tajik
+
+- *Reverse Cross Entropy Optimizations for Efficient Adversarial Detection and Defense*, Zirui Fu and Marco Donato
+
+- *CAPRI6: A Solution for Fault Root Cause Detection*, Dillibabu Shanmugam, Zhenyuan Liu, and Patrick Schaumont
+
+- *LeakFlow: Power Side-Channel Leakage Simulation and Assessment Tool*, Andrew Malnicof, Zhenyuan Liu, and Patrick Schaumont
+
+- *Security Attacks Abusing Pulse-level Quantum Circuits*, Chuanqi Xu and Jakub Szefer
+
+- *Integrated Security Mechanisms for Weight Protection in Memristive Crossbar Arrays*, Muhammad Faheemur Rahman and Wayne Burleson
+
+- *X-DFS: Explainable Artificial Intelligence Guided Design-for-Security Solution Space Exploration*, Tanzim Mahfuz and Prabuddha Chakraborty
+
+- *LooseWire: Identifying Root Causes of Side-channel Leakage in an Open-Source FPGA*, Evan Apinis, Zhenyuan Liu, and Patrick Schaumont
+
+- *AI-enabled, Automated, and Efficient Electromagnetic Side-Channel Acquisition*, Dev M. Mehta, Maryam Saadat Safa, Alessandra Savio Serpes, Seyedmohammad Nouraniboosjin, Shahin Tajik, and Fatemeh Ganji
+
+- *Automation of Photon Emission Analysis Pipeline for Hardware Security*, Spencer Harding, Keegan Kuhn, Scott West, Dev M. Mehta, Shahin Tajik, and Fatemeh Ganji
+
+- *Chosen Cyphertext Attack on Barret Reduction in CRYSTALS-Kyber*, Yashaswini Makaram, Yunsi Fei, and David Kaeli
+
+- *Cross CPU-GPU Rowhammer Attack*, Yufei Wang
