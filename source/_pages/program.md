@@ -45,7 +45,7 @@ permalink: /program/
 |                           |                        | **Long Talk:** *VGF: Value-Guided Fuzzing – Fuzzing Hardware as Hardware*                                   |
 |                           |                        | Ruochen Dai, Michael Lee, Patrick Hoey, Weimin Fu, Yier Jin, Xiaolong Guo, Shuo Wang, Dean Sullivan, Tuba Yavuz, and Orlando Arias |
 |                           |                        | **Short Talk:** *USBSnoop – Revealing Device Activities via USB Congestions*                                |
-|                           |                        | Dais Ranney, Yufei Wang, A. Adam Ding, and Yunsi Fei                                                        |
+|                           |                        | Davis Ranney, Yufei Wang, A. Adam Ding, and Yunsi Fei                                                        |
 | **12:00 - 1:30**          |                        | **Lunch and Poster Session**                                                                                |
 | **1:30 - 2:30**           | Seetal Potluri         | **Panel Discussion:** *"Secure-by-Construction for Hardware Design: Mission Impossible or Walk in the Park?"* |
 |                           |                        | - [Shivam Bhasin](/speakers#shivam-bhasim) (Nanyang Technical University)                                                              |
@@ -61,7 +61,7 @@ permalink: /program/
 |                           |                        | **Short Talk:** *Uncertainty Estimation in Neural Network-enabled Side-channel Analysis and Links to Interpretability* |
 |                           |                        | Seyedmohammad Nouraniboosjin and Fatemeh Ganji                                                           |
 |                           |                        | **Long Talk:** *Oreo: Protecting ASLR Against Microarchitectural Attacks*                                 |
-|                           |                        | Shixion Song, Joseph Zhang, and Mengjia Yan                                                                 |
+|                           |                        | Shixin Song, Joseph Zhang, and Mengjia Yan                                                                 |
 |                           |                        | **Short Talk:** *Cross-Layer EM Fault Injection Assessment Framework*                                       |
 |                           |                        | Hanqiu Weng, Ruochen Dai, Tuba Yavuz, Xiaolong Guo, Orlando Arias, Dean Sullivan, Siqi Dai, Honggang Yu, Michael Lee, Domenic Forte, and Shuo Wang |
 |                           |                        | **Long Talk:** *IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees* |
