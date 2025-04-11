@@ -47,7 +47,7 @@ permalink: /program/
 |                           |                        | **Short Talk:** *USBSnoop – Revealing Device Activities via USB Congestions*                                |
 |                           |                        | Davis Ranney, Yufei Wang, A. Adam Ding, and Yunsi Fei                                                        |
 | **12:00 - 1:30**          |                        | **Lunch and Poster Session**                                                                                |
-| **1:30 - 2:30**           | Seetal Potluri         | **Panel Discussion:** *"Secure-by-Construction for Hardware Design: Mission Impossible or Walk in the Park?"* |
+| **1:30 - 2:30**           | Daniel Holcomb         | **Panel Discussion:** *"Secure-by-Construction for Hardware Design: Mission Impossible or Walk in the Park?"* |
 |                           |                        | - [Shivam Bhasin](/speakers#shivam-bhasim) (Nanyang Technical University)                                                              |
 |                           |                        | - [Srini Devadas](/speakers#srini-devadas) (Massachusetts Institute of Technology)                                                     |
 |                           |                        | - [Sharad Malik](/speakers#sharad-malik) (Princeton University)                                                                       |
