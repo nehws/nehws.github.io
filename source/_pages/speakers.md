@@ -8,6 +8,32 @@ permalink: /speakers/
 
 ### **Speakers** ###
 
+### **Todd Austin** ### {#todd-austin}
+**University of Michigan**
+
+**Talk title: Hardware Security, FTW!**
+
+**Abstract:** Modern systems remain perpetually exposed to security threats—from software and hardware exploits to increasingly sophisticated side-channel attacks. In this talk, I’ll argue that the underlying culprit is software itself: it’s inherently difficult to build correctly, resists scalable formal reasoning, and offers little hope for establishing deep, enduring trust. As long as we treat software as the foundation of system security, we’ll remain on the defensive. Instead, I’ll make the case that true, durable security must be rooted in hardware and cryptography. The most robust defenses will emerge from a principled combination of formally verified hardware and strong cryptographic protocols, creating a foundation that software alone can never achieve. With such a base in place, we can finally begin to address not just security—but the long-standing challenges of data privacy as well.
+
+![](../images/todd_austin.png){: style="width: 230px; float: left;
+margin: 5px"} **Todd Austin** is the S. Jack Hu Collegiate Professor of Electrical Engineering and 
+Computer Science at the University of Michigan in Ann Arbor. His research interests include computer 
+architecture, robust and secure system design, hardware and software verification, and performance analysis 
+tools and techniques. From 2012-2017, Todd was the director of C-FAR, the Center for Future Architectures 
+Research, a multi-university SRC/DARPA funded center that was seeking technologies to scale the performance 
+and efficiency of future computing systems. Prior to joining academia, Todd was a Senior Computer Architect 
+in Intel's Microcomputer Research Labs, a product-oriented research laboratory in Hillsboro, Oregon. Todd 
+is the first to take credit (but the last to accept blame) for creating the SimpleScalar Tool Set, a 
+popular collection of computer architecture performance analysis tools. Todd is co-author (with Andrew 
+Tanenbaum of Vrije Universiteit) of the undergraduate computer architecture textbook, "Structured Computer 
+Architecture, 6th Ed." In addition to his work in academia, Todd is founder of SimpleScalar LLC, and co-founder 
+of Agita Labs Inc. and InTempo Design LLC. In 2002, Todd was a Sloan Research Fellow, and in 2007 he received 
+the ACM Maurice Wilkes Award for "innovative contributions in Computer Architecture including the SimpleScalar 
+Toolkit and the DIVA and Razor architectures." Todd is an IEEE Fellow, and he received his PhD in Computer 
+Science from the University of Wisconsin in 1996.
+
+<BR>
+
 ### **Makoto Nagata** ### {#makoto-nagata}
 **Kobe University**
 
@@ -63,28 +89,6 @@ Fellow of IEEE.
 
 <BR>
 
-### **Todd Austin** ### {#todd-austin}
-**University of Michigan**
-
-![](../images/todd_austin.png){: style="width: 230px; float: left;
-margin: 5px"} **Todd Austin** is the S. Jack Hu Collegiate Professor of Electrical Engineering and 
-Computer Science at the University of Michigan in Ann Arbor. His research interests include computer 
-architecture, robust and secure system design, hardware and software verification, and performance analysis 
-tools and techniques. From 2012-2017, Todd was the director of C-FAR, the Center for Future Architectures 
-Research, a multi-university SRC/DARPA funded center that was seeking technologies to scale the performance 
-and efficiency of future computing systems. Prior to joining academia, Todd was a Senior Computer Architect 
-in Intel's Microcomputer Research Labs, a product-oriented research laboratory in Hillsboro, Oregon. Todd 
-is the first to take credit (but the last to accept blame) for creating the SimpleScalar Tool Set, a 
-popular collection of computer architecture performance analysis tools. Todd is co-author (with Andrew 
-Tanenbaum of Vrije Universiteit) of the undergraduate computer architecture textbook, "Structured Computer 
-Architecture, 6th Ed." In addition to his work in academia, Todd is founder of SimpleScalar LLC, and co-founder 
-of Agita Labs Inc. and InTempo Design LLC. In 2002, Todd was a Sloan Research Fellow, and in 2007 he received 
-the ACM Maurice Wilkes Award for "innovative contributions in Computer Architecture including the SimpleScalar 
-Toolkit and the DIVA and Razor architectures." Todd is an IEEE Fellow, and he received his PhD in Computer 
-Science from the University of Wisconsin in 1996.
-
-<BR>
-
 ### **Srini Devadas** ### {#srini-devadas}
 **Massachusetts Institute of Technology (MIT)**
 
@@ -102,8 +106,6 @@ In computer architecture, Devadas’s papers on analytical cache modeling and th
 ![](../images/christof_paar.jpeg){: style="width: 230px; float: left;
 margin: 5px"} **Christof Paar** is Director at the Max Planck Institute for Security and Privacy, Germany, and affiliated with the University of Massachusetts Amherst. His research interests include hardware security, physical-layer security, applied cryptography and security analysis of real-world systems. He has co-founded Cryptographic Hardware and Embedded Systems (CHES), the leading international conference on applied cryptography. Christof is one of the designers of the popular lightweight cipher PRESENT and co-author of the widely used textbook Understanding Cryptography. He is a fellow of IEEE and IACR (International Association for Cryptologic Research), and has given invited talks at Cambridge, Harvard, MIT, Oxford, Stanford and Yale. He co-founded ESCRYPT Inc., a leading provider for automotive security solutions, which is now part of Bosch. 
 
-<BR>
-<BR>
 <BR>
 <BR>
 <BR>
