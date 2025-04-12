@@ -28,12 +28,12 @@ permalink: /program/
 
 | Time                      | Session Chair          | Session Details                                                                                             |
 | ------------------------- | :--------------------: | ----------------------------------------------------------------------------------------------------------- |
-| **9:00 - 9:15**           | TBA                    | **Welcome Remarks**                                                                                         |
-| **9:15 - 9:30**           | TBA                    | **Opening remarks**                                                                                         |
+| **9:00 - 9:15**           | Mengjia Yan                    | **Welcome Remarks**                                                                                         |
+| **9:15 - 9:30**           | Mengjia Yan                    | **Opening remarks**                                                                                         |
 |                           |                        | **News from the NEHWS Community**                                                                           |
-| **9:30 - 10:30**          | TBA                    | **Invited Keynote by [Todd Austin](/speakers#todd-austin) (UMich)**                                                                  |
+| **9:30 - 10:30**          | Mengjia Yan                    | **Invited Keynote by [Todd Austin](/speakers#todd-austin) (UMich)**                                                                  |
 | **10:30 - 10:45**         |                        | Break                                                                                                       |
-| **10:45 - 12:00**         | TBA                    | **Submitted Talks— Session I**                                                                              |
+| **10:45 - 12:00**         | Xiaolin Xu                    | **Submitted Talks— Session I**                                                                              |
 |                           |                        | **Long Talk:** *FaultDetective: Explainable to a Fault, from the Design Layout to the Software*             |
 |                           |                        | Zhenyuan Liu, Dillibabu Shanmugam, and Patrick Schaumont                                                    |
 |                           |                        | **Short Talk:** *BackMon: IC Backside Tamper Detection using On-Chip Impedance Monitoring*                  |
@@ -53,9 +53,9 @@ permalink: /program/
 |                           |                        | - [Sharad Malik](/speakers#sharad-malik) (Princeton University)                                                                       |
 |                           |                        | - [Christof Paar](/speakers#chris-paar) (Max Planck Institute)                                                                      |
 |                           |                        | - [Dominic Rizzo](/speakers#dom-rizzo) (zeroRISC)                                                                                  |
-| **2:30 - 3:30**           | TBA                    | **Invited Keynote by [Ed. Suh](/speakers#ed-suh) (Nvidia)**                                                                     |
+| **2:30 - 3:30**           | Dean Sullivan                    | **Invited Keynote by [Ed. Suh](/speakers#ed-suh) (Nvidia)**                                                                     |
 | **3:30 - 3:40**           |                        | Break                                                                                                       |
-| **3:40 - 4:45**           | TBA                    | **Submitted Talks— Session II**                                                                             |
+| **3:40 - 4:45**           | Dean Sullivan                    | **Submitted Talks— Session II**                                                                             |
 |                           |                        | **Long Talk:** *Exploiting Exclusive System-Level Cache in Apple M-Series SoCs for Enhanced Cache Occupancy Attacks* |
 |                           |                        | Tianhong Xu, Aidong Ding, and Yunsi Fei                                                                     |
 |                           |                        | **Short Talk:** *Uncertainty Estimation in Neural Network-enabled Side-channel Analysis and Links to Interpretability* |
@@ -66,7 +66,7 @@ permalink: /program/
 |                           |                        | Hanqiu Weng, Ruochen Dai, Tuba Yavuz, Xiaolong Guo, Orlando Arias, Dean Sullivan, Siqi Dai, Honggang Yu, Michael Lee, Domenic Forte, and Shuo Wang |
 |                           |                        | **Long Talk:** *IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees* |
 |                           |                        | Md Hafizul Islam Chowdhury and Fan Yao                                                                       |
-| **4:45 - 5:45**           | TBA                    | **Invited Keynote by [Makoto Nagata](/speakers#makoto-nagata) (Kobe University)**                                                      |
+| **4:45 - 5:45**           | Patrick Schaumont                    | **Invited Keynote by [Makoto Nagata](/speakers#makoto-nagata) (Kobe University)**                                                      |
 | **5:45 - 6:00**           | Yingjie Lao            | **Best Poster Award and Closing Remarks**                                                                   |
 | **6:00 - 7:00**           |                        | **Networking reception**                                                                                    |
 
