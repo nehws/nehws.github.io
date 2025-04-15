@@ -14,9 +14,7 @@ New England Hardware Security (NEHWS) Day brings together
 many students, researchers, practitioners, and industry partners in the
 field of hardware security to share their work and foster new ideas.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScFa9iIVCvv3Dpjmh82w6Nw2laxNxgyt3GuZEbxM51iCmWmvw/viewform" style="font-size: 20px;">**Register Now for New England Hardware Security Day 2025!**</a>
-
-**The registration closes 7 days before the event.**
+**Registration is now closed as we have reached full capacity. If you have any concerns, please contact [contact@nehws.org](mailto:contact@nehws.org).**
 
 Join us for an enlightening journey into the world of hardware security, featuring industry-leading speakers, and unparalleled networking opportunities. Whether you're a seasoned professional, a curious student, or somewhere in between, NEHWS is the key event to explore the latest in hardware security technologies, trends, and research.
 
