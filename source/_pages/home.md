@@ -18,7 +18,7 @@ field of hardware security to share their work and foster new ideas.
 
 Join us for an enlightening journey into the world of hardware security, featuring industry-leading speakers, and unparalleled networking opportunities. Whether you're a seasoned professional, a curious student, or somewhere in between, NEHWS is the key event to explore the latest in hardware security technologies, trends, and research.
 
-[//]: <> <a href="images/Proceedings_NEHWS2024_April3.pdf" style="font-size: 20px;">**Now Available: NEHWS 2024 Proceedings**</a>
+<a href="images/Program_All.pdf" style="font-size: 20px;">**Now Available: NEHWS 2025 Proceedings**</a>
 
 **Call for Contributions**
 

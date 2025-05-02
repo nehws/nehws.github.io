@@ -1,4 +1,4 @@
-I"�,<style>
+I"�.<style>
   #textid table th:nth-child(1),
   #textid table td:nth-child(1) {
     width: 10%;
@@ -45,7 +45,7 @@
     <tr>
       <td><strong>9:30 - 10:30</strong></td>
       <td style="text-align: center">Mengjia Yan</td>
-      <td><strong>Invited Keynote by <a href="/speakers#todd-austin">Todd Austin</a> (UMich)</strong></td>
+      <td><strong><a href="/images/toddaustin.pdf">Invited Keynote</a> by <a href="/speakers#todd-austin">Todd Austin</a> (UMich)</strong></td>
     </tr>
     <tr>
       <td><strong>10:30 - 10:45</strong></td>
@@ -60,7 +60,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Long Talk:</strong> <em>FaultDetective: Explainable to a Fault, from the Design Layout to the Software</em></td>
+      <td><strong>Long Talk:</strong> <a href="/images/am1_nehws2025_slides.pdf"><em>FaultDetective: Explainable to a Fault, from the Design Layout to the Software</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -70,7 +70,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Short Talk:</strong> <em>BackMon: IC Backside Tamper Detection using On-Chip Impedance Monitoring</em></td>
+      <td><strong>Short Talk:</strong> <a href="/images/backmon.pdf"><em>BackMon: IC Backside Tamper Detection using On-Chip Impedance Monitoring</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -90,7 +90,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Short Talk:</strong> <em>Energy-Accuracy-Security Trade-offs in Resistive In-Memory Computing Architectures</em></td>
+      <td><strong>Short Talk:</strong> <a href="/images/am4_NEHWS_ShortTalk_SaionRoy.pdf"><em>Energy-Accuracy-Security Trade-offs in Resistive In-Memory Computing Architectures</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -100,7 +100,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Long Talk:</strong> <em>VGF: Value-Guided Fuzzing – Fuzzing Hardware as Hardware</em></td>
+      <td><strong>Long Talk:</strong> <a href="/images/am5_presentation.pdf"><em>VGF: Value-Guided Fuzzing – Fuzzing Hardware as Hardware</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -110,7 +110,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Short Talk:</strong> <em>USBSnoop – Revealing Device Activities via USB Congestions</em></td>
+      <td><strong>Short Talk:</strong> <a href="/images/am6_USBSnoop.pdf"><em>USBSnoop – Revealing Device Activities via USB Congestions</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -170,7 +170,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Long Talk:</strong> <em>Exploiting Exclusive System-Level Cache in Apple M-Series SoCs for Enhanced Cache Occupancy Attacks</em></td>
+      <td><strong>Long Talk:</strong> <a href="/images/pm1_10_2_TianhongXu.pdf"><em>Exploiting Exclusive System-Level Cache in Apple M-Series SoCs for Enhanced Cache Occupancy Attacks</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -180,7 +180,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Short Talk:</strong> <em>Uncertainty Estimation in Neural Network-enabled Side-channel Analysis and Links to Interpretability</em></td>
+      <td><strong>Short Talk:</strong> <a href="/images/pm2_NEHWS_MN_final.pdf"><em>Uncertainty Estimation in Neural Network-enabled Side-channel Analysis and Links to Interpretability</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -190,7 +190,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Long Talk:</strong> <em>Oreo: Protecting ASLR Against Microarchitectural Attacks</em></td>
+      <td><strong>Long Talk:</strong> <a href="/images/oreo.pdf"><em>Oreo: Protecting ASLR Against Microarchitectural Attacks</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -200,7 +200,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Short Talk:</strong> <em>Cross-Layer EM Fault Injection Assessment Framework</em></td>
+      <td><strong>Short Talk:</strong> <a href="/images/pm4_NEHWS_EMFI.pdf"><em>Cross-Layer EM Fault Injection Assessment Framework</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -210,7 +210,7 @@
     <tr>
       <td> </td>
       <td style="text-align: center"> </td>
-      <td><strong>Long Talk:</strong> <em>IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees</em></td>
+      <td><strong>Long Talk:</strong> <a href="/images/ivLeauge.pdf"><em>IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees</em></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -220,7 +220,7 @@
     <tr>
       <td><strong>4:45 - 5:45</strong></td>
       <td style="text-align: center">Patrick Schaumont</td>
-      <td><strong>Invited Keynote by <a href="/speakers#makoto-nagata">Makoto Nagata</a> (Kobe University)</strong></td>
+      <td><strong><a href="/images/nagata.pdf">Invited Keynote</a> by <a href="/speakers#makoto-nagata">Makoto Nagata</a> (Kobe University)</strong></td>
     </tr>
     <tr>
       <td><strong>5:45 - 6:00</strong></td>

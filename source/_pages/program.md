@@ -31,20 +31,20 @@ permalink: /program/
 | **9:00 - 9:15**           | Mengjia Yan                    | **Welcome Remarks**                                                                                         |
 | **9:15 - 9:30**           | Mengjia Yan                    | **Opening remarks**                                                                                         |
 |                           |                        | **News from the NEHWS Community**                                                                           |
-| **9:30 - 10:30**          | Mengjia Yan                    | **Invited Keynote by [Todd Austin](/speakers#todd-austin) (UMich)**                                                                  |
+| **9:30 - 10:30**          | Mengjia Yan                    | **[Invited Keynote](/images/toddaustin.pdf) by [Todd Austin](/speakers#todd-austin) (UMich)**                                                                  |
 | **10:30 - 10:45**         |                        | Break                                                                                                       |
 | **10:45 - 12:00**         | Xiaolin Xu                    | **Submitted Talks— Session I**                                                                              |
-|                           |                        | **Long Talk:** *FaultDetective: Explainable to a Fault, from the Design Layout to the Software*             |
+|                           |                        | **Long Talk:** [*FaultDetective: Explainable to a Fault, from the Design Layout to the Software*](/images/am1_nehws2025_slides.pdf)             |
 |                           |                        | Zhenyuan Liu, Dillibabu Shanmugam, and Patrick Schaumont                                                    |
-|                           |                        | **Short Talk:** *BackMon: IC Backside Tamper Detection using On-Chip Impedance Monitoring*                  |
+|                           |                        | **Short Talk:** [*BackMon: IC Backside Tamper Detection using On-Chip Impedance Monitoring*](/images/backmon.pdf)                  |
 |                           |                        | Tahoura Mosavirik and Shahin Tajik                                                                          |
 |                           |                        | **Long Talk:** *Who is in Control? Security Risks in Commercial ADAS*                                       |
 |                           |                        | Yingjie Cao, George Crane, Haoqi Shan, and Dean Sullivan                                                    |
-|                           |                        | **Short Talk:** *Energy-Accuracy-Security Trade-offs in Resistive In-Memory Computing Architectures*        |
+|                           |                        | **Short Talk:** [*Energy-Accuracy-Security Trade-offs in Resistive In-Memory Computing Architectures*](/images/am4_NEHWS_ShortTalk_SaionRoy.pdf)        |
 |                           |                        | Saion Roy and Naresh Shanbhag                                                                               |
-|                           |                        | **Long Talk:** *VGF: Value-Guided Fuzzing – Fuzzing Hardware as Hardware*                                   |
+|                           |                        | **Long Talk:** [*VGF: Value-Guided Fuzzing – Fuzzing Hardware as Hardware*](/images/am5_presentation.pdf)                                   |
 |                           |                        | Ruochen Dai, Michael Lee, Patrick Hoey, Weimin Fu, Yier Jin, Xiaolong Guo, Shuo Wang, Dean Sullivan, Tuba Yavuz, and Orlando Arias |
-|                           |                        | **Short Talk:** *USBSnoop – Revealing Device Activities via USB Congestions*                                |
+|                           |                        | **Short Talk:** [*USBSnoop – Revealing Device Activities via USB Congestions*](/images/am6_USBSnoop.pdf)                                |
 |                           |                        | Davis Ranney, Yufei Wang, A. Adam Ding, and Yunsi Fei                                                        |
 | **12:00 - 1:30**          |                        | **Lunch and Poster Session**                                                                                |
 | **1:30 - 2:30**           | Daniel Holcomb         | **Panel Discussion:** *"Secure-by-Construction for Hardware Design: Mission Impossible or Walk in the Park?"* |
@@ -56,17 +56,17 @@ permalink: /program/
 | **2:30 - 3:30**           | Dean Sullivan                    | **Invited Keynote by [Ed. Suh](/speakers#ed-suh) (Nvidia)**                                                                     |
 | **3:30 - 3:40**           |                        | Break                                                                                                       |
 | **3:40 - 4:45**           | Dean Sullivan                    | **Submitted Talks— Session II**                                                                             |
-|                           |                        | **Long Talk:** *Exploiting Exclusive System-Level Cache in Apple M-Series SoCs for Enhanced Cache Occupancy Attacks* |
+|                           |                        | **Long Talk:** [*Exploiting Exclusive System-Level Cache in Apple M-Series SoCs for Enhanced Cache Occupancy Attacks*](/images/pm1_10_2_TianhongXu.pdf) |
 |                           |                        | Tianhong Xu, Aidong Ding, and Yunsi Fei                                                                     |
-|                           |                        | **Short Talk:** *Uncertainty Estimation in Neural Network-enabled Side-channel Analysis and Links to Interpretability* |
+|                           |                        | **Short Talk:** [*Uncertainty Estimation in Neural Network-enabled Side-channel Analysis and Links to Interpretability*](/images/pm2_NEHWS_MN_final.pdf) |
 |                           |                        | Seyedmohammad Nouraniboosjin and Fatemeh Ganji                                                           |
-|                           |                        | **Long Talk:** *Oreo: Protecting ASLR Against Microarchitectural Attacks*                                 |
+|                           |                        | **Long Talk:** [*Oreo: Protecting ASLR Against Microarchitectural Attacks*](/images/oreo.pdf)                                 |
 |                           |                        | Shixin Song, Joseph Zhang, and Mengjia Yan                                                                 |
-|                           |                        | **Short Talk:** *Cross-Layer EM Fault Injection Assessment Framework*                                       |
+|                           |                        | **Short Talk:** [*Cross-Layer EM Fault Injection Assessment Framework*](/images/pm4_NEHWS_EMFI.pdf)                                       |
 |                           |                        | Hanqiu Weng, Ruochen Dai, Tuba Yavuz, Xiaolong Guo, Orlando Arias, Dean Sullivan, Siqi Dai, Honggang Yu, Michael Lee, Domenic Forte, and Shuo Wang |
-|                           |                        | **Long Talk:** *IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees* |
+|                           |                        | **Long Talk:** [*IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees*](/images/ivLeauge.pdf) |
 |                           |                        | Md Hafizul Islam Chowdhury and Fan Yao                                                                       |
-| **4:45 - 5:45**           | Patrick Schaumont                    | **Invited Keynote by [Makoto Nagata](/speakers#makoto-nagata) (Kobe University)**                                                      |
+| **4:45 - 5:45**           | Patrick Schaumont                    | **[Invited Keynote](/images/nagata.pdf) by [Makoto Nagata](/speakers#makoto-nagata) (Kobe University)**                                                      |
 | **5:45 - 6:00**           | Yingjie Lao            | **Best Poster Award and Closing Remarks**                                                                   |
 | **6:00 - 7:00**           |                        | **Networking reception**                                                                                    |
 
