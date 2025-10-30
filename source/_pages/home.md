@@ -45,6 +45,7 @@ security.
 **NEHWS is driven by the hardware security research community at these universities**
 
 <figure class="fourth">
+  <img src="images/organizer_logo_mit.png" style="width: 80px">
   <img src="images/organizer_logo_northeastern.png" style="width: 80px">
   <img src="images/organizer_logo_umass.png" style="width: 80px">
   <img src="images/organizer_logo_unh.png" style="width: 80px">
