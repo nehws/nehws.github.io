@@ -1,35 +1,37 @@
 ---
-title: "NEHWS 2025"
+title: "NEHWS 2026"
 layout: homelay
-excerpt: "New England Hardware Security Day 2024"
+excerpt: "New England Hardware Security Day 2026"
 sitemap: false
 permalink: /
 ---
 
 ![](images/nehwslogo.png){: style="width: 150px; display: block; margin: auto;"}
 
-**April 18th, 2025, Massachusetts Institute of Technology, Cambridge, MA**
+**Date: TBD, Tufts University, Medford, MA**
 
 New England Hardware Security (NEHWS) Day brings together
 many students, researchers, practitioners, and industry partners in the
 field of hardware security to share their work and foster new ideas.
 
-**Registration is now closed as we have reached full capacity. If you have any concerns, please contact [contact@nehws.org](mailto:contact@nehws.org).**
+<!-- **Registration is now closed as we have reached full capacity. If you have any concerns, please contact [contact@nehws.org](mailto:contact@nehws.org).** -->
+**Registration details forthcoming. For questions, please contact [contact@nehws.org](mailto:contact@nehws.org).**
 
 Join us for an enlightening journey into the world of hardware security, featuring industry-leading speakers, and unparalleled networking opportunities. Whether you're a seasoned professional, a curious student, or somewhere in between, NEHWS is the key event to explore the latest in hardware security technologies, trends, and research.
 
-<a href="images/Program_All.pdf" style="font-size: 20px;">**Now Available: NEHWS 2025 Proceedings**</a>
+<!-- <a href="images/Program_All.pdf" style="font-size: 20px;">**Now Available: NEHWS 2025 Proceedings**</a> -->
 
 **Call for Contributions**
 
-Please consider submitting your work for presentation at NEHWS 2025.
+Details will be announced soon.
+<!-- Please consider submitting your work for presentation at NEHWS 2026.
 We are looking for announcements, research talks, and posters.
-The submission deadline is ~~February 10, 2025~~ **February 14, 2025**.
+The submission deadline is TBD. -->
 
 
-* **<FONT COLOR=red>Deadline for submission is extended to February 14, 2025.</FONT>**
+<!-- * **<FONT COLOR=red>Deadline for submission is extended to February 14, 2025.</FONT>**
 * Submit your contribution at the <a href="https://easychair.org/account2/signin?l=7166491674874806137" target="_blank">NEHWS25 submission site</a>
-* [Download the Call for Contributions](images/NEHWS2025.pdf)
+* [Download the Call for Contributions](images/NEHWS2025.pdf) -->
 
 **Call for Sponsors**
 
@@ -45,13 +47,15 @@ security.
 **NEHWS is driven by the hardware security research community at these universities**
 
 <figure class="fourth">
+  <img src="images/organizer_logo_tufts.png" style="width: 80px">
   <img src="images/organizer_logo_mit.png" style="width: 80px">
   <img src="images/organizer_logo_northeastern.png" style="width: 80px">
   <img src="images/organizer_logo_umass.png" style="width: 80px">
   <img src="images/organizer_logo_unh.png" style="width: 80px">
   <img src="images/organizer_logo_wpi.png" style="width: 80px">
   <img src="images/organizer_logo_nwu.png" style="width: 80px">
-  <img src="images/organizer_logo_tufts.png" style="width: 80px">
+  <img src="images/organizer_logo_rpi.png" style="width: 80px">
+  <img src="images/organizer_logo_ualbany.png" style="width: 80px">
 </figure>
 
 <BR>

@@ -1,5 +1,5 @@
 ---
-title: "NEHWS 2025"
+title: "NEHWS 2026"
 layout: textlay
 excerpt: "Program"
 sitemap: false
@@ -24,8 +24,11 @@ permalink: /program/
   }
 </style>
 
-### **[Program](/images/NEHWS_25_Program_01.pdf)** ###
+### **Program** ###
+Stay tuned for the NEHWS 2026 program details!
 
+<!-- ### **[Program](/images/NEHWS_25_Program_01.pdf)** ### -->
+<!-- 
 | Time                      | Session Chair          | Session Details                                                                                             |
 | ------------------------- | :--------------------: | ----------------------------------------------------------------------------------------------------------- |
 | **9:00 - 9:15**           | Mengjia Yan                    | **Welcome Remarks**                                                                                         |
@@ -110,4 +113,4 @@ permalink: /program/
 
 - *Chosen Cyphertext Attack on Barret Reduction in CRYSTALS-Kyber*, Yashaswini Makaram, Yunsi Fei, and David Kaeli
 
-- *Cross CPU-GPU Rowhammer Attack*, Yufei Wang
+- *Cross CPU-GPU Rowhammer Attack*, Yufei Wang -->
