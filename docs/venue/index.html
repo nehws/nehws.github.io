@@ -48,181 +48,99 @@
         <div id="textid" class="col-sm-12">
   <h3 id="venue--travel"><strong>Venue &amp; Travel</strong></h3>
 
-<p><strong>NEHWS 25 will take place at Massachusetts Institute of Technology in Cambridge, MA.</strong></p>
+<p><strong>NEHWS 2026 will take place at Tufts University in Medford, MA.</strong></p>
 
-<p><img src="../images/mit-venue.jpg" alt="" style="width: 80%; display: block; margin: auto;" /></p>
+<p><img src="../images/tufts_hall.jpg" alt="" style="width: 80%; display: block; margin: auto;" /></p>
 
 <h3 id="venue"><strong>Venue</strong></h3>
 
-<h4 id="mit-samberg-conference-center"><strong>MIT Samberg Conference Center</strong></h4>
+<h4 id="breed-memorial-hall"><strong>Breed Memorial Hall</strong></h4>
 
-<p>Chang Building (E52), 50 Memorial Drive, Cambridge, MA 02142</p>
+<p>51 Winthrop St, Medford, MA 02155</p>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d737.0373850230467!2d-71.08390722836612!3d42.36065224120547!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a679984489%3A0x5c8d65db5c0d7efe!2sMIT%20Samberg%20Conference%20Center!5e0!3m2!1sen!2sus!4v1743052109902!5m2!1sen!2sus" width="600" height="450" style="border:0; margin:auto; display:block" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+<!-- Leaflet Routing Machine CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.css" />
+
+<style>
+  /* Hide the routing instructions panel */
+  .leaflet-routing-container {
+    display: none;
+  }
+</style>
+
+<!-- Leaflet JavaScript -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+<!-- Leaflet Routing Machine JavaScript -->
+<script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.js"></script>
+
+<div id="tufts-map" style="width: 100%; height: 500px; margin: 20px auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></div>
+
+<script src="../js/tufts-map.js"></script>
+
+<p><strong>💡 Tip:</strong> Click markers for details, hover to preview information. Three walking routes shown: Blue (from parking), Purple (from T station), Orange (scenic route via landmarks).</p>
 
 <h3 id="accommodation"><strong>Accommodation</strong></h3>
 
+<p><strong>Tufts Booking Site:</strong> <a href="https://campustravel.com/university/tufts-university/">https://campustravel.com/university/tufts-university/</a> (typically 5-15% cheaper)</p>
+
 <ul>
-  <li><strong><a href="http://www.marriott.com/hotels/travel/boscb-boston-marriott-cambridge/">Boston Marriott Cambridge</a></strong>
+  <li><strong><a href="https://www.hilton.com/en/hotels/bosarhw-homewood-suites-boston-cambridge-arlington-ma/">Homewood Suites Boston Cambridge</a></strong>
     <ul>
-      <li><a href="https://maps.app.goo.gl/8xJ9KysAfof2famU6">50 Broadway, Cambridge, MA 02142</a></li>
-      <li>6 min walk</li>
-      <li>Phone: 617-494-6600</li>
-      <li>Toll-free: 800-228-9290</li>
+      <li><a href="https://maps.app.goo.gl/bDaEZi9Ee91ZwWqAA">1 Massachusetts Ave, Arlington, MA 02474</a></li>
+      <li>1.1 miles from venue</li>
     </ul>
   </li>
-  <li><strong><a href="http://www.kendallhotel.com/">The Kendall Hotel</a></strong>
+  <li><strong><a href="https://www.hyatt.com/hyatt-place/en-US/boszm-hyatt-place-boston-medford?src=corp_lclb_google_seo_boszm">Hyatt Place Boston Medford</a></strong>
     <ul>
-      <li><a href="https://maps.app.goo.gl/MAS6KTUz2jnsQdjn7">350 Main Street, Cambridge, MA 02142</a></li>
-      <li>7 min walk</li>
-      <li>Phone: 617-577-1300</li>
+      <li><a href="https://maps.app.goo.gl/Lq5hYecLgrfakj6d6">116 Riverside Ave, Medford, MA 02155</a></li>
+      <li>1.2 miles from venue</li>
     </ul>
   </li>
-  <li><strong><a href="http://www.marriott.com/hotels/travel/boscm-residence-inn-boston-cambridge/">Residence Inn Boston Cambridge</a></strong>
+  <li><strong><a href="https://www.choicehotels.com/massachusetts/somerville/cambria-hotels/ma257?mc=llgoxxpx">Cambria Hotel</a></strong>
     <ul>
-      <li><a href="https://maps.app.goo.gl/5ogAixAvmovuM1sw6">120 Broadway, Cambridge, MA 02142</a></li>
-      <li>10 min walk</li>
-      <li>Phone: 617-494-1885</li>
-      <li>Toll-free: 800-331-3131</li>
+      <li><a href="https://maps.app.goo.gl/ra835cPiWURR8HWU6">515 Somerville Ave, Somerville, MA 02143</a></li>
+      <li>2.4 miles from venue</li>
     </ul>
   </li>
-  <li><strong><a href="https://www.whitneyhotelboston.com/">The Whitney Hotel</a></strong>
+  <li><strong><a href="https://www.marriott.com/en-us/hotels/bosfo-fairfield-boston-medford/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Fairfield By Marriott Boston Medford</a></strong>
     <ul>
-      <li><a href="https://maps.app.goo.gl/XGvup3JQBJzFcg4m6">170 Charles Street, Boston, MA 02114</a></li>
-      <li>16 min walk</li>
-      <li>Toll-free: 888-673-3650</li>
+      <li><a href="https://maps.app.goo.gl/Je85G7hcn1KVLr6B6">85 Station Landing, Boston, MA 02155</a></li>
+      <li>3.0 miles from venue</li>
     </ul>
   </li>
-  <li><strong><a href="http://www.sonesta.com/boston">Royal Sonesta Boston</a></strong>
+  <li><strong><a href="https://www.hotelmarlowe.com/?&amp;cm_mmc=WEB-_-KI-_-AMER-_-EN-_-EV-_-Google%20Business%20Profile-_-DD-_-marlowe">Kimpton Marlowe Hotel</a></strong> <em>(On T route)</em>
     <ul>
-      <li><a href="https://maps.app.goo.gl/U789CgiCevpsuE7k7">40 Edwin Land Boulevard, Cambridge, MA 02141</a></li>
-      <li>17 min walk</li>
-      <li>Phone: 617-806-4200</li>
-    </ul>
-  </li>
-  <li><strong><a href="https://www.hotelmarlowe.com/">Kimpton Marlowe Hotel</a></strong>
-    <ul>
-      <li><a href="https://maps.app.goo.gl/KMGsyCXUe4KRqr7R8">25 Edwin Land Boulevard, Cambridge, MA 02141</a></li>
-      <li>20 min walk</li>
-      <li>Phone: 617-868-8000</li>
-      <li>Toll-free: 800-825-7140</li>
-    </ul>
-  </li>
-  <li><strong><a href="https://www.marriott.com/hotels/travel/bosbm-le-meridien-boston-cambridge/">Le Meridien Boston Cambridge</a></strong>
-    <ul>
-      <li><a href="https://maps.app.goo.gl/fBLiC2PkL3pNkenB6">20 Sidney Street, Cambridge, MA 02139</a></li>
-      <li>23 min walk</li>
-      <li>Phone: 617-577-0200</li>
-      <li>Toll-free: 800-543-4300</li>
-    </ul>
-  </li>
-  <li><strong><a href="http://www.marriott.com/hotels/travel/bosbg-fairfield-inn-and-suites-boston-cambridge/">Fairfield Inn and Suites Boston Cambridge</a></strong>
-    <ul>
-      <li><a href="https://maps.app.goo.gl/DbetLW87QHpjTmYf9">215 Monsignor O’Brien Highway, Cambridge, MA 02141</a></li>
-      <li>23 min walk</li>
-      <li>Phone: 617-621-1999</li>
-    </ul>
-  </li>
-  <li><strong><a href="http://www.cambridgecourtyard.com/">Courtyard Boston Cambridge by Marriott</a></strong>
-    <ul>
-      <li><a href="https://maps.app.goo.gl/MNEZh77NVM2HRXnAA">777 Memorial Drive, Cambridge, MA 02139</a></li>
-      <li>25 min subway</li>
-      <li>Phone: 617-492-7777</li>
-      <li>Toll-free: 866-323-4149</li>
-    </ul>
-  </li>
-  <li><strong><a href="http://www.hiecambridge.com/">Holiday Inn Express and Suites Boston Cambridge</a></strong>
-    <ul>
-      <li><a href="https://maps.app.goo.gl/V6d7R2L7YVT2qKRt8">250 Monsignor O’Brien Highway, Cambridge, MA 02141</a></li>
-      <li>25 min walk</li>
-      <li>Phone: 617-577-7600</li>
-    </ul>
-  </li>
-  <li><strong><a href="http://www.hotelcommonwealth.com/">Hotel Commonwealth</a></strong>
-    <ul>
-      <li><a href="https://maps.app.goo.gl/Ae5dHPT4vWrJyvgu8">500 Commonwealth Avenue, Boston, MA 02215</a></li>
-      <li>30 min walk</li>
-      <li>Toll-free: 866-784-4000</li>
-    </ul>
-  </li>
-  <li><strong><a href="https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston-cambridge/bosrc">Hyatt Regency Boston / Cambridge</a></strong>
-    <ul>
-      <li><a href="https://maps.app.goo.gl/H8NxCDHtWtkgko9r9">575 Memorial Drive, Cambridge, MA 02139</a></li>
-      <li>30 min walk</li>
-      <li>Phone: 617-492-1234</li>
-      <li>Toll-free: 800-228-9000</li>
+      <li><a href="https://maps.app.goo.gl/yyBPLtHiXY53KQm88">25 Edwin Land Boulevard, Cambridge, MA 02141</a></li>
+      <li>3.57 miles from venue</li>
     </ul>
   </li>
 </ul>
 
 <h3 id="parking"><strong>Parking</strong></h3>
 
-<p>The following public parking facilities are in the MIT area &amp; maybe used by vendors, visitors &amp; others who have business with MIT but do not have an MIT parking permit:</p>
-
 <ul>
-  <li><a href="https://maps.app.goo.gl/GFPJT6nDGPcwBxEe6">Hayward Garage</a>
+  <li><strong><a href="https://maps.app.goo.gl/7wxvvjuXN8VgfxQb6">Dowling Hall Garage</a></strong>
     <ul>
-      <li>5 min walk</li>
-      <li>617-500-6553</li>
-    </ul>
-  </li>
-  <li><a href="https://maps.app.goo.gl/JhFQodrvjSDUuuxC7">One Memorial Dr. Garage</a>
-    <ul>
-      <li>5 min walk</li>
-      <li><a href="https://maps.app.goo.gl/68AcsyYvRU7SgfHd7">Entrance on Memorial Drive</a></li>
-      <li>617-621-1238 / 617-423-0170</li>
-    </ul>
-  </li>
-  <li><a href="https://maps.app.goo.gl/L8Hok1SZf2FAd6MM7">4 Cambridge Center, Kendall Green Garage</a>
-    <ul>
-      <li>7 min walk</li>
-      <li>617-621-7618 / 617-225-0830</li>
-    </ul>
-  </li>
-  <li><a href="https://maps.app.goo.gl/8Aaf1JSV8JZcxQS97">Kendall Yellow Garage</a>
-    <ul>
-      <li>10 min walk</li>
-      <li>617-621-7618</li>
-    </ul>
-  </li>
-  <li>5 Cambridge Center, East Garage
-    <ul>
-      <li>8 min walk</li>
-      <li>Open 24 hours</li>
-      <li>617-621-3115</li>
-    </ul>
-  </li>
-  <li>10 Cambridge Center, North Garage
-    <ul>
-      <li>15 min walk</li>
-      <li>Open 24 hours</li>
-      <li>617-621-3115</li>
-    </ul>
-  </li>
-  <li><a href="https://maps.app.goo.gl/7ybgeoefHx2zopKG6">245 Riverview Garage</a>
-    <ul>
-      <li>15 min walk</li>
-      <li>617-494-1619</li>
-    </ul>
-  </li>
-  <li><a href="https://maps.app.goo.gl/kWxTGq168jZ4evwv9">55 Franklin St Garage, University Park</a>
-    <ul>
-      <li>20 min walk</li>
-      <li>Open 24 hours</li>
-      <li>617-621-8023</li>
+      <li>419 Boston Ave, Medford, MA 02155</li>
+      <li>Adjacent to campus</li>
+      <li>Phone: (617) 627-3692</li>
     </ul>
   </li>
 </ul>
 
-<h3 id="floor-plan"><strong>Floor Plan</strong></h3>
+<!-- ### **Floor Plan** ###
 
-<p>The workshop will take place on <strong>6th floor, Dining Room 3 &amp; 4</strong>.</p>
+The workshop will take place on **6th floor, Dining Room 3 & 4**.
 
-<p><img src="../images/floor_plan.png" alt="" style="width: 75%; display: block; margin: auto;" /></p>
+![](../images/floor_plan.png){: style="width: 75%; display: block; margin: auto;"}
 
-<h3 id="dining-room-3--4"><strong>Dining Room 3 &amp; 4</strong></h3>
+### **Dining Room 3 & 4** ###
 
-<p><img src="../images/room1.jpg" alt="" style="width: 33%;" />  <img src="../images/room2.jpg" alt="" style="width: 33%;" />  <img src="../images/room3.jpg" alt="" style="width: 33%;" /></p>
+![](../images/room1.jpg){: style="width: 33%;"}  ![](../images/room2.jpg){: style="width: 33%;"}  ![](../images/room3.jpg){: style="width: 33%;"} -->
 
 </div>
 
