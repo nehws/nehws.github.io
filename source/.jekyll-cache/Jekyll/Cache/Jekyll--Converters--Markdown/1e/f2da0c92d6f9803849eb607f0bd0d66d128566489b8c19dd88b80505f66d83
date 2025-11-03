@@ -1,12 +1,4 @@
----
-title: "NEHWS 2026"
-layout: textlay
-excerpt: "Program"
-sitemap: false
-permalink: /program/
----
-
-<style>
+I"+<style>
   #textid table th:nth-child(1),
   #textid table td:nth-child(1) {
     width: 10%;
@@ -24,8 +16,8 @@ permalink: /program/
   }
 </style>
 
-### **Program** ###
-Stay tuned for the NEHWS 2026 program details!
+<h3 id="program"><strong>Program</strong></h3>
+<p>Stay tuned for the NEHWS 2026 program details!</p>
 
 <!-- ### **[Program](/images/NEHWS_25_Program_01.pdf)** ### -->
 <!-- 
@@ -114,3 +106,4 @@ Stay tuned for the NEHWS 2026 program details!
 - *Chosen Cyphertext Attack on Barret Reduction in CRYSTALS-Kyber*, Yashaswini Makaram, Yunsi Fei, and David Kaeli
 
 - *Cross CPU-GPU Rowhammer Attack*, Yufei Wang -->
+:ET
