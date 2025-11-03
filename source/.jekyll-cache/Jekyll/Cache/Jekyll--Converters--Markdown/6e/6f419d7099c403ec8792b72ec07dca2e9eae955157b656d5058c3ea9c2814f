@@ -1,56 +1,8 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2025</title>
-  <meta name="description" content="Venue & Travel">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/venue/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2025</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://nehws.org/registration">Registration</a></li>
-		<li><a href="https://nehws.org/venue">Venue & Travel</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-		<li><a href="https://nehws.org/archive">Archive</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <h3 id="venue--travel"><strong>Venue &amp; Travel</strong></h3>
+I")<h3 id="venue--travel"><strong>Venue &amp; Travel</strong></h3>
 
 <p><strong>NEHWS 2026 will take place at Tufts University in Medford, MA.</strong></p>
 
-<p><img src="../images/tufts_hall.jpg" alt="" style="width: 80%; display: block; margin: auto;" /></p>
+<p><img src="../images/mit-venue.jpg" alt="" style="width: 80%; display: block; margin: auto;" /></p>
 
 <h3 id="venue"><strong>Venue</strong></h3>
 
@@ -132,44 +84,13 @@
   </li>
 </ul>
 
-<!-- ### **Floor Plan** ###
+<h3 id="floor-plan"><strong>Floor Plan</strong></h3>
 
-The workshop will take place on **6th floor, Dining Room 3 & 4**.
+<p>The workshop will take place on <strong>6th floor, Dining Room 3 &amp; 4</strong>.</p>
 
-![](../images/floor_plan.png){: style="width: 75%; display: block; margin: auto;"}
+<p><img src="../images/floor_plan.png" alt="" style="width: 75%; display: block; margin: auto;" /></p>
 
-### **Dining Room 3 & 4** ###
+<h3 id="dining-room-3--4"><strong>Dining Room 3 &amp; 4</strong></h3>
 
-![](../images/room1.jpg){: style="width: 33%;"}  ![](../images/room2.jpg){: style="width: 33%;"}  ![](../images/room3.jpg){: style="width: 33%;"} -->
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2025 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://nehws.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+<p><img src="../images/room1.jpg" alt="" style="width: 33%;" />  <img src="../images/room2.jpg" alt="" style="width: 33%;" />  <img src="../images/room3.jpg" alt="" style="width: 33%;" /></p>
+:ET
