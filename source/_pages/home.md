@@ -8,7 +8,10 @@ permalink: /
 
 ![](images/nehwslogo.png){: style="width: 150px; display: block; margin: auto;"}
 
-**Date: TBD, Tufts University, Medford, MA**
+<p style="text-align:center;"><strong>Date: April 24, 2026</strong></p>
+<p style="text-align:center;"><strong>
+<a href="/venue/" target="_blank" rel="noopener">Venue:</a>  <a href="https://www.tufts.edu" target="_blank" rel="noopener">Tufts University, Medford, MA</a> 
+</p>
 
 New England Hardware Security (NEHWS) Day brings together
 many students, researchers, practitioners, and industry partners in the
@@ -47,15 +50,15 @@ security.
 **NEHWS is driven by the hardware security research community at these universities**
 
 <figure class="fourth">
-  <img src="images/organizer_logo_tufts.png" style="width: 80px">
-  <img src="images/organizer_logo_mit.png" style="width: 80px">
-  <img src="images/organizer_logo_northeastern.png" style="width: 80px">
-  <img src="images/organizer_logo_umass.png" style="width: 80px">
-  <img src="images/organizer_logo_unh.png" style="width: 80px">
-  <img src="images/organizer_logo_wpi.png" style="width: 80px">
-  <img src="images/organizer_logo_nwu.png" style="width: 80px">
-  <img src="images/organizer_logo_rpi.png" style="width: 80px">
-  <img src="images/organizer_logo_ualbany.png" style="width: 80px">
+  <a href="https://www.tufts.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_tufts.png" style="width: 80px"></a>
+  <a href="https://www.mit.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_mit.png" style="width: 80px"></a>
+  <a href="https://www.northeastern.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_northeastern.png" style="width: 120px"></a>
+  <a href="https://www.umass.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_umass.png" style="width: 120px"></a>
+  <a href="https://www.unh.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_unh.png" style="width: 140px"></a>
+  <a href="https://www.wpi.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_wpi.png" style="width: 120px"></a>
+  <a href="https://www.northwestern.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_nwu.png" style="width: 170px"></a>
+  <a href="https://www.rpi.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_rpi.png" style="width: 50px"></a>
+  <a href="https://www.albany.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_ualbany.png" style="width: 120px"></a>
 </figure>
 
 <BR>
