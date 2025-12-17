@@ -61,6 +61,7 @@ permalink: /organization/
 |Panel chair       | Berk Sunar and Patrick Schaumont |
 |Industry Chairs   | Shahin Tajik                     |
 |Poster Chair      | Seetal Potluri                   |
+|Publication Chair | Fatemeh (Saba) Ganji             |
 |Publicity Chairs  | Kanad Basu                       |
 |Web Chair         | Sanjay Deshpande                 |
 
