@@ -59,10 +59,10 @@ permalink: /organization/
 |Program Chair     | Dean Sullivan                    |
 |Co-program Chair  | Prabuddha Chakraborty            |
 |Panel chair       | Berk Sunar and Patrick Schaumont |
-|Industry Chairs   | Shahin Tajik                     |
+|Industry Chair    | Shahin Tajik                     |
 |Poster Chair      | Seetal Potluri                   |
 |Publication Chair | Fatemeh (Saba) Ganji             |
-|Publicity Chairs  | Kanad Basu                       |
+|Publicity Chair   | Kanad Basu                       |
 |Web Chair         | Sanjay Deshpande                 |
 
 <BR>
