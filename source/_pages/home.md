@@ -26,15 +26,18 @@ Join us for an enlightening journey into the world of hardware security, featuri
 
 **Call for Contributions**
 
-Details will be announced soon.
-<!-- Please consider submitting your work for presentation at NEHWS 2026.
-We are looking for announcements, research talks, and posters.
-The submission deadline is TBD. -->
+<!-- Details will be announced soon. -->
+Please consider submitting your work for presentation at NEHWS 2026.
+We are looking for announcements, research talks, and posters. 
+
+<!-- * [Call for Contributions](../images/nehws26_cfp.pdf) -->
+
+<!-- The submission deadline is TBD. -->
 
 
-<!-- * **<FONT COLOR=red>Deadline for submission is extended to February 14, 2025.</FONT>**
-* Submit your contribution at the <a href="https://easychair.org/account2/signin?l=7166491674874806137" target="_blank">NEHWS25 submission site</a>
-* [Download the Call for Contributions](images/NEHWS2025.pdf) -->
+* [Download the Call for Contributions.](../images/nehws26_cfp.pdf) 
+* Submit your contribution at the <a href="https://easychair.org/conferences/?conf=nehws2026" target="_blank">NEHWS25 submission site</a>.
+* **Deadline for submission is February 10, 2026.**
 
 **Call for Sponsors**
 
