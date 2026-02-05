@@ -36,7 +36,7 @@ We are looking for announcements, research talks, and posters.
 
 
 * [Download the Call for Contributions.](../images/nehws26_cfp.pdf) 
-* Submit your contribution at the <a href="https://easychair.org/conferences/?conf=nehws2026" target="_blank">NEHWS25 submission site</a>.
+* Submit your contribution at the <a href="https://easychair.org/conferences/?conf=nehws2026" target="_blank">NEHWS26 submission site</a>.
 * **Deadline for submission is February 10, 2026.**
 
 **Call for Sponsors**
@@ -54,12 +54,14 @@ security.
 
 <figure class="fourth">
   <a href="https://www.tufts.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_tufts.png" style="width: 80px"></a>
-  <a href="https://www.mit.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_mit.png" style="width: 80px"></a>
-  <a href="https://www.northeastern.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_northeastern.png" style="width: 120px"></a>
-  <a href="https://www.umass.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_umass.png" style="width: 120px"></a>
   <a href="https://www.unh.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_unh.png" style="width: 140px"></a>
+  <a href="https://www.umaine.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_umaine.png" style="width: 140px"></a>
+  <a href="https://www.mit.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_mit.png" style="width: 80px"></a>
+  <a href="https://www.northeastern.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_northeastern.png" style="width: 150px"></a>
+
   <a href="https://www.wpi.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_wpi.png" style="width: 120px"></a>
-  <a href="https://www.northwestern.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_nwu.png" style="width: 170px"></a>
+  <a href="https://www.umass.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_umass.png" style="width: 120px"></a>
+  <a href="https://www.northwestern.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_nwu.png" style="width: 180px"></a>
   <a href="https://www.rpi.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_rpi.png" style="width: 50px"></a>
   <a href="https://www.albany.edu" target="_blank" rel="noopener"><img src="images/organizer_logo_ualbany.png" style="width: 120px"></a>
 </figure>
