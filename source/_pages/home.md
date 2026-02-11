@@ -37,7 +37,7 @@ We are looking for announcements, research talks, and posters.
 
 * [Download the Call for Contributions.](../images/nehws26_cfp_extended.pdf) 
 * Submit your contribution at the <a href="https://easychair.org/conferences/?conf=nehws2026" target="_blank">NEHWS26 submission site</a>.
-* ~~**Deadline for submission is February 10, 2026.**~~ <span style="color: red;">**Final extended submission date is February 17, 2026.**</span>
+* ~~**Deadline for submission is February 10, 2026.**~~ <span style="color: red;">**Final extended submission deadline is February 17, 2026.**</span>
 
 **Call for Sponsors**
 
