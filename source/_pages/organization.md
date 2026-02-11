@@ -72,4 +72,22 @@ permalink: /organization/
 
 **NEHWS 26 Program Committee**
 
-|Details forthcoming...|
+|Debdeep Mukhopadhyay   |
+|Berk Sunar             | 
+|Patrick Schaumont      |
+|Daniel Holcomb         |
+|Orlando Arias          |
+|Xiaolong Guo           | 
+|Maitreyi Ashok         |
+|Minrui Yan             |
+|Ayesha Siddique        |
+|Haoqi Shan             |
+|Yukui Luo              |
+|Ramya Jayaram Masti    |
+|Sandeep Sunkavilli     |
+|Sandhya Koteshwara     |
+|Ruyi Ding              |
+|Xiaonglong Feng        |
+|Honggang Yu            |
+
+<BR>
