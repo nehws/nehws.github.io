@@ -26,11 +26,31 @@ margin: 5px"}](https://kastner.ucsd.edu/ryan/)
 </div>
 
 <BR>
+<BR>
 
+### **Yuval Yarom** ### {#yuval-yarom}
 
-**More Speakers Coming Soon** 
+**Ruhr University Bochum (RUB)**
 
-Additional speakers will be announced shortly. Please check back for updates.
+**Talk title: Racing Down to the Bottom of the Microarchitecture**
+<div style="text-align: justify;">
+**Abstract:**  Modern superscalar execute a large number of instructions in parallel, and, like other massively parallel systems, exhibit numerous race conditions. While the illusion of sequential execution hides the architectural effects of these race conditions, observing microarchitectural state can expose these races. Transient execution attacks, such as Spectre and Meltdown, exploit such races to bypass security boundaries and leak information. However recent research extended the understanding of microarchitectural races identifying multiple use cases. This talk, explores microarchitectural races beyond transient execution attacks. It identifies basic primitives that allow inducing race conditions and exploiting them, showing that these primitives allow arbitrary computation over microarchitectural state. It then demonstrates some use cases for microarchitectural races, including code obfuscation, augmenting cache attacks, and reverse engineering.
+</div>
+
+<div style="text-align: justify;">
+[![](../images/yuval_yarom.jpg){: style="width: 250px; float: left;
+margin: 5px"}](https://yuval.yarom.org/)
+**Yuval Yarom** is a Professor of Computer Security at Ruhr University Bochum. His research focuses on the interface between the software and the hardware. In particular, He is interested in the discrepancy between the way that programmers think about software execution and the concrete execution in modern processors. Before that, he was an Associate Professor at the University of Adelaide, the Vice President of Research in Memco Software, and a co-founder and Chief Technology Officer of Girafa.com. Yuval earned his Ph.D. in Computer Science from the University of Adelaide in 2014, and an M.Sc. in Computer Science and a B.Sc. in Mathematics and Computer Science from the Hebrew University of Jerusalem in 1993 and 1990, respectively.
+</div>
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+<!-- **More Speakers Coming Soon**  -->
+
+<!-- Additional speakers will be announced shortly. Please check back for updates. -->
 
 
 <!-- ### **Makoto Nagata** ### {#makoto-nagata}
