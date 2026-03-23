@@ -73,28 +73,6 @@ margin: 5px"}]()
 <BR>
 
 
-### **Sandeep Shukla** ### {#sandeep-shukla}
-
-**International Institute of Information Technology - Hyderabad**
-
-<div style="text-align: justify;">
-[![](../images/sandeep_shukla.jpg){: style="width: 230px; float: left;
-margin: 5px"}](https://sites.google.com/view/skshukla/)
-
-</div>
-
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-
 ### **Junfeng Fan** ### {#junfeng-fan}
 
 **Open Security Research**
@@ -151,13 +129,37 @@ margin: 5px"}](https://cesg.tamu.edu/faculty/jv-jeyavijayan-rajendran/)
 **Technical University of Darmstadt**
 
 <div style="text-align: justify;">
-[![](../images/ahmad_reza_sadeghi.jpg){: style="width: 230px; float: left;
+[![](../images/ahmad_reza_sadeghi.jpg){: style="width: 225px; float: left;
 margin: 5px"}](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp)
 
 </div>
 
 <BR>
 <BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+### **Sandeep Shukla** ### {#sandeep-shukla}
+
+**International Institute of Information Technology - Hyderabad**
+
+<div style="text-align: justify;">
+[![](../images/sandeep_shukla.jpg){: style="width: 230px; float: left;
+margin: 5px"}](https://sites.google.com/view/skshukla/)
+
+</div>
+
 <BR>
 <BR>
 <BR>
