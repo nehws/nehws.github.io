@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2026</title>
-  <meta name="description" content="Speakers">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/speakers/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2026</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://nehws.org/registration">Registration</a></li>
-		<li><a href="https://nehws.org/venue">Venue & Travel</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-		<li><a href="https://nehws.org/archive">Archive</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <h3 id="speakers"><strong>Speakers</strong></h3>
+I"ÒG<h3 id="speakers"><strong>Speakers</strong></h3>
 
 <h3 id="ryan-kastner"><strong>Ryan Kastner</strong></h3>
 
@@ -70,7 +22,7 @@ margin: 5px" /></a>
 
 <h3 id="yuval-yarom"><strong>Yuval Yarom</strong></h3>
 
-<p><strong>Ruhr University Bochum</strong></p>
+<p><strong>Ruhr University Bochum (RUB)</strong></p>
 
 <p><strong>Talk title: Racing Down to the Bottom of the Microarchitecture</strong></p>
 <div style="text-align: justify;">
@@ -112,7 +64,7 @@ margin: 5px" /></a></p>
 
 <h3 id="sandeep-shukla"><strong>Sandeep Shukla</strong></h3>
 
-<p><strong>International Institute of Information Technology - Hyderabad</strong></p>
+<p><strong>International Institute of Information Technology - Hyderabad (IIIT-H)</strong></p>
 
 <div style="text-align: justify;">
   <p><a href="https://sites.google.com/view/skshukla/"><img src="../images/sandeep_shukla.jpg" alt="" style="width: 230px; float: left;
@@ -130,6 +82,8 @@ margin: 5px" /></a></p>
 <br />
 <br />
 <br />
+<br />
+<br />
 <br /></p>
 
 <h3 id="junfeng-fan"><strong>Junfeng Fan</strong></h3>
@@ -137,12 +91,14 @@ margin: 5px" /></a></p>
 <p><strong>Open Security Research</strong></p>
 
 <div style="text-align: justify;">
-  <p><a href=""><img src="../images/junfeng_fan.jpg" alt="" style="width: 230px; float: left;
+  <p><a href="https://sites.google.com/view/skshukla/"><img src="../images/junfeng_fan.jpg" alt="" style="width: 230px; float: left;
 margin: 5px" /></a></p>
 
 </div>
 
 <p><br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -159,12 +115,13 @@ margin: 5px" /></a></p>
 <p><strong>Texas A&amp;M University Engineering</strong></p>
 
 <div style="text-align: justify;">
-  <p><a href="https://cesg.tamu.edu/faculty/jv-jeyavijayan-rajendran/"><img src="../images/jv_rajendran.jpg" alt="" style="width: 230px; float: left;
+  <p><a href="https://sites.google.com/view/skshukla/"><img src="../images/jv_rajendran.jpg" alt="" style="width: 230px; float: left;
 margin: 5px" /></a></p>
 
 </div>
 
 <p><br />
+<br />
 <br />
 <br />
 <br />
@@ -182,7 +139,7 @@ margin: 5px" /></a></p>
 <p><strong>Technical University of Darmstadt</strong></p>
 
 <div style="text-align: justify;">
-  <p><a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp"><img src="../images/ahmad_reza_sadeghi.jpg" alt="" style="width: 230px; float: left;
+  <p><a href="https://sites.google.com/view/skshukla/"><img src="../images/ahmad_reza_sadeghi.jpg" alt="" style="width: 230px; float: left;
 margin: 5px" /></a></p>
 
 </div>
@@ -201,12 +158,9 @@ margin: 5px" /></a></p>
 <br />
 <br /></p>
 
-<p>Additional speakers will be announced shortly. Please check back for updates.</p>
-
-<p><br />
-<br /></p>
-
 <!-- **More Speakers Coming Soon**  -->
+
+<!-- Additional speakers will be announced shortly. Please check back for updates. -->
 
 <!-- ### **Makoto Nagata** ### {#makoto-nagata}
 **Kobe University**
@@ -317,35 +271,4 @@ margin: 5px"} **Dominic Rizzo** is the founder and CEO of zeroRISC. His research
 margin: 5px"} **Sharad Malik** (F‚Äô02) received the B.Tech. degree in electrical engineering from the Indian Institute of Technology Delhi, New Delhi, India, in 1985, and the M.S. and Ph.D. degrees in computer science from the University of California at Berkeley, Berkeley, CA, USA, in 1987 and 1990, respectively.
 He served as the Director of the Keller Center for Innovation in Engineering Education, Princeton University, Princeton, NJ, USA, from 2006 to 2011. He is the George Van Ness Lothrop Professor of Engineering with Princeton University and the Chair of the Department of Electrical Engineering. He has served as the Director of the multi-university MARCO Gigascale Systems Research Center, Berkeley, CA, USA, from 2009 to 2012, and as the Associate Director of the Center for Future Architectures Research, Ann Arbor, MI, USA, from 2013 to 2016. His research in functional timing analysis and propositional satisfiability has been widely used in industrial electronic design automation tools. His current research interest includes design methodology and design automation for computing systems.
 Dr. Malik has received the IEEE/ACM Design Automation Conference Award for the most cited paper in the 50-year history of the conference in 2013, the Computer-Aided Verification Award for fundamental contributions to the development of high-performance Boolean satisfiability solvers in 2009, the IEEE/ACM International Conference on Computer-Aided Design Ten Year Retrospective Most Influential Paper Award in 2011, the IEEE CEDA A. Richard Newton Technical Impact Award in Electronic Design Automation in 2017, the Princeton University Presidents Award for Distinguished Teaching in 2009, the IIT Delhi Distinguished Alumni Award in 2009, as well as several other research and teaching awards. He is a fellow of the ACM.  -->
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2026 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://nehws.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET

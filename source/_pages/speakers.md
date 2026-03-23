@@ -30,7 +30,7 @@ margin: 5px"}](https://kastner.ucsd.edu/ryan/)
 
 ### **Yuval Yarom** ### {#yuval-yarom}
 
-**Ruhr University Bochum (RUB)**
+**Ruhr University Bochum**
 
 **Talk title: Racing Down to the Bottom of the Microarchitecture**
 <div style="text-align: justify;">
@@ -43,14 +43,140 @@ margin: 5px"}](https://yuval.yarom.org/)
 **Yuval Yarom** is a Professor of Computer Security at Ruhr University Bochum. His research focuses on the interface between the software and the hardware. In particular, He is interested in the discrepancy between the way that programmers think about software execution and the concrete execution in modern processors. Before that, he was an Associate Professor at the University of Adelaide, the Vice President of Research in Memco Software, and a co-founder and Chief Technology Officer of Girafa.com. Yuval earned his Ph.D. in Computer Science from the University of Adelaide in 2014, and an M.Sc. in Computer Science and a B.Sc. in Mathematics and Computer Science from the Hebrew University of Jerusalem in 1993 and 1990, respectively.
 </div>
 
+
 <BR>
 <BR>
+
+
+### **Matt Adiletta** ### {#matt-adiletta}
+
+**Intel**
+
+<div style="text-align: justify;">
+[![](../images/matt_adiletta.jpg){: style="width: 230px; float: left;
+margin: 5px"}]()
+
+</div>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+### **Sandeep Shukla** ### {#sandeep-shukla}
+
+**International Institute of Information Technology - Hyderabad**
+
+<div style="text-align: justify;">
+[![](../images/sandeep_shukla.jpg){: style="width: 230px; float: left;
+margin: 5px"}](https://sites.google.com/view/skshukla/)
+
+</div>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+### **Junfeng Fan** ### {#junfeng-fan}
+
+**Open Security Research**
+
+<div style="text-align: justify;">
+[![](../images/junfeng_fan.jpg){: style="width: 230px; float: left;
+margin: 5px"}]()
+
+</div>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+
+
+### **JV Rajendran** ### {#JV-Rajendran}
+
+**Texas A&M University Engineering**
+
+<div style="text-align: justify;">
+[![](../images/jv_rajendran.jpg){: style="width: 230px; float: left;
+margin: 5px"}](https://cesg.tamu.edu/faculty/jv-jeyavijayan-rajendran/)
+
+</div>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+
+
+### **Ahmad-Reza Sadeghi** ### {#ahmad-reza-sadeghi}
+
+**Technical University of Darmstadt**
+
+<div style="text-align: justify;">
+[![](../images/ahmad_reza_sadeghi.jpg){: style="width: 230px; float: left;
+margin: 5px"}](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp)
+
+</div>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+Additional speakers will be announced shortly. Please check back for updates.
+
 <BR>
 <BR>
 
 <!-- **More Speakers Coming Soon**  -->
 
-<!-- Additional speakers will be announced shortly. Please check back for updates. -->
 
 
 <!-- ### **Makoto Nagata** ### {#makoto-nagata}
