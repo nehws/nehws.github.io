@@ -6,7 +6,9 @@ sitemap: false
 permalink: /speakers/
 ---
 
-### **Speakers** ###
+## **Keynote Speakers** ##
+
+<BR>
 
 ### **Ryan Kastner** ### {#ryan-kastner}
 
@@ -25,7 +27,6 @@ margin: 5px"}](https://kastner.ucsd.edu/ryan/)
 **Ryan Kastner** is a professor in the Department of Computer Science and Engineering at UC San Diego, where he holds the William Nachbar endowed chair. He received a Ph.D. in Computer Science at UCLA, a Master’s degree (MS) in engineering, and Bachelor’s degrees (BS) in Electrical Engineering and Computer Engineering, all from Northwestern University. He leads the Kastner Research Group whose current research interests fall into three areas: hardware acceleration, hardware security, and remote sensing. He is the co-director of the Wireless Embedded Systems Master of Advanced Studies Program. He also co-directs the Engineers for Exploration Program. He is the co-founder of Cycuity, which develops hardware security verification solutions. He is an IEEE Fellow.
 </div>
 
-<BR>
 <BR>
 
 ### **Yuval Yarom** ### {#yuval-yarom}
@@ -47,6 +48,9 @@ margin: 5px"}](https://yuval.yarom.org/)
 <BR>
 <BR>
 
+## **Panelists** ##
+
+<BR>
 
 ### **Matt Adiletta** ### {#matt-adiletta}
 
