@@ -52,7 +52,7 @@ margin: 5px"}](https://yuval.yarom.org/)
 
 <BR>
 
-### **Matt Adiletta** ### {#matt-adiletta}
+<!-- ### **Matt Adiletta** ### {#matt-adiletta}
 
 **Intel**
 
@@ -74,7 +74,7 @@ margin: 5px"}]()
 <BR>
 <BR>
 <BR>
-<BR>
+<BR> -->
 
 
 ### **Junfeng Fan** ### {#junfeng-fan}
@@ -102,28 +102,19 @@ margin: 5px"}]()
 
 
 
-### **JV Rajendran** ### {#JV-Rajendran}
+### **Jeyavijayan (JV) Rajendran** ### {#JV-Rajendran}
 
 **Texas A&M University Engineering**
 
 <div style="text-align: justify;">
-[![](../images/jv_rajendran.jpg){: style="width: 230px; float: left;
+[![](../images/jv_rajendran.jpg){: style="width: 220px; float: left;
 margin: 5px"}](https://cesg.tamu.edu/faculty/jv-jeyavijayan-rajendran/)
-
+***Dr. Jeyavijayan (JV) Rajendran*** is an Associate Professor and an ASCEND  Fellow in the Department of Electrical and Computer Engineering at Texas A&M University. He obtained his Ph.D. degree from New York University in August 2015. His research interests include hardware security and computer security. His research has won the NSF CAREER Award in 2017, the ONR Young Investigator Award in 2022, the IEEE CEDA Ernest Kuh Early Career Award in 2021, the ACM SIGDA Outstanding Young Faculty Award in 2019, the Intel Academic Leadership Award, along with several best student paper awards and best PhD dissertation awards. He is also an alumnus of the National Academy of Engineering s Frontiers of Engineering, 2023, and serves on NASEM/NAE committees. He organizes and has co-founded Hack@DAC, a student security competition co-located with DAC and SUSHI.
 </div>
 
 <BR>
 <BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
+
 
 
 
@@ -161,21 +152,11 @@ margin: 5px"}](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/
 <div style="text-align: justify;">
 [![](../images/sandeep_shukla.jpg){: style="width: 230px; float: left;
 margin: 5px"}](https://sites.google.com/view/skshukla/)
-
+**Prof. Sandeep Kumar Shukla** is currently the director of International Institute of Information Technology (IIIT), Hyderabad, and  a professor at the the Cyber Security Center (IIITH). Prof. Shukla headed the department of Computer Science and Engineering at IIT Kanpur between 2017 and 2020, served as the Poonam & Prabhu Goel Chair Professor from 2016 to 2019, and was the Rajiv and Ritu Batra Chair Professor in Cyber Security between 2023-2025. He also acted as a joint coordinator of the National Interdisciplinary Centre for Cyber Security & Cyber Defense of Critical Infrastructures (C3i Center) at IIT Kanpur which he also founded and as a joint coordinator of the National Blockchain Project funded by the National Security Council Secretariat. He served as a project director of the C3i Hub—a Technology Innovation Hub on Cyber Security created by the DST, Government of India until March 2025.  In August 2025, he  moved from  IIT Kanpur to IIIT Hyderabad.  He worked at GTE Labs as a Principal Member of Technical Staff, as Senior Staff Design Engineer at Intel Corporation, as research faculty at the University of California, Irvine, and as a Professor of Computer Engineering at Virginia Tech, Blacksburg, USA. His major research areas are cybersecurity, cyber-resilient system design, risk assessment, critical infrastructure security, and blockchain technology. Prof. Shukla had published over 300 peer-reviewed conference papers, journal articles, and book chapters, authored 12 books, and served as editor for several noted journals and technical publications.
 </div>
 
 <BR>
 <BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-
 Additional speakers will be announced shortly. Please check back for updates.
 
 <BR>
