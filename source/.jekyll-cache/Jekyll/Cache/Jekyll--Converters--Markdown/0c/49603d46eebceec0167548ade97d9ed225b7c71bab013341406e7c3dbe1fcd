@@ -1,4 +1,4 @@
-I"+<style>
+I"�G<style>
   #textid table th:nth-child(1),
   #textid table td:nth-child(1) {
     width: 10%;
@@ -17,10 +17,216 @@
 </style>
 
 <h3 id="program"><strong>Program</strong></h3>
-<p>Stay tuned for the NEHWS 2026 program details!</p>
 
 <!-- ### **[Program](/images/NEHWS_25_Program_01.pdf)** ### -->
-<!-- 
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th style="text-align: center">Session Chair</th>
+      <th>Session Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:00 - 9:15</strong></td>
+      <td style="text-align: center">Yingjie Lao</td>
+      <td><strong>Welcome Remarks</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9:15 - 9:30</strong></td>
+      <td style="text-align: center">Yingjie Lao</td>
+      <td><strong>Opening remarks by <a href="https://engineering.tufts.edu/about/leadership/dean">Dean Kyongbum Lee</a></strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>News from the NEHWS Community</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9:30 - 10:30</strong></td>
+      <td style="text-align: center">Berk Sunar and</td>
+      <td><strong>Panel Discussion:</strong> <em>“The Geopolitics of Hardware Security”</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center">Patrick Schaumont</td>
+      <td>- <a href="/speakers#junfeng-fan">Junfeng Fan</a> (Open Security Research)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers#jeyavijayan-jv-rajendran">Jeyavijayan (JV) Rajendran</a> (Texas A&amp;M University Engineering)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers#ahmad-reza-sadeghi">Ahmad-Reza Sadeghi</a> (Technical University of Darmstadt)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers#sandeep-shukla">Sandeep Shukla</a> (International Institute of Information Technology - Hyderabad)</td>
+    </tr>
+    <tr>
+      <td><strong>10:30 - 10:45</strong></td>
+      <td style="text-align: center"> </td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td><strong>10:45 - 12:00</strong></td>
+      <td style="text-align: center">Dean Sullivan</td>
+      <td><strong>Submitted Talks — Session I</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Securing Cryptographic Software via Typed Assembly Language</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Shixin Song, Tingzhen Dong, Kori Nwabueze, Julian Zanders, Andres Erbsen, Adam Chipala and Mingjie Yan</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>A New Wave: Symbolic Wavelets for Key Extraction in Noisy Environments</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Lil Peeter and Fatemah Ganji</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Leveraging AI ASICs for Homomorphic Encryption</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Jianming Tong, Tianhao Huang, Jingtian Dang, Leo de Castro, Anirudh Itagi, Anupam Golder, Asra Ali, Jeremy Kun, Jeven Jiang, Shruthi Gorantala, Baiyu Li, Arvind Arvind, Edward Suh and Tushar Krishna</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>Power Side-Channel and Fault Attacks Against Protected ML-DSA Implementations</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Vincent Quentin Ulitzsch</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Graph in the Vault: Protecting Edge GNN Inference with Trusted Execution</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Tianhong Xu, Ruyi Ding and Yunsi Fei</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>Exploiting BRAM Data Remanence for Cross-Tenant Attacks</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Bharadwaj Madabhushi, Chandra Sekhar Mummidi and Sandip Kundu</td>
+    </tr>
+    <tr>
+      <td><strong>12:00 - 1:30</strong></td>
+      <td style="text-align: center"> </td>
+      <td><strong>Lunch and Poster Session</strong></td>
+    </tr>
+    <tr>
+      <td><strong>1:30 - 2:30</strong></td>
+      <td style="text-align: center">Dean Sullivan</td>
+      <td><strong>Invited Keynote by <a href="/speakers#ryan-kastner">Ryan Kastner</a> (UCSD)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>2:30 - 2:40</strong></td>
+      <td style="text-align: center"> </td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td><strong>2:40 - 3:45</strong></td>
+      <td style="text-align: center">Prabuddha</td>
+      <td><strong>Submitted Talks— Session II</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center">Chakraborty</td>
+      <td><strong>Long Talk:</strong> <em>MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Ruyi Ding, Tianhong Xu and Yunsi Fei</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>Defeating Transient Execution Attacks by Limiting Secret Reachability through REGISTER HIDING and SHADOWCFI</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Daniel Trujillo, Jagadash Korea, David Kaplan and Mengjie Yan</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>ShadowScopre: Robust GPU Monitoring and Validation via Composable Side-Channel Signals</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Yichang Zhang, Ghadeer Almusaddar, Saber Ganjisaffar, Barry Williams, Yu David Liu, Dmitry Ponomarev and Noel Abu-Ghazeleh</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>GlitchSnipe: Toward Localized Voltage Fault</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Fatemeh Khojasteh Dana, Saleh Khalsa Monfared, Hamed Okhravi and Shahin Tajik</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Reverse Engineering DVFS Mechanisms</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Ryan Piersma, Tawid Bhuiyan, Tanvir Ahmed and Simha Sethumadhavan</td>
+    </tr>
+    <tr>
+      <td><strong>3:45 - 4:45</strong></td>
+      <td style="text-align: center">Shahin Tajik</td>
+      <td><strong>Invited Keynote by <a href="/speakers#yuval-yarom">Yuval Yarom</a> (RUB)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>4:45 - 5:00</strong></td>
+      <td style="text-align: center">Seetal Potluri and Yingjie Lao</td>
+      <td><strong>Best Poster Award and Closing Remarks</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br />
+<br /></p>
+
+<!-- ### **[Program](/images/NEHWS_25_Program_01.pdf)** ###
+
 | Time                      | Session Chair          | Session Details                                                                                             |
 | ------------------------- | :--------------------: | ----------------------------------------------------------------------------------------------------------- |
 | **9:00 - 9:15**           | Mengjia Yan                    | **Welcome Remarks**                                                                                         |
@@ -63,9 +269,9 @@
 |                           |                        | Md Hafizul Islam Chowdhury and Fan Yao                                                                       |
 | **4:45 - 5:45**           | Patrick Schaumont                    | **[Invited Keynote](/images/nagata.pdf) by [Makoto Nagata](/speakers#makoto-nagata) (Kobe University)**                                                      |
 | **5:45 - 6:00**           | Yingjie Lao            | **Best Poster Award and Closing Remarks**                                                                   |
-| **6:00 - 7:00**           |                        | **Networking reception**                                                                                    |
+| **6:00 - 7:00**           |                        | **Networking reception**                                                                                    | -->
 
-### **[Accepted Posters](/images/Accepted-Posters.pdf)** ###
+<!-- ### **[Accepted Posters](/images/Accepted-Posters.pdf)** ###
 
 - *On-die Differential Sensing for Monitoring and Analysis of Dynamic Computing Environments*, Shahriar Hadayeghparast, Xiang Li, Aleksa Deric, and Daniel Holcomb
 

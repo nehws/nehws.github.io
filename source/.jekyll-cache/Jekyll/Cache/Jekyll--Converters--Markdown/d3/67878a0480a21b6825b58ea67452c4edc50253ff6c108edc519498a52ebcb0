@@ -1,12 +1,4 @@
----
-title: "NEHWS 2026"
-layout: textlay
-excerpt: "Program"
-sitemap: false
-permalink: /program/
----
-
-<style>
+I"fI<style>
   #textid table th:nth-child(1),
   #textid table td:nth-child(1) {
     width: 10%;
@@ -24,53 +16,217 @@ permalink: /program/
   }
 </style>
 
-### **Program** ###
+<h3 id="program"><strong>Program</strong></h3>
+<p>Stay tuned for the NEHWS 2026 program details!</p>
 
-<!-- ### **[Program](/images/NEHWS_25_Program_01.pdf)** ### -->
+<h3 id="program-1"><strong><a href="/images/NEHWS_25_Program_01.pdf">Program</a></strong></h3>
 
-| Time                      | Session Chair          | Session Details                                                                                                |
-| ------------------------- | :--------------------: | -----------------------------------------------------------------------------------------------------------    |
-| **9:00 - 9:15**           |  Yingjie Lao           | **Welcome Remarks**                                                                                            |
-| **9:15 - 9:30**           |  Yingjie Lao           | **Opening remarks by [Dean Kyongbum Lee](https://engineering.tufts.edu/about/leadership/dean)**                |
-|                           |                        | **News from the NEHWS Community**                                                                              |
-| **9:30 - 10:30**           | Berk Sunar and         | **Panel Discussion:** *"The Geopolitics of Hardware Security"*                                                |
-|                           | Patrick Schaumont      | - [Junfeng Fan](/speakers#junfeng-fan) (Open Security Research)                                                |
-|                           |                        | - [Jeyavijayan (JV) Rajendran](/speakers#JV-Rajendran) (Texas A&M University Engineering)          |
-|                           |                        | - [Ahmad-Reza Sadeghi](/speakers#ahmad-reza-sadeghi) (Technical University of Darmstadt)                       |
-|                           |                        | - [Sandeep Shukla](/speakers#sandeep-shukla) (International Institute of Information Technology - Hyderabad)   |
-| **10:30 - 10:45**         |                        | Break                                                                                                          |
-| **10:45 - 12:00**         | Dean Sullivan          | **Submitted Talks — Session I**                                                                                |
-|                           |                        | **Long Talk:** *Securing Cryptographic Software via Typed Assembly Language*                                   |
-|                           |                        | Shixin Song, Tingzhen Dong, Kori Nwabueze, Julian Zanders, Andres Erbsen, Adam Chipala and Mingjie Yan         |
-|                           |                        | **Short Talk:** *A New Wave: Symbolic Wavelets for Key Extraction in Noisy Environments*                       |
-|                           |                        | Lil Peeter and Fatemah Ganji                                                                                   |
-|                           |                        | **Long Talk:** *Leveraging AI ASICs for Homomorphic Encryption*                                                |
-|                           |                        | Jianming Tong, Tianhao Huang, Jingtian Dang, Leo de Castro, Anirudh Itagi, Anupam Golder, Asra Ali, Jeremy Kun, Jeven Jiang, Shruthi Gorantala, Baiyu Li, Arvind Arvind, Edward Suh and Tushar Krishna|
-|                           |                        | **Short Talk:** *Power Side-Channel and Fault Attacks Against Protected ML-DSA Implementations*                |
-|                           |                        | Vincent Quentin Ulitzsch						                                                                            |
-|                           |                        | **Long Talk:** *Graph in the Vault: Protecting Edge GNN Inference with Trusted Execution*						          |
-|                           |                        | Tianhong Xu, Ruyi Ding and Yunsi Fei					                                                                  |
-|                           |                        | **Short Talk:** *Exploiting BRAM Data Remanence for Cross-Tenant Attacks*                                    |
-|                           |                        | Bharadwaj Madabhushi, Chandra Sekhar Mummidi and Sandip Kundu                                                        |
-| **12:00 - 1:30**          |                        | **Lunch and Poster Session**                                                                                |
-| **1:30 - 2:30**           | Dean Sullivan          | **Invited Keynote by [Ryan Kastner](/speakers#ryan-kastner) (UCSD)**                                                                     |
-| **2:30 - 2:40**           |                        | Break                                                                                                       |
-| **2:40 - 3:45**           | Prabuddha              | **Submitted Talks— Session II**                                                                             |
-|                           | Chakraborty            | **Long Talk:** *MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs*|
-|                           |                        | Ruyi Ding, Tianhong Xu and Yunsi Fei						                                                                  |
-|                           |                        | **Short Talk:** *Defeating Transient Execution Attacks by Limiting Secret Reachability through REGISTER HIDING and SHADOWCFI*						 |
-|                           |                        | Daniel Trujillo, Jagadash Korea, David Kaplan and Mengjie Yan						                                                           |
-|                           |                        | **Long Talk:** *ShadowScopre: Robust GPU Monitoring and Validation via Composable Side-Channel Signals*						                                 |
-|                           |                        | Yichang Zhang, Ghadeer Almusaddar, Saber Ganjisaffar, Barry Williams, Yu David Liu, Dmitry Ponomarev and Noel Abu-Ghazeleh                                                               |
-|                           |                        | **Short Talk:** *GlitchSnipe: Toward Localized Voltage Fault*						                                       |
-|                           |                        | Fatemeh Khojasteh Dana, Saleh Khalsa Monfared, Hamed Okhravi and Shahin Tajik						 |
-|                           |                        | **Long Talk:** *Reverse Engineering DVFS Mechanisms*														 |
-|                           |                        | Ryan Piersma, Tawid Bhuiyan, Tanvir Ahmed and Simha Sethumadhavan						                                                                       |
-| **3:45 - 4:45**           | Shahin Tajik           | **Invited Keynote by [Yuval Yarom](/speakers#yuval-yarom) (RUB)**                                                      |
-| **4:45 - 5:00**           | Seetal Potluri and Yingjie Lao            | **Best Poster Award and Closing Remarks**                                                                   |
-
-<BR>
-<BR>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th style="text-align: center">Session Chair</th>
+      <th>Session Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:00 - 9:15</strong></td>
+      <td style="text-align: center">Yingjie Lao</td>
+      <td><strong>Welcome Remarks</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9:15 - 9:30</strong></td>
+      <td style="text-align: center">Yingjie Lao</td>
+      <td><strong>Opening remarks by <a href="https://engineering.tufts.edu/about/leadership/dean">Dean Kyongbum Lee</a></strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>News from the NEHWS Community</strong></td>
+    </tr>
+    <tr>
+      <td><strong>9:30 - 10:30</strong></td>
+      <td style="text-align: center">Berk Sunar and</td>
+      <td><strong>Panel Discussion:</strong> <em>“The Geopolitics of Hardware Security”</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center">Patrick Schaumont</td>
+      <td>- <a href="/speakers#junfeng-fan">Junfeng Fan</a> (Open Security Research)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers#jeyavijayan-jv-rajendran">Jeyavijayan (JV) Rajendran</a> (Texas A&amp;M University Engineering)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers#ahmad-reza-sadeghi">Ahmad-Reza Sadeghi</a> (Technical University of Darmstadt)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>- <a href="/speakers#sandeep-shukla">Sandeep Shukla</a> (International Institute of Information Technology - Hyderabad)</td>
+    </tr>
+    <tr>
+      <td><strong>10:30 - 10:45</strong></td>
+      <td style="text-align: center"> </td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td><strong>10:45 - 12:00</strong></td>
+      <td style="text-align: center">Dean Sullivan</td>
+      <td><strong>Submitted Talks — Session I</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Securing Cryptographic Software via Typed Assembly Language</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Shixin Song, Tingzhen Dong, Kori Nwabueze, Julian Zanders, Andres Erbsen, Adam Chipala and Mingjie Yan</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>A New Wave: Symbolic Wavelets for Key Extraction in Noisy Environments</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Lil Peeter and Fatemah Ganji</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Leveraging AI ASICs for Homomorphic Encryption</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Jianming Tong, Tianhao Huang, Jingtian Dang, Leo de Castro, Anirudh Itagi, Anupam Golder, Asra Ali, Jeremy Kun, Jeven Jiang, Shruthi Gorantala, Baiyu Li, Arvind Arvind, Edward Suh and Tushar Krishna</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>Power Side-Channel and Fault Attacks Against Protected ML-DSA Implementations</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Vincent Quentin Ulitzsch</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <em>Graph in the Vault: Protecting Edge GNN Inference with Trusted Execution</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Tianhong Xu, Ruyi Ding and Yunsi Fei</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <em>Exploiting BRAM Data Remanence for Cross-Tenant Attacks</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Bharadwaj Madabhushi, Chandra Sekhar Mummidi and Sandip Kundu</td>
+    </tr>
+    <tr>
+      <td><strong>12:00 - 1:30</strong></td>
+      <td style="text-align: center"> </td>
+      <td><strong>Lunch and Poster Session</strong></td>
+    </tr>
+    <tr>
+      <td><strong>1:30 - 2:30</strong></td>
+      <td style="text-align: center">Dean Sullivan</td>
+      <td><strong>Invited Keynote by <a href="/speakers#ryan-kastner">Ryan Kastner</a> (UCSD)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>3:30 - 3:40</strong></td>
+      <td style="text-align: center"> </td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td><strong>3:40 - 4:45</strong></td>
+      <td style="text-align: center">Prabuddha</td>
+      <td><strong>Submitted Talks— Session II</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center">Chakraborty</td>
+      <td><strong>Long Talk:</strong> <em>MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Ruyi Ding, Tianhong Xu and Yunsi Fei</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> Defeating Transient Execution Attacks by Limiting Secret Reachability through REGISTER HIDING and SHADOWCFI</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Daniel Trujillo, Jagadash Korea, David Kaplan and Mengjie Yan</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <a href="/images/oreo.pdf"><em>Oreo: Protecting ASLR Against Microarchitectural Attacks</em></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Shixin Song, Joseph Zhang, and Mengjia Yan</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Short Talk:</strong> <a href="/images/pm4_NEHWS_EMFI.pdf"><em>Cross-Layer EM Fault Injection Assessment Framework</em></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Hanqiu Weng, Ruochen Dai, Tuba Yavuz, Xiaolong Guo, Orlando Arias, Dean Sullivan, Siqi Dai, Honggang Yu, Michael Lee, Domenic Forte, and Shuo Wang</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td><strong>Long Talk:</strong> <a href="/images/ivLeauge.pdf"><em>IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees</em></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td>Md Hafizul Islam Chowdhury and Fan Yao</td>
+    </tr>
+    <tr>
+      <td><strong>4:45 - 5:45</strong></td>
+      <td style="text-align: center">Patrick Schaumont</td>
+      <td><strong><a href="/images/nagata.pdf">Invited Keynote</a> by <a href="/speakers#makoto-nagata">Makoto Nagata</a> (Kobe University)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>5:45 - 6:00</strong></td>
+      <td style="text-align: center">Yingjie Lao</td>
+      <td><strong>Best Poster Award and Closing Remarks</strong></td>
+    </tr>
+    <tr>
+      <td><strong>6:00 - 7:00</strong></td>
+      <td style="text-align: center"> </td>
+      <td><strong>Networking reception</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- ### **[Program](/images/NEHWS_25_Program_01.pdf)** ###
 
@@ -159,3 +315,4 @@ permalink: /program/
 - *Chosen Cyphertext Attack on Barret Reduction in CRYSTALS-Kyber*, Yashaswini Makaram, Yunsi Fei, and David Kaeli
 
 - *Cross CPU-GPU Rowhammer Attack*, Yufei Wang -->
+:ET
