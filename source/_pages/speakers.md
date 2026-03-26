@@ -82,8 +82,9 @@ margin: 5px"}]()
 **Open Security Research**
 
 <div style="text-align: justify;">
-[![](../images/junfeng_fan.jpg){: style="width: 230px; float: left;
+[![](../images/junfeng_fan.jpg){: style="width: 220px; float: left;
 margin: 5px"}]()
+**Junfeng Fan** is an internationally renowned chip security expert, PhD in Cryptography from KU Leuven, Belgium, co-designer of the fully homomorphic cryptographic algorithm BFV, and chair of the CHES conference (2021). He has published a total of 30 papers in international conferences such as CHES and international journals such as IEEE Transactions on Computers.
 
 </div>
 
@@ -94,10 +95,7 @@ margin: 5px"}]()
 <BR>
 <BR>
 <BR>
-<BR>
-<BR>
-<BR>
-<BR>
+
 
 
 
