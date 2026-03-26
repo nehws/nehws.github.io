@@ -122,25 +122,13 @@ margin: 5px"}](https://cesg.tamu.edu/faculty/jv-jeyavijayan-rajendran/)
 **Technical University of Darmstadt**
 
 <div style="text-align: justify;">
-[![](../images/ahmad_reza_sadeghi.jpg){: style="width: 225px; float: left;
+[![](../images/ahmad_reza_sadeghi.jpg){: style="width: 220px; float: left;
 margin: 5px"}](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp)
-
+**Ahmad-Reza Sadeghi** is a Professor of Computer Science and head of the System Security Lab at the Technical University of Darmstadt, Germany. He led the university’s Cybersecurity Center from 2020 to 2023 and has directed multiple Intel Collaborative Research Labs since 2012. He holds a Ph.D. in Computer Science from the University of Saarland, Germany, as well as degrees in Industrial and Electrical Engineering. Before joining academia, he worked in R&D at leading IT companies, including Ericsson Telecommunications. His research spans security, privacy, and system design, with lasting impact across academia and industry. Prof. Sadeghi served as Editor-in-Chief of IEEE Security & Privacy Magazine and on the editorial boards of ACM TODAES, ACM TIOT, and ACM DTRAP. He is a member of the German Academy of Science and Engineering (acatech) and the ACM Europe Council. His achievements have been recognized with numerous awards, including the German Karl Heinz Beckurts Award for advancing Trusted Computing, the ACM SIGSAC Outstanding Contributions Award (2018), the Intel Academic Leadership Award (2021), the European Research Council Advanced Grant (2022), the DAC Service Award (2024), and the Synopsys Academic Award (2025).
 </div>
 
 <BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
+
 
 
 ### **Sandeep Shukla** ### {#sandeep-shukla}
