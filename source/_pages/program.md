@@ -72,90 +72,72 @@ permalink: /program/
 <BR>
 <BR>
 
-<!-- ### **[Program](/images/NEHWS_25_Program_01.pdf)** ###
+### **Accepted Posters** ###
 
-| Time                      | Session Chair          | Session Details                                                                                             |
-| ------------------------- | :--------------------: | ----------------------------------------------------------------------------------------------------------- |
-| **9:00 - 9:15**           | Mengjia Yan                    | **Welcome Remarks**                                                                                         |
-| **9:15 - 9:30**           | Mengjia Yan                    | **Opening remarks**                                                                                         |
-|                           |                        | **News from the NEHWS Community**                                                                           |
-| **9:30 - 10:30**          | Mengjia Yan                    | **[Invited Keynote](/images/toddaustin.pdf) by [Todd Austin](/speakers#todd-austin) (UMich)**                                                                  |
-| **10:30 - 10:45**         |                        | Break                                                                                                       |
-| **10:45 - 12:00**         | Xiaolin Xu                    | **Submitted Talks— Session I**                                                                              |
-|                           |                        | **Long Talk:** [*FaultDetective: Explainable to a Fault, from the Design Layout to the Software*](/images/am1_nehws2025_slides.pdf)             |
-|                           |                        | Zhenyuan Liu, Dillibabu Shanmugam, and Patrick Schaumont                                                    |
-|                           |                        | **Short Talk:** [*BackMon: IC Backside Tamper Detection using On-Chip Impedance Monitoring*](/images/backmon.pdf)                  |
-|                           |                        | Tahoura Mosavirik and Shahin Tajik                                                                          |
-|                           |                        | **Long Talk:** *Who is in Control? Security Risks in Commercial ADAS*                                       |
-|                           |                        | Yingjie Cao, George Crane, Haoqi Shan, and Dean Sullivan                                                    |
-|                           |                        | **Short Talk:** [*Energy-Accuracy-Security Trade-offs in Resistive In-Memory Computing Architectures*](/images/am4_NEHWS_ShortTalk_SaionRoy.pdf)        |
-|                           |                        | Saion Roy and Naresh Shanbhag                                                                               |
-|                           |                        | **Long Talk:** [*VGF: Value-Guided Fuzzing – Fuzzing Hardware as Hardware*](/images/am5_presentation.pdf)                                   |
-|                           |                        | Ruochen Dai, Michael Lee, Patrick Hoey, Weimin Fu, Yier Jin, Xiaolong Guo, Shuo Wang, Dean Sullivan, Tuba Yavuz, and Orlando Arias |
-|                           |                        | **Short Talk:** [*USBSnoop – Revealing Device Activities via USB Congestions*](/images/am6_USBSnoop.pdf)                                |
-|                           |                        | Davis Ranney, Yufei Wang, A. Adam Ding, and Yunsi Fei                                                        |
-| **12:00 - 1:30**          |                        | **Lunch and Poster Session**                                                                                |
-| **1:30 - 2:30**           | Daniel Holcomb         | **Panel Discussion:** *"Secure-by-Construction for Hardware Design: Mission Impossible or Walk in the Park?"* |
-|                           |                        | - [Shivam Bhasin](/speakers#shivam-bhasim) (Nanyang Technical University)                                                              |
-|                           |                        | - [Srini Devadas](/speakers#srini-devadas) (Massachusetts Institute of Technology)                                                     |
-|                           |                        | - [Sharad Malik](/speakers#sharad-malik) (Princeton University)                                                                       |
-|                           |                        | - [Christof Paar](/speakers#chris-paar) (Max Planck Institute)                                                                      |
-|                           |                        | - [Dominic Rizzo](/speakers#dom-rizzo) (zeroRISC)                                                                                  |
-| **2:30 - 3:30**           | Dean Sullivan                    | **Invited Keynote by [Ed. Suh](/speakers#ed-suh) (Nvidia)**                                                                     |
-| **3:30 - 3:40**           |                        | Break                                                                                                       |
-| **3:40 - 4:45**           | Dean Sullivan                    | **Submitted Talks— Session II**                                                                             |
-|                           |                        | **Long Talk:** [*Exploiting Exclusive System-Level Cache in Apple M-Series SoCs for Enhanced Cache Occupancy Attacks*](/images/pm1_10_2_TianhongXu.pdf) |
-|                           |                        | Tianhong Xu, Aidong Ding, and Yunsi Fei                                                                     |
-|                           |                        | **Short Talk:** [*Uncertainty Estimation in Neural Network-enabled Side-channel Analysis and Links to Interpretability*](/images/pm2_NEHWS_MN_final.pdf) |
-|                           |                        | Seyedmohammad Nouraniboosjin and Fatemeh Ganji                                                           |
-|                           |                        | **Long Talk:** [*Oreo: Protecting ASLR Against Microarchitectural Attacks*](/images/oreo.pdf)                                 |
-|                           |                        | Shixin Song, Joseph Zhang, and Mengjia Yan                                                                 |
-|                           |                        | **Short Talk:** [*Cross-Layer EM Fault Injection Assessment Framework*](/images/pm4_NEHWS_EMFI.pdf)                                       |
-|                           |                        | Hanqiu Weng, Ruochen Dai, Tuba Yavuz, Xiaolong Guo, Orlando Arias, Dean Sullivan, Siqi Dai, Honggang Yu, Michael Lee, Domenic Forte, and Shuo Wang |
-|                           |                        | **Long Talk:** [*IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees*](/images/ivLeauge.pdf) |
-|                           |                        | Md Hafizul Islam Chowdhury and Fan Yao                                                                       |
-| **4:45 - 5:45**           | Patrick Schaumont                    | **[Invited Keynote](/images/nagata.pdf) by [Makoto Nagata](/speakers#makoto-nagata) (Kobe University)**                                                      |
-| **5:45 - 6:00**           | Yingjie Lao            | **Best Poster Award and Closing Remarks**                                                                   |
-| **6:00 - 7:00**           |                        | **Networking reception**                                                                                    | -->
+- **Securing Cryptographic Software via Typed Assembly Language**\
+  Shixin Song, Tingzhen Dong, Kosi Nwabueze, Julian Zanders, Andres Erbsen, Adam Chlipala and Mengjia Yan
 
-<!-- ### **[Accepted Posters](/images/Accepted-Posters.pdf)** ###
+- **Power Side-Channel and Fault Attacks Against Protected ML-DSA Implementations**\
+  Vincent Quentin Ulitzsch
 
-- *On-die Differential Sensing for Monitoring and Analysis of Dynamic Computing Environments*, Shahriar Hadayeghparast, Xiang Li, Aleksa Deric, and Daniel Holcomb
+- **I Know What You Are Reading: Evaluating Readout Crosstalk in Cloud-based Quantum Computers**\
+  Yizhuo Tan and Jakub Szefer
 
-- *Hardware Acceleration for Fully Homomorphic Encryption Scheme Switching from CKKS to FHEW*, Kaiyuan Zhang, Antian Wang, Keshab Parhi, and Yingjie Lao
+- **TraceQ: Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface-Code Fault-Tolerant Quantum Computing**\
+  Theodoros Trochatos, Christopher Kang, Andrew Wang, Frederic T. Chong and Jakub Szefer
 
-- *Logical Maneuvers: Detecting and Mitigating Adversarial Hardware Faults in Space*, Fatemeh Khojasteh Dana, Saleh Khalaj Monfared, and Shahin Tajik
+- **Fault Injection Attacks on Q-Learning: Analysis, Vulnerabilities, and Countermeasures**\
+  Tom Slooff, Anthony Etim, Jiaqi Yu, Francesco Regazzoni and Jakub Szefer
 
-- *Side-channel Threats in Fault-Tolerant Quantum Computers*, Theodoros Trochatos, Christopher Kang, Frederic T. Chong, and Jakub Szefer
+- **HoloCode: Hybrid Optical-Electronic Edge Encoding for Privacy-Preserving Cloud Training**\
+  Ruofan Xing, Arman Akbari, Weikai Lin, Adith Boloor, Alexander Montes McNeil, Michael Moebius, Yongmin Liu, Yuhao Zhu and Xuan Zhang
 
-- *Securing HHL Quantum Algorithm against Quantum Computer Attacks*, Yizhuo Tan, Hrvoje Kukina, and Jakub Szefer
+- **Semantic Mutation and Systematic Evaluation of Automated Hardware Repair**\
+  Maisha Mastora and Dean Sullivan
 
-- *Winograd for NTT: A Case Study on Higher-Radix and Low-Latency Implementation of NTT for Post Quantum Cryptography on FPGA*, Suraj Mandal and Debapriya Basu Roy
+- **A Post-Silicon Side-Channel Validation Framework for Cryptographic Accelerators**\
+  Hubert Liu, Snehashis Roy and Patrick Schaumont
 
-- *An On-Chip Sensor Placement Strategy for Voltage-Drop Attack Mitigation*, Mashrafi Alam Kajol, Sandeep Sunkavilli, and Qiaoyan Yu
+- **Explainable AI Driven Power Side-Channel Estimation and Mitigation for Secure Digital Hardware**\
+  Tanzim Mahfuz, Sudipta Paria, Tasneem Suha, Swarup Bhunia and Prabuddha Chakraborty
 
-- *Fault Injection on Reinforcement Learning*, Tom Slooff, Anthony Etim, Jiaqi Yu, Francesco Regazzoni, and Jakub Szefer
+- **Defeating Transient Execution Attacks by Limiting Secret Reachability through REGISTER HIDING and SHADOWCFI**\
+  Daniel Trujillo, Jagadish Kotra, David Kaplan and Mengjia Yan
 
-- *ChipletPing: On-die Digital Impedance Sensing for Chiplet and Interposer Verification*, Saleh Monfared, Maryam Saadat Safa, and Shahin Tajik
+- **Accelerating FrodoKEM in Hardware**\
+  Sanjay Deshpande, Patrick Longa and Jakub Szefer
 
-- *Reverse Cross Entropy Optimizations for Efficient Adversarial Detection and Defense*, Zirui Fu and Marco Donato
+- **SquareLoop: Explore Optimal Authentication Block Strategy for ML**\
+  Jan Strzeszynski, Jianming Tong, Kyungmi Lee, Nathan Xiong, Angshuman Parashar, Joel S. Emer, Tushar Krishna and Mengjia Yan
 
-- *CAPRI6: A Solution for Fault Root Cause Detection*, Dillibabu Shanmugam, Zhenyuan Liu, and Patrick Schaumont
+- **Attacking CPU–iGPU Shared-Memory DNN Inference in Intel Heterogeneous Systems**\
+  Yufei Wang and Yunsi Fei
 
-- *LeakFlow: Power Side-Channel Leakage Simulation and Assessment Tool*, Andrew Malnicof, Zhenyuan Liu, and Patrick Schaumont
+- **Protecting Analog Circuits using Switch Mode Time Domain Locking**\
+  Utkarsh Kumar and Aatmesh Shrivastava
 
-- *Security Attacks Abusing Pulse-level Quantum Circuits*, Chuanqi Xu and Jakub Szefer
+- **BLADE: Bit-level Fault Analysis via Differentiable Estimation**\
+  Zafaryab Haider, Md Hafizur Rahman, Shane Moeykens, Vijay Devabhaktuni and Prabuddha Chakraborty
 
-- *Integrated Security Mechanisms for Weight Protection in Memristive Crossbar Arrays*, Muhammad Faheemur Rahman and Wayne Burleson
+- **Compass: Navigating the Design Space of Taint Schemes for RTL Security Verification**\
+  Yuheng Yang, Qinhan Tan, Thomas Bourgeat, Sharad Malik and Mengjia Yan
 
-- *X-DFS: Explainable Artificial Intelligence Guided Design-for-Security Solution Space Exploration*, Tanzim Mahfuz and Prabuddha Chakraborty
+- **CacheBlitz: Reinforcement Learning for Cache Contention Attack Optimization**\
+  Shayan Chatiwala and Mulong Luo
 
-- *LooseWire: Identifying Root Causes of Side-channel Leakage in an Open-Source FPGA*, Evan Apinis, Zhenyuan Liu, and Patrick Schaumont
+- **Cartographer: Enumerating Scan Chains for Visibility Into the Register Layer of Commercial ICs During Fault Injection**\
+  Thei Riley, Dillibabu Shanmugam and Patrick Schaumont
 
-- *AI-enabled, Automated, and Efficient Electromagnetic Side-Channel Acquisition*, Dev M. Mehta, Maryam Saadat Safa, Alessandra Savio Serpes, Seyedmohammad Nouraniboosjin, Shahin Tajik, and Fatemeh Ganji
+- **WAVE: Leveraging Architecture Observation for Privacy-Preserving Model Oversight**\
+  Haoxuan Xu, Chen Gong, Beijie Liu, Haizhong Zheng, Beidi Chen and Mengyuan Li
 
-- *Automation of Photon Emission Analysis Pipeline for Hardware Security*, Spencer Harding, Keegan Kuhn, Scott West, Dev M. Mehta, Shahin Tajik, and Fatemeh Ganji
+- **Fault Injection Attacks and Countermeasures on TinyML Algorithms**\
+  Anthony Etim, Srilalith Nampally, Aubtin Rasouli, Dustin Mazza, Krishna Chilakapati, Tinghung Chiu, Ferhat Erata, Leyla Nazhandali, Wenjie Xiong and Jakub Szefer
 
-- *Chosen Cyphertext Attack on Barret Reduction in CRYSTALS-Kyber*, Yashaswini Makaram, Yunsi Fei, and David Kaeli
+- **Protecting Localized Reasoning Engines as Critical IP in LLM-Assisted EDA**\
+  Weimin Fu and Xiaolong Guo
 
-- *Cross CPU-GPU Rowhammer Attack*, Yufei Wang -->
+- **FANBLEED: Stealing Your Secrets via Observing Your Cooling Fan**\
+  Sisheng Liang, Zhengxiong Li, Zihao Zhan and Zhenkai Zhang
+  
+<BR>

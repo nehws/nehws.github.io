@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2026</title>
-  <meta name="description" content="Program">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/program/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2026</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://nehws.org/registration">Registration</a></li>
-		<li><a href="https://nehws.org/venue">Venue & Travel</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-		<li><a href="https://nehws.org/archive">Archive</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <style>
+I"Ó_<style>
   #textid table th:nth-child(1),
   #textid table td:nth-child(1) {
     width: 10%;
@@ -309,6 +261,41 @@ Maisha Mastora and Dean Sullivan</p>
 Hubert Liu, Snehashis Roy and Patrick Schaumont</p>
   </li>
   <li>
+    <p><strong>Explainable AI Driven Power Side-Channel Estimation and Mitigation for Secure Digital Hardware</strong>\</p>
+  </li>
+  <li>
+    <p><strong>Securing Cryptographic Software via Typed Assembly Language</strong><br />
+Shixin Song, Tingzhen Dong, Kosi Nwabueze, Julian Zanders, Andres Erbsen, Adam Chlipala and Mengjia Yan</p>
+  </li>
+  <li>
+    <p><strong>Power Side-Channel and Fault Attacks Against Protected ML-DSA Implementations</strong><br />
+Vincent Quentin Ulitzsch</p>
+  </li>
+  <li>
+    <p><strong>I Know What You Are Reading: Evaluating Readout Crosstalk in Cloud-based Quantum Computers</strong><br />
+Yizhuo Tan and Jakub Szefer</p>
+  </li>
+  <li>
+    <p><strong>TraceQ: Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface-Code Fault-Tolerant Quantum Computing</strong><br />
+Theodoros Trochatos, Christopher Kang, Andrew Wang, Frederic T. Chong and Jakub Szefer</p>
+  </li>
+  <li>
+    <p><strong>Fault Injection Attacks on Q-Learning: Analysis, Vulnerabilities, and Countermeasures</strong><br />
+Tom Slooff, Anthony Etim, Jiaqi Yu, Francesco Regazzoni and Jakub Szefer</p>
+  </li>
+  <li>
+    <p><strong>HoloCode: Hybrid Optical-Electronic Edge Encoding for Privacy-Preserving Cloud Training</strong><br />
+Ruofan Xing, Arman Akbari, Weikai Lin, Adith Boloor, Alexander Montes McNeil, Michael Moebius, Yongmin Liu, Yuhao Zhu and Xuan Zhang</p>
+  </li>
+  <li>
+    <p><strong>Semantic Mutation and Systematic Evaluation of Automated Hardware Repair</strong><br />
+Maisha Mastora and Dean Sullivan</p>
+  </li>
+  <li>
+    <p><strong>A Post-Silicon Side-Channel Validation Framework for Cryptographic Accelerators</strong><br />
+Hubert Liu, Snehashis Roy and Patrick Schaumont</p>
+  </li>
+  <li>
     <p><strong>Explainable AI Driven Power Side-Channel Estimation and Mitigation for Secure Digital Hardware</strong><br />
 Tanzim Mahfuz, Sudipta Paria, Tasneem Suha, Swarup Bhunia and Prabuddha Chakraborty</p>
   </li>
@@ -453,35 +440,4 @@ Sisheng Liang, Zhengxiong Li, Zihao Zhan and Zhenkai Zhang</p>
 - *Chosen Cyphertext Attack on Barret Reduction in CRYSTALS-Kyber*, Yashaswini Makaram, Yunsi Fei, and David Kaeli
 
 - *Cross CPU-GPU Rowhammer Attack*, Yufei Wang -->
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2026 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://nehws.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET

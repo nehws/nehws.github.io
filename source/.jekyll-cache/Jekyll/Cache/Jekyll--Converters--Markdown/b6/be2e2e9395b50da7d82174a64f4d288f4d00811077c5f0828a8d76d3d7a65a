@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NEHWS 2026</title>
-  <meta name="description" content="Program">
-  <link rel="stylesheet" href="https://nehws.org/css/main.css">
-  <link rel="canonical" href="https://nehws.org/program/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://nehws.org/images/favicon.ico">
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://nehws.org/">NEHWS 2026</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://nehws.org/">Home</a></li>
-		<li><a href="https://nehws.org/program">Program</a></li>
-		<li><a href="https://nehws.org/speakers">Speakers</a></li>
-		<li><a href="https://nehws.org/registration">Registration</a></li>
-		<li><a href="https://nehws.org/venue">Venue & Travel</a></li>
-		<li><a href="https://nehws.org/organization">Organization</a></li>
-		<li><a href="https://nehws.org/archive">Archive</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <style>
+I"bX<style>
   #textid table th:nth-child(1),
   #textid table td:nth-child(1) {
     width: 10%;
@@ -273,96 +225,94 @@
 <p><br />
 <br /></p>
 
-<h3 id="accepted-posters"><strong>Accepted Posters</strong></h3>
+<h3 id="accepted-posters"><strong><a href="/images/Accepted-Posters.pdf">Accepted Posters</a></strong></h3>
 
 <ul>
   <li>
-    <p><strong>Securing Cryptographic Software via Typed Assembly Language</strong><br />
+    <p><strong>Securing Cryptographic Software via Typed Assembly Language</strong>
 Shixin Song, Tingzhen Dong, Kosi Nwabueze, Julian Zanders, Andres Erbsen, Adam Chlipala and Mengjia Yan</p>
   </li>
   <li>
-    <p><strong>Power Side-Channel and Fault Attacks Against Protected ML-DSA Implementations</strong><br />
+    <p><strong>Power Side-Channel and Fault Attacks Against Protected ML-DSA Implementations</strong>
 Vincent Quentin Ulitzsch</p>
   </li>
   <li>
-    <p><strong>I Know What You Are Reading: Evaluating Readout Crosstalk in Cloud-based Quantum Computers</strong><br />
+    <p><strong>I Know What You Are Reading: Evaluating Readout Crosstalk in Cloud-based Quantum Computers</strong>
 Yizhuo Tan and Jakub Szefer</p>
   </li>
   <li>
-    <p><strong>TraceQ: Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface-Code Fault-Tolerant Quantum Computing</strong><br />
+    <p><strong>TraceQ: Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface-Code Fault-Tolerant Quantum Computing</strong>
 Theodoros Trochatos, Christopher Kang, Andrew Wang, Frederic T. Chong and Jakub Szefer</p>
   </li>
   <li>
-    <p><strong>Fault Injection Attacks on Q-Learning: Analysis, Vulnerabilities, and Countermeasures</strong><br />
+    <p><strong>Fault Injection Attacks on Q-Learning: Analysis, Vulnerabilities, and Countermeasures</strong>
 Tom Slooff, Anthony Etim, Jiaqi Yu, Francesco Regazzoni and Jakub Szefer</p>
   </li>
   <li>
-    <p><strong>HoloCode: Hybrid Optical-Electronic Edge Encoding for Privacy-Preserving Cloud Training</strong><br />
+    <p><strong>HoloCode: Hybrid Optical-Electronic Edge Encoding for Privacy-Preserving Cloud Training</strong>
 Ruofan Xing, Arman Akbari, Weikai Lin, Adith Boloor, Alexander Montes McNeil, Michael Moebius, Yongmin Liu, Yuhao Zhu and Xuan Zhang</p>
   </li>
   <li>
-    <p><strong>Semantic Mutation and Systematic Evaluation of Automated Hardware Repair</strong><br />
+    <p><strong>Semantic Mutation and Systematic Evaluation of Automated Hardware Repair</strong>
 Maisha Mastora and Dean Sullivan</p>
   </li>
   <li>
-    <p><strong>A Post-Silicon Side-Channel Validation Framework for Cryptographic Accelerators</strong><br />
+    <p><strong>A Post-Silicon Side-Channel Validation Framework for Cryptographic Accelerators</strong>
 Hubert Liu, Snehashis Roy and Patrick Schaumont</p>
   </li>
   <li>
-    <p><strong>Explainable AI Driven Power Side-Channel Estimation and Mitigation for Secure Digital Hardware</strong><br />
+    <p><strong>Explainable AI Driven Power Side-Channel Estimation and Mitigation for Secure Digital Hardware</strong>
 Tanzim Mahfuz, Sudipta Paria, Tasneem Suha, Swarup Bhunia and Prabuddha Chakraborty</p>
   </li>
   <li>
-    <p><strong>Defeating Transient Execution Attacks by Limiting Secret Reachability through REGISTER HIDING and SHADOWCFI</strong><br />
+    <p><strong>Defeating Transient Execution Attacks by Limiting Secret Reachability through REGISTER HIDING and SHADOWCFI</strong>
 Daniel Trujillo, Jagadish Kotra, David Kaplan and Mengjia Yan</p>
   </li>
   <li>
-    <p><strong>Accelerating FrodoKEM in Hardware</strong><br />
+    <p><strong>Accelerating FrodoKEM in Hardware</strong>
 Sanjay Deshpande, Patrick Longa and Jakub Szefer</p>
   </li>
   <li>
-    <p><strong>SquareLoop: Explore Optimal Authentication Block Strategy for ML</strong><br />
+    <p><strong>SquareLoop: Explore Optimal Authentication Block Strategy for ML</strong>
 Jan Strzeszynski, Jianming Tong, Kyungmi Lee, Nathan Xiong, Angshuman Parashar, Joel S. Emer, Tushar Krishna and Mengjia Yan</p>
   </li>
   <li>
-    <p><strong>Attacking CPU–iGPU Shared-Memory DNN Inference in Intel Heterogeneous Systems</strong><br />
+    <p><strong>Attacking CPU–iGPU Shared-Memory DNN Inference in Intel Heterogeneous Systems</strong>
 Yufei Wang and Yunsi Fei</p>
   </li>
   <li>
-    <p><strong>Protecting Analog Circuits using Switch Mode Time Domain Locking</strong><br />
+    <p><strong>Protecting Analog Circuits using Switch Mode Time Domain Locking</strong>
 Utkarsh Kumar and Aatmesh Shrivastava</p>
   </li>
   <li>
-    <p><strong>BLADE: Bit-level Fault Analysis via Differentiable Estimation</strong><br />
+    <p><strong>BLADE: Bit-level Fault Analysis via Differentiable Estimation</strong>
 Zafaryab Haider, Md Hafizur Rahman, Shane Moeykens, Vijay Devabhaktuni and Prabuddha Chakraborty</p>
   </li>
   <li>
-    <p><strong>Compass: Navigating the Design Space of Taint Schemes for RTL Security Verification</strong><br />
+    <p><strong>Compass: Navigating the Design Space of Taint Schemes for RTL Security Verification</strong>
 Yuheng Yang, Qinhan Tan, Thomas Bourgeat, Sharad Malik and Mengjia Yan</p>
   </li>
   <li>
-    <p><strong>CacheBlitz: Reinforcement Learning for Cache Contention Attack Optimization</strong><br />
+    <p><strong>CacheBlitz: Reinforcement Learning for Cache Contention Attack Optimization</strong>
 Shayan Chatiwala and Mulong Luo</p>
   </li>
   <li>
-    <p><strong>Cartographer: Enumerating Scan Chains for Visibility Into the Register Layer of Commercial ICs During Fault Injection</strong><br />
+    <p><strong>Cartographer: Enumerating Scan Chains for Visibility Into the Register Layer of Commercial ICs During Fault Injection</strong>
 Thei Riley, Dillibabu Shanmugam and Patrick Schaumont</p>
   </li>
   <li>
-    <p><strong>WAVE: Leveraging Architecture Observation for Privacy-Preserving Model Oversight</strong><br />
+    <p><strong>WAVE: Leveraging Architecture Observation for Privacy-Preserving Model Oversight</strong>
 Haoxuan Xu, Chen Gong, Beijie Liu, Haizhong Zheng, Beidi Chen and Mengyuan Li</p>
   </li>
   <li>
-    <p><strong>Fault Injection Attacks and Countermeasures on TinyML Algorithms</strong><br />
+    <p><strong>Fault Injection Attacks and Countermeasures on TinyML Algorithms</strong>
 Anthony Etim, Srilalith Nampally, Aubtin Rasouli, Dustin Mazza, Krishna Chilakapati, Tinghung Chiu, Ferhat Erata, Leyla Nazhandali, Wenjie Xiong and Jakub Szefer</p>
   </li>
   <li>
-    <p><strong>Protecting Localized Reasoning Engines as Critical IP in LLM-Assisted EDA</strong><br />
-Weimin Fu and Xiaolong Guo</p>
+    <p><strong>Protecting Localized Reasoning Engines as Critical IP in LLM-Assisted EDA</strong></p>
   </li>
   <li>
-    <p><strong>FANBLEED: Stealing Your Secrets via Observing Your Cooling Fan</strong><br />
-Sisheng Liang, Zhengxiong Li, Zihao Zhan and Zhenkai Zhang</p>
+    <p><strong>FANBLEED: Stealing Your Secrets via Observing Your Cooling Fan</strong></p>
   </li>
 </ul>
 
@@ -453,35 +403,4 @@ Sisheng Liang, Zhengxiong Li, Zihao Zhan and Zhenkai Zhang</p>
 - *Chosen Cyphertext Attack on Barret Reduction in CRYSTALS-Kyber*, Yashaswini Makaram, Yunsi Fei, and David Kaeli
 
 - *Cross CPU-GPU Rowhammer Attack*, Yufei Wang -->
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2026 NEHWS
-
-
-		</div>
-
-		<div class="col-sm-4">
-		  Contact: <a href="mailto:contact@nehws.org">contact@nehws.org</a><br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://nehws.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
