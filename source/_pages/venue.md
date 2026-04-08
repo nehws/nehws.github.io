@@ -75,10 +75,10 @@ permalink: /venue/
 
 NEHWS attendees may park on an hourly basis in the [Dowling Garage, Lower Campus Garage, or Cousens Parking Lot](https://access.tufts.edu/parking-maps). You may purchase hourly parking via the [AIMS Mobile Pay App](https://tufts.aimsparking.com/) (Hourly Visitor Parking -> Search “Tufts”) or in person via payment kiosks located in each facility. 
 
-<!-- * **[Dowling Hall Garage](https://maps.app.goo.gl/7wxvvjuXN8VgfxQb6)**
+* **[Dowling Hall Garage](https://maps.app.goo.gl/7wxvvjuXN8VgfxQb6)**
   * 419 Boston Ave, Medford, MA 02155
   * Adjacent to campus
-  * Phone: (617) 627-3692 -->
+  * Phone: (617) 627-3692
 
 <!-- ### **Floor Plan** ###
 
