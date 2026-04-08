@@ -43,7 +43,7 @@ permalink: /program/
 |                           |                        | **Long Talk:** *Securing Cryptographic Software via Typed Assembly Language*                                   |
 |                           |                        | Shixin Song, Tingzhen Dong, Kori Nwabueze, Julian Zanders, Andres Erbsen, Adam Chipala and Mengjia Yan         |
 |                           |                        | **Short Talk:** *A New Wave: Symbolic Wavelets for Key Extraction in Noisy Environments*                       |
-|                           |                        | Lil Peter and Fatemeh Ganji                                                                                   |
+|                           |                        | Lil Peeler and Fatemeh Ganji                                                                                   |
 |                           |                        | **Long Talk:** *Leveraging AI ASICs for Homomorphic Encryption*                                                |
 |                           |                        | Jianming Tong, Tianhao Huang, Jingtian Dang, Leo de Castro, Anirudh Itagi, Anupam Golder, Asra Ali, Jeremy Kun, Jeven Jiang, Shruthi Gorantala, Baiyu Li, Arvind Arvind, Edward Suh and Tushar Krishna|
 |                           |                        | **Short Talk:** *Power Side-Channel and Fault Attacks Against Protected ML-DSA Implementations*                |
