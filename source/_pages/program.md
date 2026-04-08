@@ -41,9 +41,9 @@ permalink: /program/
 | **10:30 - 10:45**         |                        | Break                                                                                                          |
 | **10:45 - 12:00**         | Dean Sullivan          | **Submitted Talks — Session I**                                                                                |
 |                           |                        | **Long Talk:** *Securing Cryptographic Software via Typed Assembly Language*                                   |
-|                           |                        | Shixin Song, Tingzhen Dong, Kori Nwabueze, Julian Zanders, Andres Erbsen, Adam Chipala and Mingjie Yan         |
+|                           |                        | Shixin Song, Tingzhen Dong, Kori Nwabueze, Julian Zanders, Andres Erbsen, Adam Chipala and Mengjia Yan         |
 |                           |                        | **Short Talk:** *A New Wave: Symbolic Wavelets for Key Extraction in Noisy Environments*                       |
-|                           |                        | Lil Peeter and Fatemah Ganji                                                                                   |
+|                           |                        | Lil Peter and Fatemeh Ganji                                                                                   |
 |                           |                        | **Long Talk:** *Leveraging AI ASICs for Homomorphic Encryption*                                                |
 |                           |                        | Jianming Tong, Tianhao Huang, Jingtian Dang, Leo de Castro, Anirudh Itagi, Anupam Golder, Asra Ali, Jeremy Kun, Jeven Jiang, Shruthi Gorantala, Baiyu Li, Arvind Arvind, Edward Suh and Tushar Krishna|
 |                           |                        | **Short Talk:** *Power Side-Channel and Fault Attacks Against Protected ML-DSA Implementations*                |
@@ -59,9 +59,9 @@ permalink: /program/
 |                           | Chakraborty            | **Long Talk:** *MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs*|
 |                           |                        | Ruyi Ding, Tianhong Xu and Yunsi Fei						                                                                  |
 |                           |                        | **Short Talk:** *Defeating Transient Execution Attacks by Limiting Secret Reachability through REGISTER HIDING and SHADOWCFI*						 |
-|                           |                        | Daniel Trujillo, Jagadash Korea, David Kaplan and Mengjie Yan						                                                           |
+|                           |                        | Daniel Trujillo, Jagadish Kotra, David Kaplan and Mengjia Yan						                                                           |
 |                           |                        | **Long Talk:** *ShadowScopre: Robust GPU Monitoring and Validation via Composable Side-Channel Signals*						                                 |
-|                           |                        | Yichang Zhang, Ghadeer Almusaddar, Saber Ganjisaffar, Barry Williams, Yu David Liu, Dmitry Ponomarev and Noel Abu-Ghazeleh                                                               |
+|                           |                        | Yichang Zhang, Ghadeer Almusaddar, Saber Ganjisaffar, Barry Williams, Yu David Liu, Dmitry Ponomarev and Nael Abu-Ghazeleh                                                               |
 |                           |                        | **Short Talk:** *GlitchSnipe: Toward Localized Voltage Fault*						                                       |
 |                           |                        | Fatemeh Khojasteh Dana, Saleh Khalsa Monfared, Hamed Okhravi and Shahin Tajik						 |
 |                           |                        | **Long Talk:** *Reverse Engineering DVFS Mechanisms*														 |
