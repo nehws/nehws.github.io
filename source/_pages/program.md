@@ -67,7 +67,9 @@ permalink: /program/
 |                           |                        | **Long Talk:** *Reverse Engineering DVFS Mechanisms*														 |
 |                           |                        | Ryan Piersma, Tawid Bhuiyan, Tanvir Ahmed and Simha Sethumadhavan						                                                                       |
 | **3:45 - 4:45**           | Shahin Tajik           | **Invited Keynote by [Yuval Yarom](/speakers#yuval-yarom) (RUB)**                                                      |
-| **4:45 - 5:00**           | Seetal Potluri and Yingjie Lao            | **Best Poster Award and Closing Remarks**                                                                   |
+| **4:45 - 5:00**           | Orlando Arias and Yingjie Lao            | **Best Poster Award and Closing Remarks**                                                                   |
+| **5:00 - 5:15**           |                        | Break                                                                   |
+| **5:15 - 6:30**           | Fatemeh Ganji  and Dean Sullivan | **NEHWS’26 Closing Reception: [OPTIMIST](https://optimist-ose.org/) & [WHAAAM](https://sites.google.com/view/whaaam) Project Updates**                                                                  |
 
 <BR>
 <BR>

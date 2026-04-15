@@ -26,36 +26,29 @@ permalink: /organization/
   <a href="https://www.northeastern.edu" target="_blank" rel="noopener">
     <img src="../images/organizer_logo_northeastern.png" style="width: 150px" alt="Northeastern University">
   </a>
+  <a href="https://www.uml.edu/" target="_blank" rel="noopener">
+    <img src="../images/organizer_logo_umass_lowell.png" style="width: 50px" alt="University of Massachusetts Lowell">
+  </a>
   <br>
   <a href="https://www.wpi.edu" target="_blank" rel="noopener">
     <img src="../images/organizer_logo_wpi.png" style="width: 120px" alt="WPI">
   </a>
   <a href="https://www.umass.edu" target="_blank" rel="noopener">
-    <img src="../images/organizer_logo_umass.png" style="width: 150px" alt="University of Massachusetts">
+    <img src="../images/organizer_logo_umass.png" style="width: 150px" alt="University of Massachusetts Amherst">
   </a>
   <a href="https://www.northwestern.edu" target="_blank" rel="noopener">
-    <img src="../images/organizer_logo_nwu.png" style="width: 200px" alt="Northwestern University">
+    <img src="../images/organizer_logo_nwu.png" style="width: 220px" alt="Northwestern University">
   </a>
   <a href="https://www.rpi.edu" target="_blank" rel="noopener">
-    <img src="../images/organizer_logo_rpi.png" style="width: 50px" alt="RPI">
+    <img src="../images/organizer_logo_rpi.png" style="width: 60px" alt="RPI">
   </a>
   <a href="https://www.albany.edu" target="_blank" rel="noopener">
-    <img src="../images/organizer_logo_ualbany.png" style="width: 120px" alt="University at Albany">
+    <img src="../images/organizer_logo_ualbany.png" style="width: 130px" alt="University at Albany">
   </a>
+  
 </figure>
 
 **NEHWS 26 Organizers**
-
-<!-- | General Chair                       | Shahin Tajik  |
-| Local Chair                         | Yingjie Lao |
-| PC Chair                            |   | 
-| PC Co-Chair                         |    | 
-| Industry Co-Chairs                  |     | 
-| Outreach Co-Chair                   |  | 
-| Panel Chair                         |  | 
-| Poster Co-Chair                     |  | 
-| Publicity Co-Chairs  &nbsp; &nbsp;  |  | 
-| Web Co-Chairs                           | Sanjay Deshpande and  Sinuo Fan|  -->
 
 |General Chair     | Shahin Tajik                     |
 |Local Chairs      | Yingjie Lao and Marco Donato     |
@@ -63,7 +56,7 @@ permalink: /organization/
 |Co-program Chair  | Prabuddha Chakraborty            |
 |Panel chair       | Berk Sunar and Patrick Schaumont |
 |Industry Chair    | Shahin Tajik                     |
-|Poster Chair      | Seetal Potluri                   |
+|Poster Chairs     | Seetal Potluri and Orlando Arias |
 |Publication Chair | Fatemeh (Saba) Ganji             |
 |Publicity Chair   | Kanad Basu                       |
 |Web Chair         | Sanjay Deshpande                 |
