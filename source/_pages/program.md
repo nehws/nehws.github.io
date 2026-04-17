@@ -30,7 +30,7 @@ permalink: /program/
 
 | Time                      | Session Chair          | Session Details                                                                                                |
 | ------------------------- | :--------------------: | -----------------------------------------------------------------------------------------------------------    |
-| **9:00 - 9:15**           |  Yingjie Lao           | **Welcome Remarks**                                                                                            |
+| **9:00 - 9:15**           |  Yingjie Lao and Marco Donato          | **Welcome Remarks**                                                                                            |
 | **9:15 - 9:30**           |  Yingjie Lao           | **Opening remarks by [Dean Kyongbum Lee](https://engineering.tufts.edu/about/leadership/dean)**                |
 |                           |                        | **News from the NEHWS Community**                                                                              |
 | **9:30 - 10:30**           | Berk Sunar and         | **Panel Discussion:** *"The Geopolitics of Hardware Security"*                                                |

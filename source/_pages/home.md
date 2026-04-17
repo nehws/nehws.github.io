@@ -50,9 +50,9 @@ Together, they reflect NEHWS’s mission of bringing the hardware security commu
 
 The submission period has closed. You can view the [program here](https://nehws.org/program/).
 
-<!-- * [Download the Call for Contributions.](../images/nehws26_cfp_extended_new.pdf) 
-* Submit your contribution at the <a href="https://easychair.org/conferences/?conf=nehws2026" target="_blank">NEHWS26 submission site</a>.
-* ~~**Deadline for submission is February 10, 2026.**~~ <span style="color: red;">**Final extended submission deadline is February 17, 2026.**</span> -->
+* [Download the Call for Contributions.](../images/nehws26_cfp_extended_new.pdf) 
+<!-- * Submit your contribution at the <a href="https://easychair.org/conferences/?conf=nehws2026" target="_blank">NEHWS26 submission site</a>. -->
+<!-- * ~~**Deadline for submission is February 10, 2026.**~~ <span style="color: red;">**Final extended submission deadline is February 17, 2026.**</span> -->
 
 
 

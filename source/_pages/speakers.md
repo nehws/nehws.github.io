@@ -143,10 +143,6 @@ margin: 5px"}](https://sites.google.com/view/skshukla/)
 
 <BR>
 <BR>
-Additional speakers will be announced shortly. Please check back for updates.
-
-<BR>
-<BR>
 
 <!-- **More Speakers Coming Soon**  -->
 
