@@ -72,8 +72,10 @@ permalink: /venue/
   * 3.57 miles from venue
 
 ### **Parking** ###
-
-NEHWS attendees may park on an hourly basis in the [Dowling Garage, Lower Campus Garage, or Cousens Parking Lot](https://access.tufts.edu/parking-maps). You may purchase hourly parking via the [AIMS Mobile Pay App](https://tufts.aimsparking.com/) (Hourly Visitor Parking -> Search “Tufts”) or in person via payment kiosks located in each facility. 
+<div style="text-align: justify;">
+NEHWS attendees may park in the [Dowling Garage, Lower Campus Garage, or Cousens Parking Lot](https://access.tufts.edu/parking-maps). Note that a permit is required to park on Tufts Campuses. Information on how to activate a permit for the day of the event has been sent to registered attendees over email.
+<!-- You may purchase hourly parking via the [AIMS Mobile Pay App](https://tufts.aimsparking.com/) (Hourly Visitor Parking -> Search “Tufts”) or in person via payment kiosks located in each facility.  -->
+<div>
 
 * **[Dowling Hall Garage](https://maps.app.goo.gl/7wxvvjuXN8VgfxQb6)**
   * 419 Boston Ave, Medford, MA 02155
