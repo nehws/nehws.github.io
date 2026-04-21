@@ -30,6 +30,7 @@ permalink: /program/
 
 | Time                      | Session Chair          | Session Details                                                                                                |
 | ------------------------- | :--------------------: | -----------------------------------------------------------------------------------------------------------    |
+| **8:00 - 9:00**           |                        | **Registration and Breakfast**                                                                                            |
 | **9:00 - 9:15**           |  Yingjie Lao and Marco Donato          | **Welcome Remarks**                                                                                            |
 | **9:15 - 9:30**           |  Yingjie Lao           | **Opening remarks by [Dean Kyongbum Lee](https://engineering.tufts.edu/about/leadership/dean)**                |
 |                           |                        | **News from the NEHWS Community**                                                                              |
